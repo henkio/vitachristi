@@ -1,6 +1,8 @@
 /* Vita Christi — SPA router & views */
 const App = (() => {
-  let register = [], sessions = [], sessionsById = {}, prayers = [];
+  let register = [], sessions = [], sessionsById = {}, prayers = [], retreats = [], jewels = [];
+
+  const EMOTIONS = ['fear','sorrow','wonder','joy','trust','humility','love','rest','hope','courage','repentance','comfort','longing','gratitude','gravity'];
 
   const JOURNEYS = [
     { id:'passion',    title:'The Passion',        sub:'Holy Week, hour by hour',  passion:true,
@@ -31,6 +33,8 @@ const App = (() => {
     register = (await get('data/register.json')) || [];
     sessions = (await get('sessions/index.json')) || [];
     prayers  = (await get('data/prayers.json')) || [];
+    retreats = (await get('data/retreats.json')) || [];
+    jewels   = (await get('data/jewels.json')) || [];
     sessionsById = {}; sessions.forEach(s=>sessionsById[s.id]=s);
     // map sessions onto register chapters for timeline links
     const liveKey = new Set(sessions.map(s=>s.part+'|'+s.chapter));
@@ -42,9 +46,10 @@ const App = (() => {
     return `<div class="topbar"><div class="wrap">
       <a class="brand" href="#/">Vita <span class="x">Christi</span></a>
       <div class="nav">
+        <a href="#/retreats" class="${active==='retreats'?'active':''}">Retreats</a>
         <a href="#/journeys" class="${active==='journeys'?'active':''}">Journeys</a>
+        <a href="#/pray" class="${active==='pray'?'active':''}">Pray</a>
         <a href="#/timeline" class="${active==='timeline'?'active':''}">The Life</a>
-        <a href="#/prayers" class="${active==='prayers'?'active':''}">Prayers</a>
         <a href="#/about" class="${active==='about'?'active':''}">Ludolph</a>
       </div></div></div>`;
   }
@@ -100,6 +105,17 @@ const App = (() => {
         <div class="kicker" style="display:block;margin-bottom:14px">Where to begin</div>
         <div class="grid two">${picks.map(sessionCard).join('')}</div>
       </div>`:''}
+
+      <div class="divider"></div>
+      <div class="section" style="text-align:center">
+        <div class="kicker" style="display:block;margin-bottom:14px">Come as you are</div>
+        <h2 style="font-size:2rem;margin-bottom:8px">Begin with a feeling</h2>
+        <p style="color:var(--ink-soft);max-width:480px;margin:0 auto 22px">Choose what you carry today. A retreat will meet you there.</p>
+        <div class="emos" style="justify-content:center;gap:10px">
+          ${['fear','sorrow','wonder','joy','rest','humility','gratitude','courage','longing'].map(e=>`<a class="emo" href="#/feeling/${e}" style="font-size:.82rem;padding:6px 16px">${e}</a>`).join('')}
+        </div>
+        <div class="btn-row"><a class="btn ghost" href="#/retreats">All retreats</a><a class="btn ghost" href="#/pray">Ways to pray</a></div>
+      </div>
 
       <div class="divider"></div>
       <div class="section" style="text-align:center">
@@ -186,6 +202,80 @@ const App = (() => {
     </div>` + footer();
   }
 
+  function retreatsView(){
+    return nav('retreats') + `<div class="wrap section">
+      <div class="kicker">Guided retreats</div>
+      <h1 style="font-size:2.6rem;margin:6px 0 8px">Retreats</h1>
+      <p style="color:var(--ink-soft);max-width:580px;margin-bottom:14px">A retreat is a path of several days, gathered around one feeling you carry. Pray one a day. Begin where your heart is.</p>
+      <div class="emos" style="margin-bottom:28px">${[...new Set(retreats.map(r=>r.emotion))].map(e=>`<a class="emo" href="#/feeling/${e}">${e}</a>`).join('')}</div>
+      <div class="grid two">
+        ${retreats.map(r=>`<a class="card ${r.passion?'passion':''}" href="#/retreat/${r.id}">
+          <div class="tag">${r.sub}</div>
+          <h3>${r.title}</h3>
+          <p>${r.desc}</p>
+          <div class="foot"><span>${r.days.length} days</span><span>for ${r.emotion}</span></div>
+        </a>`).join('')}
+      </div>
+    </div>` + footer();
+  }
+
+  function retreatDetail(id){
+    const r = retreats.find(x=>x.id===id); if(!r) return notFound();
+    const days = r.days.map(d=>sessionsById[d]).filter(Boolean);
+    return nav('retreats') + `<div class="wrap section">
+      <a href="#/retreats" style="color:var(--muted);font-size:.85rem">← All retreats</a>
+      <div class="kicker" style="margin-top:18px">${r.sub} · for ${r.emotion}</div>
+      <h1 style="font-size:2.8rem;margin:6px 0 10px">${r.title}</h1>
+      <p style="color:var(--ink-soft);max-width:600px;margin-bottom:30px">${r.desc}</p>
+      ${days.map((s,i)=>`<div class="chapter live" onclick="location.hash='#/session/${s.id}'">
+        <span class="cn">Day ${i+1}</span>
+        <span class="ct"><span class="t">${s.title}</span> <span class="s">${s.gospelRef||''}</span></span>
+        <span class="go">pray →</span>
+      </div>`).join('')}
+    </div>` + footer();
+  }
+
+  function prayView(){
+    return nav('pray') + `<div class="wrap section">
+      <div class="kicker">Ways to pray</div>
+      <h1 style="font-size:2.6rem;margin:6px 0 8px">Pray</h1>
+      <p style="color:var(--ink-soft);max-width:560px;margin-bottom:30px">Beyond the full meditations, here are shorter, older ways — each drawn from the tradition Ludolph carried.</p>
+      <div class="ways">
+        <a class="card way" href="#/pray/breath"><div class="ic">◯</div><h3>The Jesus Prayer</h3><p>One line, paced to your breath: “Lord Jesus Christ, Son of God, have mercy on me.” The prayer of the desert fathers.</p></a>
+        <a class="card way passion" href="#/pray/wounds"><div class="ic">✝</div><h3>The Wounds</h3><p>Ludolph's counting devotion — fifteen prayers a day, and in a year you honour every wound of the Passion.</p></a>
+        <a class="card way" href="#/pray/gaze"><div class="ic">✦</div><h3>Gaze</h3><p>One line of Latin, held in silence. No reading, no thinking. Only beholding.</p></a>
+        <a class="card way" href="#/pray/lectio"><div class="ic">☩</div><h3>Lectio</h3><p>Read one Gospel passage three times, slowly, until a single word shines and stays.</p></a>
+      </div>
+      <div style="margin-top:32px"><a class="btn ghost" href="#/prayers">Read Ludolph's prayers →</a></div>
+    </div>` + footer();
+  }
+
+  function feelingsView(e){
+    const rs = retreats.filter(r=>r.emotion===e);
+    const ss = sessions.filter(s=>(s.emotions||[]).includes(e));
+    return nav('') + `<div class="wrap section">
+      <a href="#/retreats" style="color:var(--muted);font-size:.85rem">← Retreats</a>
+      <div class="kicker" style="margin-top:18px">When you come with</div>
+      <h1 style="font-size:2.8rem;margin:6px 0 18px;text-transform:capitalize">${e}</h1>
+      ${rs.length?`<h2 style="font-size:1.3rem;margin:10px 0 12px;color:var(--gold)">Retreats</h2>
+        <div class="grid two" style="margin-bottom:30px">${rs.map(r=>`<a class="card ${r.passion?'passion':''}" href="#/retreat/${r.id}"><div class="tag">${r.sub}</div><h3>${r.title}</h3><p>${r.desc}</p></a>`).join('')}</div>`:''}
+      ${ss.length?`<h2 style="font-size:1.3rem;margin:10px 0 12px;color:var(--gold)">Single sessions</h2>
+        <div class="grid two">${ss.map(sessionCard).join('')}</div>`:`<p style="color:var(--muted)">No sessions yet for this feeling.</p>`}
+    </div>` + footer();
+  }
+
+  async function openPractice(type){
+    if (type==='breath') return Practices.breath();
+    if (type==='wounds') return Practices.wounds();
+    if (type==='gaze')   return Practices.gaze(jewels);
+    if (type==='lectio'){
+      const pool = sessions.filter(s=>s.gospelRef);
+      const pick = pool[Math.floor(Date.now()/86400000)%pool.length] || sessions[0];
+      const full = await fetch('sessions/'+pick.id+'.json').then(r=>r.ok?r.json():null).catch(()=>null);
+      if (full) Practices.lectio(full);
+    }
+  }
+
   function notFound(){ return nav('') + `<div class="wrap section"><h1>Not found</h1><a class="btn" href="#/">Home</a></div>`+footer(); }
 
   // ---------- router ----------
@@ -203,11 +293,16 @@ const App = (() => {
     const parts = h.split('/').filter(Boolean);
     window.scrollTo(0,0);
     if (parts[0]==='session'){ openSession(parts[1]); if(root().dataset.k!=='home'){root().innerHTML=home();root().dataset.k='home';} animate(); return; }
+    if (parts[0]==='pray' && parts[1]){ openPractice(parts[1]); if(!root().dataset.k){root().innerHTML=prayView();root().dataset.k='pray';} animate(); return; }
     let html, k=parts[0]||'home';
     switch(parts[0]){
       case undefined: html=home(); k='home'; break;
+      case 'retreats': html=retreatsView(); break;
+      case 'retreat': html=retreatDetail(parts[1]); break;
       case 'journeys': html=journeys(); break;
       case 'journey': html=journey(parts[1]); break;
+      case 'pray': html=prayView(); break;
+      case 'feeling': html=feelingsView(parts[1]); break;
       case 'timeline': html=timeline(); break;
       case 'prayers': html=prayersView(); break;
       case 'about': html=about(); break;

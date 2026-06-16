@@ -37,13 +37,21 @@ const Player = (() => {
     el.innerHTML = `
       <div class="player-top">
         <span class="label" data-role="mlabel"></span>
-        <button class="player-close" aria-label="Close">&times;</button>
+        <span class="player-controls">
+          <button class="player-sound ${Ambient.isMuted()?'muted':''}" data-role="sound" title="Ambient sound" aria-label="Ambient sound">♪</button>
+          <button class="player-close" aria-label="Close">&times;</button>
+        </span>
       </div>
       <div class="progress" data-role="progress"></div>
       <div class="stage" data-role="stage"><div class="stage-inner" data-role="inner"></div></div>
       <div class="tap-hint" data-role="hint">tap to continue</div>`;
     document.body.appendChild(el);
     el.querySelector('.player-close').addEventListener('click', close);
+    el.querySelector('[data-role=sound]').addEventListener('click', (e)=>{
+      e.stopPropagation();
+      const muted = Ambient.toggleMute();
+      e.currentTarget.classList.toggle('muted', muted);
+    });
     el.querySelector('.stage').addEventListener('click', next);
     document.addEventListener('keydown', e=>{
       if(!el.classList.contains('open'))return;
@@ -76,6 +84,7 @@ const Player = (() => {
   }
 
   function goto(i){
+    if (idx === -1 && i === 0) { try { Ambient.start(session.theme); } catch(e){} }
     idx = i;
     el.querySelector('[data-role=hint]').style.visibility = 'visible';
     renderProgress();
@@ -125,6 +134,7 @@ const Player = (() => {
   }
   function close(){
     if(!el)return;
+    try { Ambient.stop(); } catch(e){}
     el.classList.remove('show');
     document.body.style.overflow='';
     setTimeout(()=>el.classList.remove('open'),500);
