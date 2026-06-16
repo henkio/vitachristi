@@ -1,0 +1,685 @@
+[
+  {
+    "id": "the-annunciation",
+    "part": "I",
+    "chapter": "V",
+    "title": "The Word Made Flesh in Her",
+    "subtitle": "Gabriel comes to Nazareth, and the eternal Word descends into the Virgin's womb",
+    "theme": "Incarnation",
+    "lens": "Receiving",
+    "emotions": [
+      "awe",
+      "joy",
+      "humility"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Luke 1:26–34",
+    "durationMin": 5,
+    "prayerPreview": [
+      "O Jesus, Son of the living God,",
+      "who by the will of the Father, the Holy Spirit working with Him,",
+      "came forth from that same Father's bosom"
+    ]
+  },
+  {
+    "id": "the-nativity",
+    "part": "I",
+    "chapter": "IX",
+    "title": "The King Enrolled Among Us",
+    "subtitle": "A decree goes out, and the Lord of eternity is counted in the census of Caesar",
+    "theme": "Nativity",
+    "lens": "Beholding",
+    "emotions": [
+      "joy",
+      "wonder",
+      "humility"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Luke 2:1–5",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Would that You, Lord Jesus,",
+      "would make me, a wretched one, to be among Your chosen,",
+      "that You might enroll me in eternity."
+    ]
+  },
+  {
+    "id": "the-epiphany",
+    "part": "I",
+    "chapter": "XI",
+    "title": "The Star and the Three Kings",
+    "subtitle": "The Epiphany — the Magi follow a new star from the East to the Child",
+    "theme": "Nativity",
+    "lens": "Beholding",
+    "emotions": [
+      "wonder",
+      "joy"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 2:1–2",
+    "durationMin": 4,
+    "prayerPreview": [
+      "O good Jesus, born of the Virgin,",
+      "who revealed Yourself to the Magi with a star to lead them,",
+      "and made them return to their own country by another way:"
+    ]
+  },
+  {
+    "id": "boy-jesus-temple",
+    "part": "I",
+    "chapter": "XV",
+    "title": "The Boy Lost and Found",
+    "subtitle": "Jesus, twelve years old, remains behind in the Temple among the doctors",
+    "theme": "Hidden Life",
+    "lens": "Beholding",
+    "emotions": [
+      "wonder",
+      "sorrow"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Luke 2:40–46",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, Son of the living God,",
+      "who for three days were sought by your grieving parents,",
+      "and at last were found in the Temple:"
+    ]
+  },
+  {
+    "id": "the-desert",
+    "part": "I",
+    "chapter": "XXII",
+    "title": "The Desert of Forty Days",
+    "subtitle": "Christ led by the Spirit into the wilderness, fasting and tempted, that He might teach us to conquer",
+    "theme": "Temptation",
+    "lens": "Following",
+    "emotions": [
+      "courage",
+      "steadfastness"
+    ],
+    "journeys": [
+      "temptation"
+    ],
+    "gospelRef": "Matthew 4:1–2; Luke 4:1–2",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus, You went into the desert not for Your own need, but for ours.",
+      "Lead me by Your Holy Spirit, and not by any feigning of the evil one,",
+      "into the desert of my own heart and of quiet contemplation,"
+    ]
+  },
+  {
+    "id": "wedding-at-cana",
+    "part": "I",
+    "chapter": "XXV",
+    "title": "The Water Made Wine",
+    "subtitle": "The wedding at Cana, where Christ honors marriage and turns water into wine",
+    "theme": "Miracles",
+    "lens": "Beholding",
+    "emotions": [
+      "joy",
+      "trust"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "John 2:1–4",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who on the third day — that is, in the time of grace —",
+      "came in the flesh to the wedding,"
+    ]
+  },
+  {
+    "id": "the-beatitudes",
+    "part": "I",
+    "chapter": "XXXIII",
+    "title": "Upon the Mountain",
+    "subtitle": "Christ ascends the mountain and opens His mouth to teach the eight Beatitudes",
+    "theme": "Sermon on the Mount",
+    "lens": "Following",
+    "emotions": [
+      "longing",
+      "hope"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 5:1–5",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who, that You might teach the higher summits of the virtues,",
+      "ascended the mountain with Your disciples,"
+    ]
+  },
+  {
+    "id": "the-our-father",
+    "part": "I",
+    "chapter": "XXXVII",
+    "title": "Our Father",
+    "subtitle": "The Lord teaches His disciples to pray on the mountain",
+    "theme": "Sermon on the Mount",
+    "lens": "Receiving",
+    "emotions": [
+      "trust",
+      "rest"
+    ],
+    "journeys": [
+      "storm"
+    ],
+    "gospelRef": "Matthew 6:9",
+    "durationMin": 5,
+    "prayerPreview": [
+      "O Power, O Word of wondrous working!",
+      "Come now, my good Lord Jesus, Word of the Father,",
+      "complete Thou my prayer,"
+    ]
+  },
+  {
+    "id": "widow-of-nain",
+    "part": "I",
+    "chapter": "XLIV",
+    "title": "The Widow of Nain",
+    "subtitle": "At the city gate, the Lord meets a mother carrying her only son to the grave",
+    "theme": "Miracles",
+    "lens": "Compassion",
+    "emotions": [
+      "comfort",
+      "hope"
+    ],
+    "journeys": [
+      "daily",
+      "storm"
+    ],
+    "gospelRef": "Luke 7:11–16",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ, come into Nain, into my soul tossed by temptations;",
+      "draw near to the gate, holding back the senses, that they may not pass into the affections;",
+      "come by grace, touch the heart by correction;"
+    ]
+  },
+  {
+    "id": "the-storm-stilled",
+    "part": "I",
+    "chapter": "XLVI",
+    "title": "The Master Asleep in the Boat",
+    "subtitle": "Christ sleeps in the stern while the storm rages, then rises and commands the wind and the sea",
+    "theme": "Miracles",
+    "lens": "Trust",
+    "emotions": [
+      "fear",
+      "rest",
+      "trust"
+    ],
+    "journeys": [
+      "storm"
+    ],
+    "gospelRef": "Matthew 8:23–27",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "command the blasts and motions of suggestions and temptations;",
+      "come, and walk upon the waves of my heart,"
+    ]
+  },
+  {
+    "id": "peter-sinks",
+    "part": "I",
+    "chapter": "LXIX",
+    "title": "On the Waves of the Night",
+    "subtitle": "Jesus comes walking on the sea and lifts Peter from drowning",
+    "theme": "Miracles",
+    "lens": "Trust",
+    "emotions": [
+      "fear",
+      "trust"
+    ],
+    "journeys": [
+      "storm"
+    ],
+    "gospelRef": "Matthew 14:24–31 (with Mark 6, John 6)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, most merciful,",
+      "deign to climb into the little boat of my heart,",
+      "and still the windy gusts of pride and the storms of rising vices,"
+    ]
+  },
+  {
+    "id": "raising-of-lazarus",
+    "part": "II",
+    "chapter": "XVII",
+    "title": "Lazarus, Our Friend, Sleeps",
+    "subtitle": "The sisters send their grief to Christ, and He waits across the Jordan",
+    "theme": "Miracles",
+    "lens": "Compassion",
+    "emotions": [
+      "grief",
+      "comfort",
+      "hope"
+    ],
+    "journeys": [
+      "daily",
+      "storm"
+    ],
+    "gospelRef": "John 11:1–17",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus, I behold Thy wondrous goodness toward Thine own.",
+      "I do not say, Come and heal; I dare not command Thee.",
+      "I say only: behold, he whom Thou lovest is sick."
+    ]
+  },
+  {
+    "id": "washing-of-feet",
+    "part": "II",
+    "chapter": "LIV",
+    "title": "The Washing of the Feet",
+    "subtitle": "Christ rises from supper and stoops to wash the feet of his disciples",
+    "theme": "The Passion",
+    "lens": "Compassion",
+    "emotions": [
+      "humility",
+      "love"
+    ],
+    "journeys": [
+      "passion",
+      "humility"
+    ],
+    "gospelRef": "John 13:1–8",
+    "durationMin": 5,
+    "prayerPreview": [
+      "O Jesus, gentle example of true humility,",
+      "who didst wash the feet of thy disciples,",
+      "I ask and beseech thee, Lord, purge my affections,"
+    ]
+  },
+  {
+    "id": "passion-meditation",
+    "part": "II",
+    "chapter": "LVIII",
+    "title": "As If You Were Present",
+    "subtitle": "On meditating the Passion of the Lord, in general",
+    "theme": "The Passion",
+    "lens": "Compassion",
+    "emotions": [
+      "sorrow",
+      "love"
+    ],
+    "journeys": [
+      "passion",
+      "temptation"
+    ],
+    "gospelRef": "Galatians 6:14; Psalm 126:5; Romans 8:17",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Most sweet Lord Jesus,",
+      "pour into me, a sinner, I beseech You, the fullness of Your love;",
+      "that I may desire nothing earthly or carnal,"
+    ]
+  },
+  {
+    "id": "gethsemane",
+    "part": "II",
+    "chapter": "LIX",
+    "title": "The Agony in the Garden",
+    "subtitle": "Compline: Christ enters Gethsemane and is sorrowful unto death",
+    "theme": "The Passion",
+    "lens": "Compassion",
+    "emotions": [
+      "fear",
+      "sorrow",
+      "trust"
+    ],
+    "journeys": [
+      "passion",
+      "storm"
+    ],
+    "gospelRef": "Luke 22:39–44 (with Matthew 26 and Mark 14)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who for me, a wretch, willed to be sorrowful and heavy,",
+      "grant me to bear all my sorrows unceasingly toward you;"
+    ]
+  },
+  {
+    "id": "the-arrest",
+    "part": "II",
+    "chapter": "LX",
+    "title": "Matins: The First Interrogation",
+    "subtitle": "The Lord, bound, struck on the cheek before Annas in the dark of night",
+    "theme": "The Passion",
+    "lens": "Compassion",
+    "emotions": [
+      "sorrow",
+      "courage"
+    ],
+    "journeys": [
+      "passion"
+    ],
+    "gospelRef": "John 18:19–23 (with Matthew 26, Mark 14, Luke 22)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "O Lord Jesus, how do You sit so despised and desolate?",
+      "Where are Your disciples and Your friends?",
+      "O my one good! O my one and only joy!"
+    ]
+  },
+  {
+    "id": "before-the-council",
+    "part": "II",
+    "chapter": "LXI",
+    "title": "The Council of the Malignant",
+    "subtitle": "At first light they bind Jesus and lead Him to His death",
+    "theme": "The Passion",
+    "lens": "Compassion",
+    "emotions": [
+      "sorrow"
+    ],
+    "journeys": [
+      "passion"
+    ],
+    "gospelRef": "Luke 22:66–71; Matthew 27:1–4",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who at the first hour of the day suffered yourself to be led, bound, into the council of the Jews,",
+      "and after many injuries and revilings to be led from Caiaphas to Pilate,"
+    ]
+  },
+  {
+    "id": "before-pilate",
+    "part": "II",
+    "chapter": "LXII",
+    "title": "Terce: The Silent Lamb",
+    "subtitle": "Christ stands mute before Pilate, then is scourged and crowned with thorns",
+    "theme": "The Passion",
+    "lens": "Compassion",
+    "emotions": [
+      "sorrow",
+      "courage"
+    ],
+    "journeys": [
+      "passion"
+    ],
+    "gospelRef": "Matthew 27:11–31; Mark 15:1–20; Luke 23:1–25; John 19:1–16",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, who at the third hour of the day willed to be scourged for us,",
+      "free me from the scourges of that eternal wrath which I have deserved;",
+      "by the piercings of your most sacred head, pierce my mind,"
+    ]
+  },
+  {
+    "id": "the-dying-christ",
+    "part": "II",
+    "chapter": "LXIV",
+    "title": "Into Your Hands",
+    "subtitle": "None: the Lord bows His head and gives up His spirit upon the Cross",
+    "theme": "The Passion",
+    "lens": "Compassion",
+    "emotions": [
+      "sorrow",
+      "love"
+    ],
+    "journeys": [
+      "passion"
+    ],
+    "gospelRef": "Luke 23:46; Matthew 27:50; Mark 15:37; John 19:30",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who at the ninth hour of the day, hanging upon the gibbet,",
+      "and crying with a loud voice, commended Your spirit into the hands of the Father,"
+    ]
+  },
+  {
+    "id": "the-deposition",
+    "part": "II",
+    "chapter": "LXV",
+    "title": "The Lowering of the Body",
+    "subtitle": "Vespers — Joseph of Arimathea takes the Lord down from the cross",
+    "theme": "The Passion",
+    "lens": "Compassion",
+    "emotions": [
+      "sorrow",
+      "rest"
+    ],
+    "journeys": [
+      "passion"
+    ],
+    "gospelRef": "Matthew 27; Mark 15; Luke 23; John 19",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who at the evening hour willed to be taken down from the cross by Joseph,",
+      "and to be received between his arms;"
+    ]
+  },
+  {
+    "id": "the-burial",
+    "part": "II",
+    "chapter": "LXVI",
+    "title": "The Anointing and the Tomb",
+    "subtitle": "The hour of Compline: His body wrapped, carried, and laid in the new sepulchre",
+    "theme": "The Passion",
+    "lens": "Compassion",
+    "emotions": [
+      "sorrow",
+      "rest"
+    ],
+    "journeys": [
+      "passion"
+    ],
+    "gospelRef": "John 19:38–42; Matthew 27:59–60; Mark 15:46; Luke 23:53",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who at the hour of Compline willed to be anointed and prepared with spices,",
+      "to be wrapped and bound in the shroud and the other linens,"
+    ]
+  },
+  {
+    "id": "praise-of-the-cross",
+    "part": "II",
+    "chapter": "LXVII",
+    "title": "The Praise of the Cross",
+    "subtitle": "An epilogue to the Passion: how His suffering makes Him lovable to us",
+    "theme": "The Passion",
+    "lens": "Beholding",
+    "emotions": [
+      "love",
+      "gratitude"
+    ],
+    "journeys": [
+      "passion"
+    ],
+    "gospelRef": "Matthew 26:53; cf. Luke 23:1–46; Isaiah 53:5",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who for the redemption of the world willed to bear patiently miseries and anguish,",
+      "reproaches and insults, slanders and injuries, pains and afflictions, the Passion and death:"
+    ]
+  },
+  {
+    "id": "holy-saturday",
+    "part": "II",
+    "chapter": "LXVIII",
+    "title": "The One Lamp Still Burning",
+    "subtitle": "Holy Saturday — while all faith flickered, Mary alone kept the flame",
+    "theme": "The Passion",
+    "lens": "Compassion",
+    "emotions": [
+      "silence",
+      "hope",
+      "sorrow"
+    ],
+    "journeys": [
+      "passion"
+    ],
+    "gospelRef": "Mark 16:1; cf. Matthew 12:40",
+    "durationMin": 4,
+    "prayerPreview": [
+      "O good Jesus,",
+      "the ineffable mercy of Your tenderness was not yet satisfied,",
+      "until, breaking through the bars of hell also,"
+    ]
+  },
+  {
+    "id": "the-resurrection",
+    "part": "II",
+    "chapter": "LXIX",
+    "title": "The New Day After the Sabbath",
+    "subtitle": "Christ rises from the sealed tomb at the first light of morning",
+    "theme": "Resurrection",
+    "lens": "Beholding",
+    "emotions": [
+      "joy",
+      "wonder"
+    ],
+    "journeys": [
+      "risen"
+    ],
+    "gospelRef": "Matthew 28:1-2",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, sole sweetness,",
+      "who, the chains of death being broken, glorified your body,",
+      "and rose in glory so unspeakable:"
+    ]
+  },
+  {
+    "id": "risen-to-his-mother",
+    "part": "II",
+    "chapter": "LXX",
+    "title": "The First to See Him Risen",
+    "subtitle": "Easter morning: the risen Lord comes first of all to His grieving Mother",
+    "theme": "Resurrection",
+    "lens": "Beholding",
+    "emotions": [
+      "joy",
+      "comfort",
+      "love"
+    ],
+    "journeys": [
+      "risen"
+    ],
+    "gospelRef": "Cf. John 21:25; Mark 16:9 (Ludolf's pious tradition of the Resurrection)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "O Mary, Mother of God and gracious Virgin,",
+      "true consoler of all the desolate who cry out to you:",
+      "by that great joy with which you were consoled,"
+    ]
+  },
+  {
+    "id": "risen-to-magdalene",
+    "part": "II",
+    "chapter": "LXXII",
+    "title": "All Hail",
+    "subtitle": "The risen Lord meets the women returning from the tomb, and they hold His feet",
+    "theme": "Resurrection",
+    "lens": "Beholding",
+    "emotions": [
+      "love",
+      "joy",
+      "longing"
+    ],
+    "journeys": [
+      "risen"
+    ],
+    "gospelRef": "Matthew 28:9–10; John 20:18",
+    "durationMin": 5,
+    "prayerPreview": [
+      "O Jesus, our redemption, our love and our longing,",
+      "who to the devout women seeking You, desiring You,",
+      "and returning from Your tomb,"
+    ]
+  },
+  {
+    "id": "the-road-to-emmaus",
+    "part": "II",
+    "chapter": "LXXVI",
+    "title": "The Stranger on the Road",
+    "subtitle": "Two disciples walk to Emmaus, grieving, and the risen Lord joins them unrecognized",
+    "theme": "Resurrection",
+    "lens": "Beholding",
+    "emotions": [
+      "hope",
+      "joy"
+    ],
+    "journeys": [
+      "risen"
+    ],
+    "gospelRef": "Luke 24:13–27",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus, faithful friend, faithful companion, kind Lord,",
+      "you could not bear to see your own so grieved and so astray.",
+      "When I am weighed down by perplexity and weariness,"
+    ]
+  },
+  {
+    "id": "doubting-thomas",
+    "part": "II",
+    "chapter": "LXXVIII",
+    "title": "The Wound and the Word",
+    "subtitle": "The eighth day: Thomas touches the scars and cries out, \"My Lord and my God\"",
+    "theme": "Resurrection",
+    "lens": "Receiving",
+    "emotions": [
+      "trust",
+      "joy"
+    ],
+    "journeys": [
+      "risen"
+    ],
+    "gospelRef": "John 20:24–29",
+    "durationMin": 5,
+    "prayerPreview": [
+      "My Lord and my God.",
+      "Thou art my Lord, who redeemed me with Thy blood and made me Thine own;",
+      "Thou art my God, who created me and formed me from the slime of the earth."
+    ]
+  },
+  {
+    "id": "pentecost",
+    "part": "II",
+    "chapter": "LXXXIV",
+    "title": "The Fire That Does Not Consume",
+    "subtitle": "Pentecost: the Holy Spirit descends in tongues of flame upon the disciples",
+    "theme": "Consummation",
+    "lens": "Receiving",
+    "emotions": [
+      "joy",
+      "fire",
+      "courage"
+    ],
+    "journeys": [
+      "risen"
+    ],
+    "gospelRef": "Acts 2:1–4",
+    "durationMin": 5,
+    "prayerPreview": [
+      "O Holy Spirit, the Spirit of truth,",
+      "come now and descend, fill us and console us,",
+      "strengthen us and instruct us,"
+    ]
+  }
+]

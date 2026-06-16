@@ -1,0 +1,91 @@
+{
+  "id": "praise-of-the-cross",
+  "part": "II",
+  "chapter": "LXVII",
+  "title": "The Praise of the Cross",
+  "subtitle": "An epilogue to the Passion: how His suffering makes Him lovable to us",
+  "theme": "The Passion",
+  "lens": "Beholding",
+  "emotions": [
+    "love",
+    "gratitude"
+  ],
+  "journeys": [
+    "passion"
+  ],
+  "gospelRef": "Matthew 26:53; cf. Luke 23:1–46; Isaiah 53:5",
+  "durationMin": 5,
+  "movements": {
+    "stillness": [
+      "Be still, my soul, and consider the time.",
+      "Attend and understand the most blessed time of the Passion.",
+      "Let the noise fall away; only one thing now is needed."
+    ],
+    "gospel": [
+      "The just and innocent One is handed over and bound,",
+      "like a lamb led to the sacrifice,",
+      "like a thief led to the gallows.",
+      "Yet He seeks no revenge, He shows no impatience.",
+      "He could have asked the Father for twelve legions of angels,",
+      "yet He is bound like a thief, accused like a thief,",
+      "condemned like a thief, cast out like a thief,",
+      "punished among thieves, as though the prince of thieves.",
+      "He was wounded for our sins,",
+      "crushed for our wickedness;",
+      "and at the ninth hour, with a great cry and with tears, He breathed His last."
+    ],
+    "behold": [
+      "Attend and understand, O my soul, the time of His Passion.",
+      "Behold Him who suffered in every age, in every limb, in every hour.",
+      "In infancy: the narrow womb, the poverty and harshness of the manger, the flight into Egypt.",
+      "In youth: the most bitter and most shameful Passion.",
+      "Behold His whole body given over to pain:",
+      "in the eyes, the pouring out of tears;",
+      "in the ears, insults and blasphemies;",
+      "on the cheeks, the sting of blows;",
+      "in the nostrils, the stench of spittle;",
+      "in the mouth, the bitterness of vinegar and gall;",
+      "in the hands and feet, the nails and the wounds;",
+      "in the whole body, the scourging.",
+      "Behold the places of His pain: the manger, the desert, the temple, the garden, the hall, the praetorium, the place of crucifixion.",
+      "Behold the perversity, the boundless wickedness: the Judge is judged, the King is mocked, the High Priest is tortured."
+    ],
+    "consider": [
+      "Consider now what the Lord suffered for the salvation of man.",
+      "These things He suffered for us make Him exceedingly lovable, and bind us more strongly to love Him.",
+      "His pain did not begin only at His seizing and betrayal;",
+      "it lasted from the instant of His conception until His death.",
+      "For He knew, with unfailing certainty, the most bitter death He had chosen to bear,",
+      "and so in every hour He naturally grieved over it.",
+      "Remember now, O man: though you were made out of nothing, you were not redeemed out of nothing.",
+      "In six days He made all things, and you among them;",
+      "but for thirty whole years He labored your salvation in the midst of the earth.",
+      "O how much He labored, enduring!",
+      "Bound, that He might loose the chains of sinners;",
+      "pierced with thorns, nails, and lance, that in us there might be upright purpose and clear love;",
+      "scourged, that He might drive from me the scourges of His wrath.",
+      "Weep then and grieve, O my soul, and let your eyes run down with tears,",
+      "and let them not be silent over your brother, exceedingly comely, lovely beyond the love of women.",
+      "His wounds are the effective medicine of our wounds."
+    ],
+    "prayer": [
+      "Lord Jesus Christ,",
+      "who for the redemption of the world willed to bear patiently miseries and anguish,",
+      "reproaches and insults, slanders and injuries, pains and afflictions, the Passion and death:",
+      "through all these things which you endured for our sins,",
+      "free me from all sins and vices,",
+      "from all the perils of this world, from infernal punishments,",
+      "from sudden and from eternal death.",
+      "And grant to me, I beseech you,",
+      "not to flee or to forget all that you endured for me,",
+      "but to hold it always before my eyes, and to embrace it ardently;",
+      "so that, sharing in your labor and your sorrow,",
+      "you may will me also to be a partaker of your rest and your consolation.",
+      "Amen."
+    ]
+  },
+  "latinJewel": {
+    "latin": "Plus itaque mihi contulit Deus redimendo, quam creando: creando quippe me mihi dedit, redimendo autem et seipsum dedit, et me mihi reddidit.",
+    "english": "God gave me more in redeeming than in creating: for in creating He gave me to myself, but in redeeming He gave both Himself, and gave me back to myself."
+  }
+}

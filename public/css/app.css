@@ -1,0 +1,225 @@
+/* ============================================================
+   Vita Christi — "candlelit" design system
+   A chapel at night, an illuminated manuscript, reverent intensity.
+   ============================================================ */
+:root{
+  --bg:#0c0a08;
+  --bg-2:#13100b;
+  --panel:#17130d;
+  --panel-2:#1d180f;
+  --ink:#ece0c9;          /* warm parchment text */
+  --ink-soft:#c9bda4;
+  --muted:#8a7c64;
+  --faint:#5c5343;
+  --gold:#c9a24b;
+  --gold-bright:#e3c074;
+  --red:#8a3328;          /* liturgical / Passion */
+  --red-deep:#5e221b;
+  --line:rgba(201,162,75,.16);
+  --line-strong:rgba(201,162,75,.32);
+  --shadow:0 24px 60px -20px rgba(0,0,0,.8);
+  --serif:'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  --body:'Spectral', Georgia, serif;
+  --maxw:760px;
+}
+
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  background:var(--bg);
+  color:var(--ink);
+  font-family:var(--body);
+  font-size:18px;
+  line-height:1.7;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+  min-height:100vh;
+  overflow-x:hidden;
+}
+/* candle glow */
+body::before{
+  content:"";position:fixed;inset:0;z-index:-2;
+  background:
+    radial-gradient(120% 80% at 50% -10%, rgba(201,162,75,.10), transparent 55%),
+    radial-gradient(100% 60% at 50% 120%, rgba(138,51,40,.08), transparent 60%),
+    var(--bg);
+}
+body::after{ /* vignette */
+  content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+  box-shadow:inset 0 0 220px 60px rgba(0,0,0,.7);
+}
+
+a{color:inherit;text-decoration:none}
+img{max-width:100%;display:block}
+
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 24px}
+
+/* ---------- top bar ---------- */
+.topbar{
+  position:sticky;top:0;z-index:40;
+  backdrop-filter:blur(10px);
+  background:linear-gradient(to bottom, rgba(12,10,8,.92), rgba(12,10,8,.55));
+  border-bottom:1px solid var(--line);
+}
+.topbar .wrap{display:flex;align-items:center;justify-content:space-between;height:62px}
+.brand{font-family:var(--serif);font-weight:600;font-size:1.35rem;letter-spacing:.02em;color:var(--ink)}
+.brand .x{color:var(--gold)}
+.nav{display:flex;gap:22px;font-size:.82rem;text-transform:uppercase;letter-spacing:.16em;color:var(--muted)}
+.nav a{transition:color .25s}
+.nav a:hover,.nav a.active{color:var(--gold-bright)}
+@media(max-width:620px){ .nav{gap:14px;font-size:.7rem;letter-spacing:.1em} .brand{font-size:1.15rem} }
+
+/* ---------- generic ---------- */
+.kicker{font-size:.74rem;text-transform:uppercase;letter-spacing:.28em;color:var(--gold);opacity:.85}
+.eyebrow{font-size:.72rem;text-transform:uppercase;letter-spacing:.24em;color:var(--muted)}
+h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;letter-spacing:.005em;color:var(--ink)}
+.section{padding:64px 0}
+.divider{height:1px;background:linear-gradient(to right,transparent,var(--line-strong),transparent);margin:8px 0}
+
+/* ---------- hero ---------- */
+.hero{position:relative;text-align:center;padding:96px 0 54px}
+.hero .cross{font-size:2.4rem;color:var(--gold);opacity:.8;margin-bottom:18px}
+.hero h1{font-size:clamp(2.8rem,8vw,4.6rem);font-weight:500}
+.hero .latin{font-style:italic;color:var(--gold-bright);font-family:var(--serif);font-size:1.5rem;margin-top:6px;opacity:.9}
+.hero p.lead{max-width:540px;margin:22px auto 0;color:var(--ink-soft);font-size:1.12rem}
+.hero .meta{margin-top:10px;color:var(--muted);font-size:.9rem;font-style:italic}
+
+/* ---------- buttons ---------- */
+.btn{
+  display:inline-flex;align-items:center;gap:10px;
+  font-family:var(--body);font-size:.95rem;letter-spacing:.02em;
+  padding:14px 26px;border-radius:2px;border:1px solid var(--gold);
+  color:var(--gold-bright);background:transparent;cursor:pointer;transition:all .3s;
+}
+.btn:hover{background:var(--gold);color:#1a1408;box-shadow:0 0 30px -6px rgba(201,162,75,.5)}
+.btn.solid{background:var(--gold);color:#1a1408}
+.btn.solid:hover{background:var(--gold-bright)}
+.btn.ghost{border-color:var(--line-strong);color:var(--ink-soft)}
+.btn.ghost:hover{border-color:var(--gold);color:var(--gold-bright);background:transparent;box-shadow:none}
+.btn-row{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:30px}
+
+/* ---------- cards / grids ---------- */
+.grid{display:grid;gap:18px}
+.grid.two{grid-template-columns:1fr 1fr}
+.grid.three{grid-template-columns:repeat(3,1fr)}
+@media(max-width:680px){.grid.two,.grid.three{grid-template-columns:1fr}}
+
+.card{
+  position:relative;display:block;
+  background:linear-gradient(160deg,var(--panel),var(--bg-2));
+  border:1px solid var(--line);border-radius:4px;padding:26px 24px;
+  transition:transform .35s,border-color .35s,box-shadow .35s;overflow:hidden;
+}
+.card:hover{transform:translateY(-3px);border-color:var(--line-strong);box-shadow:var(--shadow)}
+.card .tag{font-size:.7rem;text-transform:uppercase;letter-spacing:.2em;color:var(--gold);margin-bottom:10px}
+.card h3{font-size:1.5rem;margin-bottom:6px}
+.card p{color:var(--ink-soft);font-size:.98rem}
+.card .foot{margin-top:16px;display:flex;gap:14px;color:var(--muted);font-size:.82rem;font-style:italic}
+.card.passion{background:linear-gradient(160deg,#1c100d,#140b09);border-color:rgba(138,51,40,.3)}
+.card.passion .tag{color:#cf7a5e}
+
+.emos{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
+.emo{font-size:.72rem;letter-spacing:.08em;text-transform:lowercase;color:var(--ink-soft);
+  border:1px solid var(--line);border-radius:999px;padding:3px 11px;opacity:.9}
+
+/* ---------- feature row ---------- */
+.feature{display:flex;gap:18px;align-items:flex-start;padding:22px 0;border-top:1px solid var(--line)}
+.feature .num{font-family:var(--serif);font-size:1.7rem;color:var(--gold);min-width:46px}
+.feature h3{font-size:1.3rem;margin-bottom:4px}
+.feature p{color:var(--ink-soft);font-size:.98rem}
+
+/* ---------- timeline ---------- */
+.act{margin:46px 0}
+.act-head{display:flex;align-items:baseline;gap:14px;margin-bottom:8px;border-bottom:1px solid var(--line);padding-bottom:10px}
+.act-head .n{font-family:var(--serif);color:var(--gold);font-size:1.1rem}
+.act-head h2{font-size:1.7rem}
+.chapter{
+  display:flex;align-items:center;gap:14px;padding:11px 4px;border-bottom:1px solid rgba(201,162,75,.06);
+  transition:background .25s;border-radius:3px;
+}
+.chapter:hover{background:rgba(201,162,75,.05)}
+.chapter .cn{font-family:var(--serif);color:var(--muted);min-width:54px;font-size:.95rem;letter-spacing:.05em}
+.chapter .ct{flex:1}
+.chapter .ct .t{color:var(--ink)}
+.chapter .ct .s{color:var(--muted);font-size:.8rem;font-style:italic}
+.chapter .go{color:var(--gold);opacity:0;transition:opacity .25s;font-size:.8rem}
+.chapter.live{cursor:pointer}
+.chapter.live .go{opacity:.7}
+.chapter.live:hover .go{opacity:1}
+.chapter.soon .cn,.chapter.soon .ct .t{opacity:.45}
+
+/* ---------- prayers ---------- */
+.prayer-card{background:linear-gradient(160deg,var(--panel),var(--bg-2));border:1px solid var(--line);
+  border-left:2px solid var(--gold);border-radius:3px;padding:22px 24px;margin-bottom:16px}
+.prayer-card .ref{font-size:.74rem;text-transform:uppercase;letter-spacing:.2em;color:var(--gold);margin-bottom:10px}
+.prayer-card p{font-family:var(--serif);font-size:1.35rem;line-height:1.5;color:var(--ink);font-style:italic}
+
+/* ============================================================
+   SESSION PLAYER — full-screen immersive
+   ============================================================ */
+.player{
+  position:fixed;inset:0;z-index:100;background:var(--bg);
+  display:none;flex-direction:column;
+  opacity:0;transition:opacity .6s ease;
+}
+.player.open{display:flex}
+.player.show{opacity:1}
+.player.passion{background:#0e0807}
+.player.passion::before{content:"";position:fixed;inset:0;z-index:0;
+  background:radial-gradient(120% 80% at 50% 0%, rgba(138,51,40,.18), transparent 60%)}
+.player::before{content:"";position:fixed;inset:0;z-index:0;
+  background:radial-gradient(120% 80% at 50% 0%, rgba(201,162,75,.08), transparent 60%)}
+
+.player-top{position:relative;z-index:2;display:flex;align-items:center;justify-content:space-between;
+  padding:18px 24px;color:var(--muted)}
+.player-top .label{font-size:.72rem;text-transform:uppercase;letter-spacing:.26em}
+.player-close{cursor:pointer;color:var(--muted);font-size:1.5rem;line-height:1;transition:color .25s;background:none;border:none}
+.player-close:hover{color:var(--gold)}
+
+.progress{position:relative;z-index:2;display:flex;gap:6px;padding:0 24px 6px}
+.progress .seg{flex:1;height:2px;background:var(--line);border-radius:2px;overflow:hidden}
+.progress .seg .fill{display:block;height:100%;width:0;background:var(--gold);transition:width .5s}
+.progress .seg.done .fill{width:100%}
+.progress .seg.active .fill{width:100%}
+
+.stage{position:relative;z-index:2;flex:1;display:flex;align-items:center;justify-content:center;
+  text-align:center;padding:30px 28px;cursor:pointer;overflow-y:auto}
+.stage-inner{max-width:620px;margin:auto}
+.movement-name{font-size:.74rem;text-transform:uppercase;letter-spacing:.3em;color:var(--gold);
+  opacity:.7;margin-bottom:28px}
+.line{
+  font-family:var(--serif);font-size:clamp(1.5rem,4.6vw,2.15rem);line-height:1.4;font-weight:500;
+  color:var(--ink);margin:0 auto 14px;max-width:600px;
+  opacity:0;transform:translateY(14px);
+}
+.line.in{animation:rise .9s ease forwards}
+.line.gospel{font-style:italic;color:var(--ink-soft)}
+.line.gospel-lead{font-size:.78rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-style:normal;font-family:var(--body)}
+.line.prayer{font-style:italic;color:var(--gold-bright)}
+.line.jewel-latin{font-style:italic;color:var(--gold);font-size:clamp(1.4rem,4vw,1.9rem)}
+.line.jewel-en{color:var(--muted);font-size:1.15rem;font-style:normal;margin-top:-2px}
+@keyframes rise{to{opacity:1;transform:translateY(0)}}
+
+.tap-hint{position:relative;z-index:2;text-align:center;color:var(--faint);font-size:.78rem;
+  letter-spacing:.18em;text-transform:uppercase;padding:0 0 30px;animation:pulse 2.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.35}50%{opacity:.75}}
+
+.session-end{text-align:center}
+.session-end .cross{font-size:2rem;color:var(--gold);margin-bottom:18px}
+.session-end h2{font-size:2rem;margin-bottom:10px}
+.session-end p{color:var(--ink-soft);margin-bottom:26px}
+
+/* intro card before a session */
+.session-intro{position:relative;z-index:2;max-width:560px;margin:auto;text-align:center;padding:40px 28px}
+.session-intro .tag{font-size:.72rem;text-transform:uppercase;letter-spacing:.24em;color:var(--gold);margin-bottom:14px}
+.session-intro h1{font-size:clamp(2.2rem,6vw,3.2rem);margin-bottom:8px}
+.session-intro .sub{font-style:italic;color:var(--ink-soft);font-size:1.2rem;margin-bottom:18px;font-family:var(--serif)}
+.session-intro .ref{color:var(--muted);font-size:.9rem;margin-bottom:26px}
+
+/* footer */
+.foot-site{border-top:1px solid var(--line);padding:40px 0 60px;text-align:center;color:var(--muted);font-size:.86rem}
+.foot-site .brand{display:block;margin-bottom:8px;font-size:1.2rem}
+.foot-site a{color:var(--gold);opacity:.85}
+
+.fade-in{opacity:0;transform:translateY(16px);transition:opacity .8s,transform .8s}
+.fade-in.vis{opacity:1;transform:none}

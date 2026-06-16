@@ -1,0 +1,101 @@
+{
+  "id": "before-pilate",
+  "part": "II",
+  "chapter": "LXII",
+  "title": "Terce: The Silent Lamb",
+  "subtitle": "Christ stands mute before Pilate, then is scourged and crowned with thorns",
+  "theme": "The Passion",
+  "lens": "Compassion",
+  "emotions": [
+    "sorrow",
+    "courage"
+  ],
+  "journeys": [
+    "passion"
+  ],
+  "gospelRef": "Matthew 27:11–31; Mark 15:1–20; Luke 23:1–25; John 19:1–16",
+  "durationMin": 5,
+  "movements": {
+    "stillness": [
+      "Come now into the third hour, mournful and sad.",
+      "Like a lamb before its shearer, He fell silent.",
+      "Be still, and let Him not open His mouth in you either."
+    ],
+    "gospel": [
+      "They led the Lord back to Pilate.",
+      "And the dogs, rejoicing in the pact of Herod and Pilate,",
+      "pressed their accusations with great boldness.",
+      "Yet neither Pilate nor Herod, questioning Him closely,",
+      "could find in Him any cause of death.",
+      "When He was accused by the chief priests and the elders, He answered nothing.",
+      "Then Pilate said to Him: Do you not hear how many things they testify against you?",
+      "And He answered him not a word,",
+      "so that the governor wondered exceedingly.",
+      "Now at the feast the governor was wont to release one prisoner, whom the people would.",
+      "He had then a notorious prisoner, called Barabbas.",
+      "Pilate said: Whom will you that I release to you: Barabbas, or Jesus who is called Christ?",
+      "And as he sat on the judgment seat, his wife sent to him, saying:",
+      "Have nothing to do with that just man,",
+      "for I have suffered many things this day in a dream because of Him."
+    ],
+    "behold": [
+      "And so, as Anselm says, look attentively how He stands before Pilate the governor:",
+      "His head bowed, His eyes cast down,",
+      "His face calm, His speech rare,",
+      "ready for insults, prompt for the lashes.",
+      "Behold the Judge of all, standing before a worthless and unworthy judge,",
+      "meek and silent, accused, answering nothing.",
+      "Sometimes the Lord answers, sometimes He answers not.",
+      "Where He answers, like a good shepherd He teaches, and fights for the sheep entrusted to Him;",
+      "where He answers not, like a lamb to be slain for the whole flock He keeps silence, and offers up His patience.",
+      "Now behold: stripped, and bound to the column.",
+      "Who was so bold as to strip you? Who so reckless as to bind you to the pillar?",
+      "Who so sacrilegious as to scourge you?",
+      "They took the reed from His hand and struck His sacred head,",
+      "driving the thorns deeper in, that the spikes might pierce more fiercely.",
+      "For vile persons are wont to be beaten with sticks, like beasts."
+    ],
+    "consider": [
+      "Pilate himself confesses that he found nothing in Christ worthy of death;",
+      "yet whom he absolved by judgment, he crucified by his office.",
+      "Hear, O blind Jew; hear, O cruel pagan.",
+      "Accused, the Lord is silent, for He has no need of defence.",
+      "He does not confirm the charge by His silence, but despises it by not refuting it.",
+      "They are eager to be defended who fear to be conquered.",
+      "Better is the cause that is not defended, and yet is proved.",
+      "Susanna kept silent, and conquered.",
+      "He kept silence justly, for through their false accusations they were unworthy to hear Him.",
+      "He kept silence mercifully, lest from His answer they should grow worse.",
+      "He kept silence by design, lest, excusing Himself, He be released, and the profit of the cross — our salvation, our redemption — be deferred.",
+      "He kept silence as an example, that He might give us a pattern of patience.",
+      "The devil, now understanding that through Christ he would lose his spoils,",
+      "repented that he had caused Him to be seized,",
+      "and sent dreams to this woman, that through her the death of Christ might be hindered.",
+      "As once through a woman he had brought death into the world,",
+      "so now he strives to free Christ through a woman,",
+      "lest by the death of Christ he lose the empire of death.",
+      "But already, by the will and power of God, it was decreed otherwise.",
+      "O Sun of justice, you withdrew your rays,",
+      "and therefore there is darkness, and the powers of darkness;",
+      "the lashes of eternal affliction were owed to us —",
+      "you willed to be scourged for us, that you might so mercifully snatch us from them."
+    ],
+    "prayer": [
+      "Lord Jesus Christ, who at the third hour of the day willed to be scourged for us,",
+      "free me from the scourges of that eternal wrath which I have deserved;",
+      "by the piercings of your most sacred head, pierce my mind,",
+      "that I may have strength to shun the delights that harm me,",
+      "and grant me, after penance, to attain to the crown.",
+      "You who, mocked in so many ways, were at last sentenced and condemned to death,",
+      "make me escape the devil's mockery and eternal death.",
+      "You bore your cross, O Lord: grant me to take up my cross and follow you —",
+      "my own cross, the one owed to my sins,",
+      "and my own cross willingly and devoutly borne,",
+      "that through it I may come to glory. Amen."
+    ]
+  },
+  "latinJewel": {
+    "latin": "Sicut agnus coram tondente se obmutescet, et non aperiet os suum.",
+    "english": "Like a lamb before its shearer, He shall be dumb, and shall not open His mouth."
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "risen-to-his-mother",
+  "part": "II",
+  "chapter": "LXX",
+  "title": "The First to See Him Risen",
+  "subtitle": "Easter morning: the risen Lord comes first of all to His grieving Mother",
+  "theme": "Resurrection",
+  "lens": "Beholding",
+  "emotions": [
+    "joy",
+    "comfort",
+    "love"
+  ],
+  "journeys": [
+    "risen"
+  ],
+  "gospelRef": "Cf. John 21:25; Mark 16:9 (Ludolf's pious tradition of the Resurrection)",
+  "durationMin": 5,
+  "movements": {
+    "stillness": [
+      "Be still, for she is still.",
+      "While the other women hurry to the tomb with their spices,",
+      "the Mother has remained at home,",
+      "given over, meanwhile, to tears and to prayer.",
+      "Stay here with her, in the quiet of that secret room."
+    ],
+    "gospel": [
+      "Not all His deeds are written down.",
+      "Of this appearing, by which He is believed to have come before all others to the glorious Virgin,",
+      "nothing is held in the Gospel.",
+      "Yet so it is pious to believe.",
+      "\"Mary saw the Resurrection of the Lord; first she saw it, and believed.\"",
+      "It was fitting that He should visit His Mother before the rest,",
+      "and gladden first with His Resurrection",
+      "her who loved Him before the rest."
+    ],
+    "behold": [
+      "Behold: she remained alone, in a hidden corner of the house,",
+      "her body broken with so much grief, with vigils and with fasting,",
+      "so spent that scarcely could she hold herself up;",
+      "for on Good Friday and the Sabbath she had so beaten her breast,",
+      "so torn her tender flesh, that as if half-dead she was carried in the disciples' hands.",
+      "And now, behold suddenly: the Lord Jesus comes,",
+      "in garments most white, the glory and newness of His Resurrection,",
+      "His face serene, beautiful, glorious, and rejoicing,",
+      "and to His desolate and mourning Mother He appears, all festal.",
+      "She, adoring and rising up with tears, embraces Him for joy;",
+      "and all the bitterness of her sorrow is turned into gladness."
+    ],
+    "consider": [
+      "Consider how, when they had sat down together,",
+      "she gazed and gazed upon Him, in His face and in His scars, over all His body,",
+      "searching carefully whether every pain had passed,",
+      "whether every sorrow had departed from Him.",
+      "O with how great a joy the Mother is filled,",
+      "when she beholds her Child beyond all suffering,",
+      "not only to live forever, but to reign over heaven and earth and every creature!",
+      "They stand and speak together, rejoicing,",
+      "and keep the Pasch sweetly and lovingly;",
+      "and the Lord tells her how He freed His people out of hell,",
+      "and what He did in those three days.",
+      "Behold, then, now is the great Pasch."
+    ],
+    "prayer": [
+      "O Mary, Mother of God and gracious Virgin,",
+      "true consoler of all the desolate who cry out to you:",
+      "by that great joy with which you were consoled,",
+      "when you knew the Lord Jesus had risen on the third day from the dead, beyond all suffering,",
+      "be the consoler of my soul;",
+      "and before that same your Son, the only-begotten of God,",
+      "on the last day, when I shall rise again with soul and body,",
+      "and must render an account of each of my deeds,",
+      "deign to help me,",
+      "that through you, holy Mother and Virgin,",
+      "I may escape the sentence of everlasting damnation,",
+      "and with all God's chosen come happily to joys eternal. Amen."
+    ]
+  },
+  "latinJewel": {
+    "latin": "Domina igitur orante et lacrymas dulciter emittente, ecce subito venit Dominus Jesus in albissimis vestibus gloriae et Resurrectionis novitatis suae; vultu sereno, speciosus, gloriosus, et gaudens, ac Matri desolatae et moerenti totus festivus apparens.",
+    "english": "And so, as our Lady was praying and sweetly pouring out her tears, behold, suddenly the Lord Jesus came in garments most white, of the glory and newness of His Resurrection; with serene face, beautiful, glorious, and rejoicing, and to His desolate and mourning Mother He appeared, all festal."
+  }
+}

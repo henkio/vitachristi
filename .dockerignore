@@ -1,0 +1,7 @@
+chapters-latin/
+chapters-trimmed/
+scripts/
+data/latin-titles.tsv
+node_modules/
+.git/
+*.log

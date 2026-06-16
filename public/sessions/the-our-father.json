@@ -1,0 +1,88 @@
+{
+  "id": "the-our-father",
+  "part": "I",
+  "chapter": "XXXVII",
+  "title": "Our Father",
+  "subtitle": "The Lord teaches His disciples to pray on the mountain",
+  "theme": "Sermon on the Mount",
+  "lens": "Receiving",
+  "emotions": [
+    "trust",
+    "rest"
+  ],
+  "journeys": [
+    "storm"
+  ],
+  "gospelRef": "Matthew 6:9",
+  "durationMin": 5,
+  "movements": {
+    "stillness": [
+      "Let the words be few.",
+      "The strength of prayer lies in the devotion of the mind,",
+      "not in the multiplying of words.",
+      "Be still, and dare to call God Father."
+    ],
+    "gospel": [
+      "Among all the things said about prayer,",
+      "the Lord set the Lord's Prayer in the midst,",
+      "and taught His disciples, saying:",
+      "Our Father, who art in heaven."
+    ],
+    "behold": [
+      "Behold attentively the Lord Jesus upon the mountain,",
+      "as if you yourself were present,",
+      "shaping for His disciples this brief and blessed form of prayer.",
+      "See how He puts a few words into your mouth,",
+      "yet within them folds away immeasurable mysteries.",
+      "Hear Him give you leave to say: Our Father.",
+      "What confidence, what daring trust,",
+      "that the thing made should name its Maker,",
+      "the creature its Creator,",
+      "a man should dare to call God his Father!",
+      "Who in the old Law ever dared to presume such a thing?",
+      "No one. No one at all."
+    ],
+    "consider": [
+      "To the men of old God was called Lord, as to servants;",
+      "now He is called Father, whom we serve not from fear, but from love.",
+      "We, made sons by adoption through the blood of the Lord Jesus,",
+      "cry out with confidence: Abba, Father.",
+      "By this name love is kindled in us;",
+      "for what ought to be dearer to sons than a father?",
+      "And there rises a kind of bold presumption of obtaining what we ask:",
+      "for what will He not give to His sons who beg,",
+      "when He has already granted them this very thing first,",
+      "that they should be His sons?",
+      "Then consider with what care it touches the soul,",
+      "that whoever says 'Our Father' should not be unworthy of so great a Father.",
+      "He does not say 'My Father,' but 'Our Father,'",
+      "that you may pour out your prayer for the whole body,",
+      "and everywhere seek not your own good, but your neighbour's.",
+      "By this He slays enmity, and beats down pride,",
+      "and drives out envy, and brings in charity, the mother of all good things.",
+      "For one and the same nobility God has given to all,",
+      "when He has deigned to be called the Father of all.",
+      "And 'who art in heaven' — that is, in the hearts of the just,",
+      "who are the temple of God, in whom, as in His holy temple, He dwells.",
+      "Or, in the hidden depth of Thy majesty, still concealed from us:",
+      "Truly Thou art a hidden God."
+    ],
+    "prayer": [
+      "O Power, O Word of wondrous working!",
+      "Come now, my good Lord Jesus, Word of the Father,",
+      "complete Thou my prayer,",
+      "perfect Thou these words spoken by Thee and laid upon my mouth.",
+      "Perfect them, and say Amen; say, let it be done;",
+      "say to me as Thou saidst to that Syrophoenician woman:",
+      "Be it done to thee as thou wilt.",
+      "O sweet love of Jesus, O sweet truth,",
+      "O sweet Amen, O sweet word, 'let it be':",
+      "Be it done to me according to Thy word.",
+      "Let it be done. Amen."
+    ]
+  },
+  "latinJewel": {
+    "latin": "O quanta fiducia et fiducialis audacia, quod factura Factorem, creatura Creatorem, homo Deum Patrem audeat nuncupare!",
+    "english": "O what confidence, what daring trust, that the thing made should dare to name its Maker, the creature its Creator, a man should dare to call God his Father!"
+  }
+}

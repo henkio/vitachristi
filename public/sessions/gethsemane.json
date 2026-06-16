@@ -1,0 +1,100 @@
+{
+  "id": "gethsemane",
+  "part": "II",
+  "chapter": "LIX",
+  "title": "The Agony in the Garden",
+  "subtitle": "Compline: Christ enters Gethsemane and is sorrowful unto death",
+  "theme": "The Passion",
+  "lens": "Compassion",
+  "emotions": [
+    "fear",
+    "sorrow",
+    "trust"
+  ],
+  "journeys": [
+    "passion",
+    "storm"
+  ],
+  "gospelRef": "Luke 22:39–44 (with Matthew 26 and Mark 14)",
+  "durationMin": 5,
+  "movements": {
+    "stillness": [
+      "He withdrew apart to pray, and prayed alone.",
+      "Cyril says: he prays apart, that you may learn",
+      "that we must speak with the high God",
+      "with attentive mind and quiet heart.",
+      "Be still, then. Seek much solitude."
+    ],
+    "gospel": [
+      "Then Jesus came with them into a place called Gethsemane.",
+      "And when he had entered the garden he said to his disciples:",
+      "Sit here, and do not be moved,",
+      "while I go yonder and pray.",
+      "And do you also pray, lest you enter into temptation.",
+      "He took with him Peter and the two sons of Zebedee,",
+      "and he began to be sorrowful and heavy.",
+      "Then he said to them: My soul is sorrowful unto death.",
+      "Sustain here, and watch with me.",
+      "And being in agony, he prayed the longer.",
+      "And his sweat became as drops of blood, running down upon the ground."
+    ],
+    "behold": [
+      "Take up again these meditations from the beginning of the Passion,",
+      "and follow them in order to the end;",
+      "and attend to each thing as if you were present.",
+      "Behold, then, the Lord Jesus attentively,",
+      "as he goes out from the supper at the hour of Compline",
+      "into the garden with his disciples,",
+      "now to be accompanied by them on this last journey;",
+      "how tenderly, how companionably, how familiarly he speaks to them,",
+      "and urges them to prayer.",
+      "Behold him, whose are all things, in whom the adversary had nothing,",
+      "who had committed no sin,",
+      "begin, with death now near, to be sorrowful and heavy.",
+      "From afar, behold how he has taken our weakness upon himself.",
+      "See how he whose are all things began to fear and to be heavy."
+    ],
+    "consider": [
+      "Jerome says: in this fearing and sorrowing we are taught,",
+      "before the sentence of death, what we who are weak should feel.",
+      "This sorrow of the Lord was the greatest there could be,",
+      "for his sorrow was as intense as it was possible to be.",
+      "Naturally he shuddered at death, and at the most bitter pains,",
+      "which he foreknew he would soon suffer.",
+      "Yet not as in us were these sufferings in him:",
+      "in us such passions run ahead of reason and the command of the will;",
+      "in Christ they always followed reason and will.",
+      "Willing, he hungered and thirsted; willing, he feared and was sorrowful.",
+      "Nothing in Christ is reckoned as forced; all is believed to be voluntary.",
+      "The Evangelists say he began to be sorrowful, he began to fear —",
+      "not that he was overcome, for the motion did not master him,",
+      "but at once he took it up and subjected it to the divine will.",
+      "He was sorrowful not only at the death his nature abhors and refuses,",
+      "but also for the wretchedness of Judas, and the scandal of the disciples,",
+      "the casting-down of the Jews, and the overthrow of Jerusalem —",
+      "pitying these, and suffering with them.",
+      "Lord Jesus, ruler and master — whence this so violent sorrow of your soul?",
+      "Whence this anguish of sweat, and this so anxious supplication?",
+      "Did you not offer yourself wholly a willing sacrifice to God the Father,",
+      "and bear nothing unwillingly? Truly, Lord.",
+      "We judge that you took this also upon yourself",
+      "for the consolation of your weak members,",
+      "lest any despair if the flesh murmurs where the spirit is ready.",
+      "By such signs we are taught that you truly bore our griefs."
+    ],
+    "prayer": [
+      "Lord Jesus Christ,",
+      "who for me, a wretch, willed to be sorrowful and heavy,",
+      "grant me to bear all my sorrows unceasingly toward you;",
+      "and may you deign to bear them with me,",
+      "joined to your own sorrow.",
+      "O Jesus, who being set in prayer willed to be strengthened by an angel,",
+      "grant me, by the power of your prayer,",
+      "that your angel may always stand by me as I pray, strengthening me."
+    ]
+  },
+  "latinJewel": {
+    "latin": "Tristis est anima mea usque ad mortem.",
+    "english": "My soul is sorrowful unto death."
+  }
+}
