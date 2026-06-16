@@ -2393,6 +2393,54 @@
     ]
   },
   {
+    "id": "the-labourers-in-the-vineyard",
+    "part": "II",
+    "chapter": "XIV",
+    "title": "The Labourers in the Vineyard",
+    "subtitle": "The householder goes out at every hour, and the wage is a single coin: eternal life",
+    "theme": "Parables",
+    "lens": "Receiving",
+    "emotions": [
+      "gratitude",
+      "humility",
+      "hope"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 20:1–16 (with 19:30)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, most high householder,",
+      "you led me into your vineyard early in the morning,",
+      "when from my youth you mercifully called me to faith and to your service,"
+    ]
+  },
+  {
+    "id": "the-unjust-steward",
+    "part": "II",
+    "chapter": "XV",
+    "title": "The Steward Called to Account",
+    "subtitle": "The wretched soul summoned to render the reckoning of its stewardship",
+    "theme": "Parables",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "longing",
+      "trust"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Luke 16:1–9",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "make my soul a farm of virtues,",
+      "lest your steward, my reason, squander the goods you have entrusted to me;"
+    ]
+  },
+  {
     "id": "the-rich-man-and-lazarus",
     "part": "II",
     "chapter": "XVI",
@@ -2440,6 +2488,128 @@
       "Lord Jesus, I behold Thy wondrous goodness toward Thine own.",
       "I do not say, Come and heal; I dare not command Thee.",
       "I say only: behold, he whom Thou lovest is sick."
+    ]
+  },
+  {
+    "id": "the-plot-against-jesus",
+    "part": "II",
+    "chapter": "XVIII",
+    "title": "The Plot Against the Lord",
+    "subtitle": "The priests and Pharisees gather in council to put Jesus to death",
+    "theme": "Conflict & Opposition",
+    "lens": "Beholding",
+    "emotions": [
+      "sorrow",
+      "gravity",
+      "fear"
+    ],
+    "journeys": [
+      "storm",
+      "daily"
+    ],
+    "gospelRef": "John 11:47–52",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, Angel of great counsel,",
+      "who permitted the council of the malicious to be formed against you,",
+      "and willed not to resist them by power, but rather to yield by patience:"
+    ]
+  },
+  {
+    "id": "the-ten-lepers-cleansed",
+    "part": "II",
+    "chapter": "XIX",
+    "title": "The Ten Lepers",
+    "subtitle": "Ten unclean men cry from afar, and one returns to give thanks",
+    "theme": "Miracles",
+    "lens": "Receiving",
+    "emotions": [
+      "gratitude",
+      "wonder",
+      "joy"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Luke 17:11–19",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, trusting in your tenderness,",
+      "I, like a leper, sprinkled over with the stains of many sins, flee to you, the merciful physician;",
+      "I, unclean, befouled with the spots of my vices, run to the fountain of mercies,"
+    ]
+  },
+  {
+    "id": "the-samaritans-who-refused-him-welcome",
+    "part": "II",
+    "chapter": "XX",
+    "title": "The Closed Door",
+    "subtitle": "A Samaritan town refuses to receive the Lord on His way to Jerusalem",
+    "theme": "Conflict & Opposition",
+    "lens": "Following",
+    "emotions": [
+      "sorrow",
+      "humility",
+      "love"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Luke 9:51-56",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who didst not avenge Thyself on the Samaritans who denied Thee welcome,",
+      "but, bearing it patiently, didst humbly turn aside to another place:"
+    ]
+  },
+  {
+    "id": "the-request-of-the-sons-of-zebedee",
+    "part": "II",
+    "chapter": "XXI",
+    "title": "The Cup He Came to Drink",
+    "subtitle": "On the road, going up to Jerusalem, He tells the Twelve in secret what awaits Him",
+    "theme": "Calling & Discipleship",
+    "lens": "Awakening",
+    "emotions": [
+      "humility",
+      "gravity",
+      "love"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 20:17–19; Mark 10:32–34; Luke 18:31–33",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who for our salvation willed to drink the cup of the Passion,",
+      "and to be drenched in the baptism of Your blood,"
+    ]
+  },
+  {
+    "id": "the-blind-man-healed-before-jericho",
+    "part": "II",
+    "chapter": "XXII",
+    "title": "The Blind Man at Jericho",
+    "subtitle": "A beggar by the road cries out, and the Light passes by",
+    "theme": "Miracles",
+    "lens": "Receiving",
+    "emotions": [
+      "trust",
+      "wonder",
+      "gratitude"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Luke 18:35–43",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Jesus, Son of David, have mercy on me.",
+      "Lord, that I may see.",
+      "You who do not disdain the poor and the lowly, stand still for me."
     ]
   },
   {
@@ -2518,6 +2688,79 @@
     ]
   },
   {
+    "id": "the-coming-and-persecution-of-antichrist",
+    "part": "II",
+    "chapter": "XL",
+    "title": "The Abomination of Desolation",
+    "subtitle": "The coming of Antichrist, and the flight to the mountains of virtue",
+    "theme": "The Last Things",
+    "lens": "Awakening",
+    "emotions": [
+      "fear",
+      "courage",
+      "trust"
+    ],
+    "journeys": [
+      "storm",
+      "daily"
+    ],
+    "gospelRef": "Matthew 24; Mark 13; Luke 17",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, in your mercy,",
+      "grant me, when I have seen the abominations of the world and the raging tribulations,",
+      "to flee to the mountains and the heights of the virtues;"
+    ]
+  },
+  {
+    "id": "remedies-against-the-temptations-of-the-",
+    "part": "II",
+    "chapter": "XLI",
+    "title": "Remedies Against the Last Deceptions",
+    "subtitle": "Ludolph teaches the soul how to stand against false visions before the coming of the Lord",
+    "theme": "The Last Things",
+    "lens": "Receiving",
+    "emotions": [
+      "courage",
+      "trust",
+      "hope"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 24:24",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, meek and humble of heart,",
+      "ground my heart in true humility,",
+      "and shut out from me every motion of presumption and pride,"
+    ]
+  },
+  {
+    "id": "watching-and-praying-for-the-lord-s-comi",
+    "part": "II",
+    "chapter": "XLII",
+    "title": "Watching and Praying for the Coming",
+    "subtitle": "The Lord teaches us to pray without ceasing, that His coming may not find us unprepared",
+    "theme": "The Last Things",
+    "lens": "Awakening",
+    "emotions": [
+      "hope",
+      "longing",
+      "trust"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Luke 18:1–8; 21:36",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "grant me to imitate the signs in the sun, moon, and stars,",
+      "that is, the examples of good works"
+    ]
+  },
+  {
     "id": "the-coming-of-christ-the-judge",
     "part": "II",
     "chapter": "XLIII",
@@ -2543,6 +2786,103 @@
     ]
   },
   {
+    "id": "the-consolation-of-the-elect-and-the-fig",
+    "part": "II",
+    "chapter": "XLIV",
+    "title": "Lift Up Your Heads",
+    "subtitle": "The consolation of the elect as the Judge draws near, and the parable of the fig tree",
+    "theme": "The Last Things",
+    "lens": "Receiving",
+    "emotions": [
+      "comfort",
+      "hope",
+      "joy"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Luke 21:28–33 (with Matthew 24 and Mark 13)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, come to me in the clouds of penitence,",
+      "and dissolve my heart into a rain of tears.",
+      "Cast out the demons that hold power over my vices,"
+    ]
+  },
+  {
+    "id": "the-day-of-the-lord-coming-suddenly",
+    "part": "II",
+    "chapter": "XLV",
+    "title": "The Day That Comes Without Warning",
+    "subtitle": "As in the days of Noah and of Lot — the sudden coming of the Lord",
+    "theme": "The Last Things",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "hope",
+      "fear"
+    ],
+    "journeys": [
+      "storm",
+      "daily"
+    ],
+    "gospelRef": "Matthew 24:37–39; Luke 17:26–30",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "grant me to go before the uncertainty of the day of your coming",
+      "by watching and by working well,"
+    ]
+  },
+  {
+    "id": "the-watchful-householder",
+    "part": "II",
+    "chapter": "XLVI",
+    "title": "The Watchful Householder",
+    "subtitle": "The hour of the thief, and the soul keeping vigil against death",
+    "theme": "The Last Things",
+    "lens": "Awakening",
+    "emotions": [
+      "courage",
+      "trust",
+      "hope"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 24:43–44; Mark 13:35–37",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "grant me unceasingly to ponder the day of my passing and the day of judgment,",
+      "and to foresee my last things,"
+    ]
+  },
+  {
+    "id": "loins-girded-and-lamps-burning",
+    "part": "II",
+    "chapter": "XLVII",
+    "title": "Loins Girded, Lamps Burning",
+    "subtitle": "Waiting through the night for the Master's return",
+    "theme": "The Last Things",
+    "lens": "Awakening",
+    "emotions": [
+      "hope",
+      "longing",
+      "courage"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Luke 12:35–37",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who commanded us both to bind fast our loins and to hold our lamps burning,",
+      "do You Yourself gird our loins,"
+    ]
+  },
+  {
     "id": "the-ten-virgins",
     "part": "II",
     "chapter": "XLVIII",
@@ -2564,6 +2904,30 @@
       "Lord Jesus Christ, good Bridegroom,",
       "grant me, with the wise virgins, to do good works with right intention,",
       "and watchfully to persevere in them,"
+    ]
+  },
+  {
+    "id": "the-parable-of-the-talents",
+    "part": "II",
+    "chapter": "XLIX",
+    "title": "The Talents Entrusted",
+    "subtitle": "The Lord, like a man going abroad, hands His servants His goods and departs — and returns to settle accounts",
+    "theme": "The Last Things",
+    "lens": "Awakening",
+    "emotions": [
+      "courage",
+      "trust",
+      "gravity"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 25:14–30 (with Mark 13, Luke 19)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who in mercy have handed over to us your gifts,",
+      "and warn us, watchful and diligent,"
     ]
   },
   {
