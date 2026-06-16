@@ -99,6 +99,7 @@ const App = (() => {
            ['IV','Consider','Ludolph’s own meditation — raw, visceral, unsoftened.'],
            ['V','Pray','His own prayer, that has been prayed for 650 years.']]
           .map(f=>`<div class="feature"><div class="num">${f[0]}</div><div><h3>${f[1]}</h3><p>${f[2]}</p></div></div>`).join('')}
+        <div style="text-align:center;margin-top:30px"><a class="btn ghost" href="#/method">Read his own method →</a></div>
       </div>
 
       ${picks.length?`<div class="divider"></div><div class="section">
@@ -276,6 +277,39 @@ const App = (() => {
     }
   }
 
+  function method(){
+    return nav('') + `<div class="wrap section" style="max-width:680px">
+      <div class="kicker">Ludolph's own preface · 1374</div>
+      <h1 style="font-size:2.8rem;margin:6px 0 14px">The Method</h1>
+      <p style="color:var(--ink-soft);margin-bottom:24px">Before the first chapter, Ludolph wrote the instructions himself. This whole site is only his preface, obeyed. His words:</p>
+
+      <div class="prayer-card" style="margin:0 0 30px">
+        <div class="ref">The heart of it</div>
+        <p>Read the things that were done as though they are happening now; set the past deeds before your eyes as present — and so you will feel them more savoury and more glad.</p>
+        <p style="font-size:1rem;font-style:italic;color:var(--gold);margin-top:10px;font-family:var(--serif)">Lege ergo quæ facta sunt, tamquam fiant; pone ante oculos gesta præterita tamquam præsentia.</p>
+      </div>
+
+      <h2 style="font-size:1.5rem;margin:26px 0 8px;color:var(--gold-bright)">Take it slowly</h2>
+      <p style="color:var(--ink-soft);margin-bottom:20px">“Take care not to run through this life in a hurried reading; but take some small part of it each day.” One scene. Not more. Let it become a sabbath kept daily for Christ.</p>
+
+      <h2 style="font-size:1.5rem;margin:26px 0 8px;color:var(--gold-bright)">Be present</h2>
+      <p style="color:var(--ink-soft);margin-bottom:20px">“If you desire to draw fruit from these, make yourself present — with all the affection of your mind, diligently, delightfully, and lingeringly, every other care laid aside — to the things said and done by the Lord Jesus, as if you heard them with your own ears and saw them with your own eyes. For though many are told as done in the past, meditate on them all as happening now, and you will taste a far greater sweetness.”</p>
+
+      <h2 style="font-size:1.5rem;margin:26px 0 8px;color:var(--gold-bright)">An honest word</h2>
+      <p style="color:var(--ink-soft);margin-bottom:20px">Ludolph is candid — and we keep his candour: “Do not think that everything we can meditate of what Christ said or did is written down. For a deeper impression I will tell them as they happened, or as they may piously be believed to have happened, according to certain imaginative representations. When you find me saying ‘thus the Lord did,’ and it cannot be proved from Scripture, take it as nothing more than devout meditation asks — as if I said: <em>I meditate that the good Jesus said or did thus.</em>”</p>
+
+      <div class="prayer-card" style="margin:30px 0">
+        <div class="ref">The whole life, in one breath</div>
+        <p style="font-size:1.2rem">Draw near to him with a loving heart. Be present, in pure faith, at his holy conception. Be present at his birth, like a foster-father, with Joseph. Go with the Magi to Bethlehem, and adore the little King. Help his parents carry him into the temple. Accompany the good Shepherd as he works his glorious miracles. Stand by him as he dies, with his mother and John, to grieve with him; and with a devout boldness, touch each wound of your Saviour, who died thus for you. Seek him risen, with Mary Magdalene, until you are worthy to find him. Marvel as he ascends, as though standing among the disciples on the Mount of Olives.</p>
+      </div>
+
+      <h2 style="font-size:1.5rem;margin:26px 0 8px;color:var(--gold-bright)">When the storm comes</h2>
+      <p style="color:var(--ink-soft);margin-bottom:24px">“Whenever you are weighed down by anything, run at once to him — the loving father of the poor — as a little child to its mother's lap. Reveal yourself wholly to him; commit yourself wholly; cast and throw yourself wholly upon him. And without doubt he will still the storm, and lift you up.”</p>
+
+      <div class="btn-row" style="justify-content:flex-start"><a class="btn" href="#/session/the-annunciation">Begin where he begins</a><a class="btn ghost" href="#/about">About Ludolph</a></div>
+    </div>` + footer();
+  }
+
   function notFound(){ return nav('') + `<div class="wrap section"><h1>Not found</h1><a class="btn" href="#/">Home</a></div>`+footer(); }
 
   // ---------- router ----------
@@ -305,6 +339,7 @@ const App = (() => {
       case 'feeling': html=feelingsView(parts[1]); break;
       case 'timeline': html=timeline(); break;
       case 'prayers': html=prayersView(); break;
+      case 'method': html=method(); break;
       case 'about': html=about(); break;
       default: html=notFound();
     }

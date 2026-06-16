@@ -73,6 +73,57 @@
     ]
   },
   {
+    "id": "the-presentation-in-the-temple",
+    "part": "I",
+    "chapter": "XII",
+    "title": "The Light to the Nations",
+    "subtitle": "Mary carries the Child into the Temple, and old Simeon takes him into his arms",
+    "theme": "Nativity",
+    "lens": "Beholding",
+    "emotions": [
+      "joy",
+      "hope",
+      "humility"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Luke 2:22–32",
+    "durationMin": 5,
+    "prayerPreview": [
+      "O Jesus, to be desired,",
+      "who in the temple gave yourself mercifully to just Simeon,",
+      "who longed to see you, that he might hold you:"
+    ]
+  },
+  {
+    "id": "the-flight-into-egypt-and-the-holy-innoc",
+    "part": "I",
+    "chapter": "XIII",
+    "title": "The Flight into Egypt",
+    "subtitle": "By night the Child is carried into exile, and the innocents are slain for His sake",
+    "theme": "Hidden Life",
+    "lens": "Compassion",
+    "emotions": [
+      "sorrow",
+      "fear",
+      "trust"
+    ],
+    "journeys": [
+      "humility",
+      "storm",
+      "daily"
+    ],
+    "gospelRef": "Matthew 2:13–14",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, who, while yet an infant, willed to suffer persecutions and exile,",
+      "and willed that infants then be slain for Your sake:",
+      "grant to me, wretched one, to bear all these things patiently for You,"
+    ]
+  },
+  {
     "id": "boy-jesus-temple",
     "part": "I",
     "chapter": "XV",
@@ -93,6 +144,31 @@
       "Lord Jesus Christ, Son of the living God,",
       "who for three days were sought by your grieving parents,",
       "and at last were found in the Temple:"
+    ]
+  },
+  {
+    "id": "the-baptism-of-the-lord",
+    "part": "I",
+    "chapter": "XXI",
+    "title": "The Lord Goes Down to Jordan",
+    "subtitle": "The sinless One comes to be washed among sinners",
+    "theme": "Baptism & Temptation",
+    "lens": "Beholding",
+    "emotions": [
+      "wonder",
+      "humility",
+      "joy"
+    ],
+    "journeys": [
+      "temptation",
+      "daily"
+    ],
+    "gospelRef": "Matthew 3:13–15 (with Mark 1, Luke 3)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Will you be baptized, Lord Jesus?",
+      "For what, or what need have you of Baptism?",
+      "Does the healthy need medicine, or the clean need cleansing?"
     ]
   },
   {
@@ -119,6 +195,31 @@
     ]
   },
   {
+    "id": "the-first-calling-of-the-disciples",
+    "part": "I",
+    "chapter": "XXIV",
+    "title": "Come and See",
+    "subtitle": "The first disciples leave John, follow the Lamb, and ask where He dwells",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "hope",
+      "joy",
+      "trust"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "John 1:35–39",
+    "durationMin": 4,
+    "prayerPreview": [
+      "O good Jesus, Redeemer of the lost, Saviour of the redeemed, hope of the exiled.",
+      "Sweet consolation of the poor in spirit, strength of the labouring, refreshment of the weary, crown of those who triumph.",
+      "The one reward of the citizens above, and their true gladness."
+    ]
+  },
+  {
     "id": "wedding-at-cana",
     "part": "I",
     "chapter": "XXV",
@@ -139,6 +240,56 @@
       "Lord Jesus Christ,",
       "who on the third day — that is, in the time of grace —",
       "came in the flesh to the wedding,"
+    ]
+  },
+  {
+    "id": "the-calling-of-matthew-and-his-feast",
+    "part": "I",
+    "chapter": "XXXI",
+    "title": "The Calling of Matthew",
+    "subtitle": "Christ summons a tax-collector from his money-table, and feasts in his house",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "joy",
+      "repentance",
+      "love"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 9:9–13; Mark 2:14–17; Luke 5:27–32",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, who in many ways callest and admonishest me to follow thee,",
+      "kindle my heart by thy divine inspiration,",
+      "that by thy grace I may follow thee who callest,"
+    ]
+  },
+  {
+    "id": "the-choosing-of-the-twelve-apostles",
+    "part": "I",
+    "chapter": "XXXII",
+    "title": "The Choosing of the Twelve",
+    "subtitle": "Christ keeps watch all night upon the mountain, and at dawn names His Apostles",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "hope",
+      "trust",
+      "gravity"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Luke 6:12–13",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who out of your inestimable mercy came into the world,",
+      "to call sinners back from their wanderings to repentance,"
     ]
   },
   {
@@ -166,6 +317,54 @@
     ]
   },
   {
+    "id": "light-to-the-world-and-the-law-fulfilled",
+    "part": "I",
+    "chapter": "XXXIV",
+    "title": "Salt of the Earth, Light of the World",
+    "subtitle": "On the mountain, Christ tells His own they must shine in deed and word — and that He came not to break the Law but to fulfill it",
+    "theme": "Sermon on the Mount",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "courage",
+      "hope"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 5:13–17",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, who to the men of old promised the things of time,",
+      "but to us things eternal, that our justice may overflow:",
+      "grant me to shine before You and before my neighbors in word and in deed,"
+    ]
+  },
+  {
+    "id": "patience-and-generosity-toward-our-neigh",
+    "part": "I",
+    "chapter": "XXXV",
+    "title": "The Other Cheek",
+    "subtitle": "On the mountain, the Lord overturns the law of vengeance and commands a more terrible love",
+    "theme": "Sermon on the Mount",
+    "lens": "Awakening",
+    "emotions": [
+      "love",
+      "humility",
+      "comfort"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 5:38–40 (with Luke 6:29)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, most gentle Master of all humility and patience,",
+      "grant to me, the least and simplest of Your servants,",
+      "that, setting myself low and beneath all others,"
+    ]
+  },
+  {
     "id": "the-our-father",
     "part": "I",
     "chapter": "XXXVII",
@@ -186,6 +385,150 @@
       "O Power, O Word of wondrous working!",
       "Come now, my good Lord Jesus, Word of the Father,",
       "complete Thou my prayer,"
+    ]
+  },
+  {
+    "id": "treasure-in-heaven-not-on-earth",
+    "part": "I",
+    "chapter": "XXXVIII",
+    "title": "Treasure in Heaven",
+    "subtitle": "On the mountain, Christ teaches: lay up no treasure on earth, but in heaven",
+    "theme": "Sermon on the Mount",
+    "lens": "Awakening",
+    "emotions": [
+      "longing",
+      "trust",
+      "hope"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 6:19–21; Luke 12:32–33",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "make me lay up no earthly gain upon the earth,",
+      "but the rewards of merit in heaven;"
+    ]
+  },
+  {
+    "id": "mercy-not-judging-and-confidence-in-pray",
+    "part": "I",
+    "chapter": "XXXIX",
+    "title": "Be Merciful, Judge Not",
+    "subtitle": "On the mountainside: the Lord teaches mercy, the forbidding of judgment, and confidence in prayer",
+    "theme": "Sermon on the Mount",
+    "lens": "Awakening",
+    "emotions": [
+      "love",
+      "trust",
+      "comfort"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 7; Luke 6:36–38",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who have taught us to show mercy to all, and to judge no one,",
+      "give me to fulfil what You teach,"
+    ]
+  },
+  {
+    "id": "the-narrow-way-and-the-sermon-s-close",
+    "part": "I",
+    "chapter": "XL",
+    "title": "The Narrow Way",
+    "subtitle": "The Lord seals His sermon on the mountain: strive to enter by the strait gate",
+    "theme": "Sermon on the Mount",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "courage",
+      "hope"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 7:13–14",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, most merciful,",
+      "make me, by the narrow way of justice and the strait gate of penance, to enter into the hall of salvation and the life of glory.",
+      "Teach me to shun the deceit of the deceivers,"
+    ]
+  },
+  {
+    "id": "the-healing-of-the-leper",
+    "part": "I",
+    "chapter": "XLI",
+    "title": "The Healing of the Leper",
+    "subtitle": "Christ comes down from the mountain and stretches out his hand to touch what the Law cast out",
+    "theme": "Miracles",
+    "lens": "Compassion",
+    "emotions": [
+      "compassion",
+      "wonder",
+      "trust"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 8:1–3 (with Mark 1 and Luke 5)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who came down from the mountain of the Father's throne",
+      "and from the virgin's womb"
+    ]
+  },
+  {
+    "id": "the-centurion-s-paralysed-servant",
+    "part": "I",
+    "chapter": "XLII",
+    "title": "Speak But the Word",
+    "subtitle": "The centurion of Capernaum pleads for his paralysed servant, and Christ marvels at his faith",
+    "theme": "Miracles",
+    "lens": "Receiving",
+    "emotions": [
+      "trust",
+      "wonder",
+      "humility"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 8:5–10; Luke 7:1–9",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, I am not worthy that you should enter under the roof of my flesh,",
+      "for the boy of my sensuality lies paralysed, undone by the sickness of sin in the house of my body,",
+      "and is grievously tormented by the stirrings of its desires."
+    ]
+  },
+  {
+    "id": "the-demoniac-and-peter-s-mother-in-law",
+    "part": "I",
+    "chapter": "XLIII",
+    "title": "The Unclean Spirit Silenced",
+    "subtitle": "In the synagogue at Capernaum, the Lord casts out the demon and is confessed even by hell",
+    "theme": "Miracles",
+    "lens": "Compassion",
+    "emotions": [
+      "wonder",
+      "comfort",
+      "gratitude"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Mark 1:21–28; Luke 4:31–37",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, remove and cast out the unclean spirit from me,",
+      "that it may in no way be able to stain me, or to hold me fast in stains;",
+      "that I may be, and may appear, dead to the world,"
     ]
   },
   {
@@ -237,6 +580,102 @@
     ]
   },
   {
+    "id": "the-paralytic-lowered-through-the-roof",
+    "part": "I",
+    "chapter": "XLVIII",
+    "title": "Lowered Through the Roof",
+    "subtitle": "The paralytic let down through the opened roof, and forgiven before he was healed",
+    "theme": "Miracles",
+    "lens": "Receiving",
+    "emotions": [
+      "trust",
+      "wonder",
+      "gratitude"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 9:1–8; Luke 5:18–26",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who in Your Passion climbed into the little boat of the Cross,",
+      "in Your Resurrection crossed the water,"
+    ]
+  },
+  {
+    "id": "the-woman-with-the-issue-and-jairus-daug",
+    "part": "I",
+    "chapter": "XLIX",
+    "title": "If I Only Touch the Hem",
+    "subtitle": "A woman who has bled twelve years reaches, trembling, for the fringe of His garment",
+    "theme": "Miracles",
+    "lens": "Receiving",
+    "emotions": [
+      "trust",
+      "hope",
+      "wonder"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Luke 8:41–48 (with Matthew 9 and Mark 5)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, I adore the feet of Thy mercy and Thy truth.",
+      "Most loving One, I beseech Thee:",
+      "heal by the touch of Thy grace my soul,"
+    ]
+  },
+  {
+    "id": "the-good-samaritan",
+    "part": "I",
+    "chapter": "LIX",
+    "title": "Sorrowful Unto Death",
+    "subtitle": "The first Compline of the Passion — Christ enters the garden of Gethsemane and begins to be afraid and heavy with grief",
+    "theme": "Parables",
+    "lens": "Compassion",
+    "emotions": [
+      "love",
+      "compassion",
+      "comfort"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 26:36–39; Luke 22:41–44",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, who for me, a wretch, willed to be sorrowful and heavy:",
+      "grant me to bear all my sorrows unceasingly up to You;",
+      "and deign to bear them together with me, in union with Your own sorrow."
+    ]
+  },
+  {
+    "id": "the-feeding-of-the-five-thousand",
+    "part": "I",
+    "chapter": "LXVII",
+    "title": "The Five Loaves",
+    "subtitle": "Christ feeds five thousand in the desert place",
+    "theme": "Miracles",
+    "lens": "Receiving",
+    "emotions": [
+      "wonder",
+      "gratitude",
+      "joy"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 14:13–21; John 6:1–14",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "make me lift the eyes of my mind from carnal delights,",
+      "from earthly riches and worldly ambitions, up to You,"
+    ]
+  },
+  {
     "id": "peter-sinks",
     "part": "I",
     "chapter": "LXIX",
@@ -257,6 +696,127 @@
       "Lord Jesus Christ, most merciful,",
       "deign to climb into the little boat of my heart,",
       "and still the windy gusts of pride and the storms of rising vices,"
+    ]
+  },
+  {
+    "id": "the-man-born-blind",
+    "part": "I",
+    "chapter": "LXXXV",
+    "title": "The Man Born Blind",
+    "subtitle": "At the temple gate, the Light of the world anoints blind eyes with clay",
+    "theme": "Miracles",
+    "lens": "Awakening",
+    "emotions": [
+      "wonder",
+      "joy",
+      "gratitude"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "John 9:1–28",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, who gave light to the eyes of the man born blind,",
+      "give light, I beseech you, to the eyes of my heart,",
+      "that I may not stumble in the darkness, nor ever fall asleep in death."
+    ]
+  },
+  {
+    "id": "the-good-shepherd",
+    "part": "I",
+    "chapter": "LXXXVI",
+    "title": "The Door of the Sheepfold",
+    "subtitle": "Christ teaches that no one enters the fold of the sheep except through the lowly door — through Him",
+    "theme": "Parables",
+    "lens": "Receiving",
+    "emotions": [
+      "comfort",
+      "love",
+      "trust"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "John 10:1–4",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ, good Shepherd,",
+      "who for Thy sheep didst lay down Thy life as their ransom,",
+      "Thy flesh for their food, and Thy blood for their drink;"
+    ]
+  },
+  {
+    "id": "the-transfiguration-of-the-lord",
+    "part": "II",
+    "chapter": "III",
+    "title": "The Light on Tabor",
+    "subtitle": "Christ transfigured before three disciples on the high mountain",
+    "theme": "Miracles",
+    "lens": "Beholding",
+    "emotions": [
+      "wonder",
+      "joy",
+      "longing"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 17:1–2; Luke 9:28–29",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus, who upon the mountain were transfigured before Your disciples,",
+      "and made Your face to shine as the sun,",
+      "grant that, forsaking what is low and earthly,"
+    ]
+  },
+  {
+    "id": "the-lost-sheep-the-lost-coin-and-the-pro",
+    "part": "II",
+    "chapter": "VII",
+    "title": "The Shepherd Who Carries Me Home",
+    "subtitle": "Christ goes out for the one lost sheep and bears it back on the wood of the Cross",
+    "theme": "Parables",
+    "lens": "Receiving",
+    "emotions": [
+      "joy",
+      "repentance",
+      "love"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Luke 15:1–7",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Come, Lord Jesus, seek your servant;",
+      "come, good Shepherd, seek your straying and weary sheep;",
+      "come, Spouse of Mother Church, seek the lost coin;"
+    ]
+  },
+  {
+    "id": "the-rich-man-and-lazarus",
+    "part": "II",
+    "chapter": "XVI",
+    "title": "The Rich Man and Lazarus at the Gate",
+    "subtitle": "A man feasting in purple, a beggar full of sores lying at his door",
+    "theme": "Parables",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "compassion",
+      "fear"
+    ],
+    "journeys": [
+      "storm",
+      "daily"
+    ],
+    "gospelRef": "Luke 16:19–21",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "since I am utterly poor in virtues, full of the sores of my sins,",
+      "a beggar laid before the gate of your mercy,"
     ]
   },
   {
@@ -285,6 +845,155 @@
     ]
   },
   {
+    "id": "zacchaeus-and-his-feast",
+    "part": "II",
+    "chapter": "XXIII",
+    "title": "The Man in the Sycamore",
+    "subtitle": "Zacchaeus climbs the tree that is the Cross, and the Lord looks up at him",
+    "theme": "Calling & Discipleship",
+    "lens": "Receiving",
+    "emotions": [
+      "joy",
+      "repentance",
+      "gratitude"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Luke 19:1–6",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who looked with mercy on Zacchaeus climbing into the sycamore,",
+      "and calling him to yourself and turning aside into his house, healed him of every vice:"
+    ]
+  },
+  {
+    "id": "the-entry-into-jerusalem-on-palm-sunday",
+    "part": "II",
+    "chapter": "XXVII",
+    "title": "The King Comes Riding",
+    "subtitle": "Palm Sunday — the multitude descends the Mount of Olives to meet a King upon a donkey's colt",
+    "theme": "The Passion",
+    "lens": "Beholding",
+    "emotions": [
+      "joy",
+      "wonder",
+      "hope"
+    ],
+    "journeys": [
+      "passion",
+      "daily"
+    ],
+    "gospelRef": "Matthew 21; Mark 11; Luke 19; John 12",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Do not fear; acknowledge him who is praised by you,",
+      "and do not tremble when he suffers,",
+      "because that blood is poured out"
+    ]
+  },
+  {
+    "id": "the-lord-s-weeping-over-jerusalem",
+    "part": "II",
+    "chapter": "XXVIII",
+    "title": "The Lord's Weeping over Jerusalem",
+    "subtitle": "Christ draws near the city, and through his tears foresees its ruin",
+    "theme": "The Passion",
+    "lens": "Compassion",
+    "emotions": [
+      "sorrow",
+      "love",
+      "longing"
+    ],
+    "journeys": [
+      "passion",
+      "daily"
+    ],
+    "gospelRef": "Luke 19:41–44",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who by word and by example",
+      "taught us to weep rather than to laugh,"
+    ]
+  },
+  {
+    "id": "the-coming-of-christ-the-judge",
+    "part": "II",
+    "chapter": "XLIII",
+    "title": "The Sign of the Cross in Heaven",
+    "subtitle": "Christ the Judge returns in majesty, the Cross blazing brighter than the sun",
+    "theme": "The Last Things",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "fear",
+      "hope"
+    ],
+    "journeys": [
+      "storm",
+      "daily"
+    ],
+    "gospelRef": "Matthew 24:30; Luke 21:27",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, who are to come to judge with power and great majesty,",
+      "while the Angels bear before You the sign of the glorious Cross as a triumphal banner,",
+      "seal my soul with the imprint of this most holy Cross;"
+    ]
+  },
+  {
+    "id": "the-ten-virgins",
+    "part": "II",
+    "chapter": "XLVIII",
+    "title": "The Ten Virgins",
+    "subtitle": "At midnight the cry goes up: Behold, the Bridegroom comes",
+    "theme": "The Last Things",
+    "lens": "Awakening",
+    "emotions": [
+      "longing",
+      "hope",
+      "gravity"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 25:1–7",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, good Bridegroom,",
+      "grant me, with the wise virgins, to do good works with right intention,",
+      "and watchfully to persevere in them,"
+    ]
+  },
+  {
+    "id": "meditation-at-the-first-vespers-of-the-s",
+    "part": "II",
+    "chapter": "LIII",
+    "title": "The Supper Prepared",
+    "subtitle": "At the first vespers of the Last Supper, two disciples go to make ready the upper room",
+    "theme": "The Passion",
+    "lens": "Beholding",
+    "emotions": [
+      "love",
+      "sorrow",
+      "longing"
+    ],
+    "journeys": [
+      "passion",
+      "daily"
+    ],
+    "gospelRef": "Luke 22:7–13 (with Matthew 26 and Mark 14)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who at the hour of vespers kept the last supper with your disciples",
+      "in the great upper room, furnished,"
+    ]
+  },
+  {
     "id": "washing-of-feet",
     "part": "II",
     "chapter": "LIV",
@@ -306,6 +1015,31 @@
       "O Jesus, gentle example of true humility,",
       "who didst wash the feet of thy disciples,",
       "I ask and beseech thee, Lord, purge my affections,"
+    ]
+  },
+  {
+    "id": "the-institution-of-the-eucharist",
+    "part": "II",
+    "chapter": "LVI",
+    "title": "The Bread He Became",
+    "subtitle": "In the upper room, after the Passover lamb, Christ gives Himself in bread and wine",
+    "theme": "The Passion",
+    "lens": "Receiving",
+    "emotions": [
+      "love",
+      "gratitude",
+      "wonder"
+    ],
+    "journeys": [
+      "passion",
+      "daily"
+    ],
+    "gospelRef": "Matthew 26:26–28; Mark 14:22–24; Luke 22:19–20",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus, who didst hand over and leave to us Thy very self,",
+      "Thy most holy Body and Blood, truly for our food and drink:",
+      "grant me, in receiving and before receiving this sacrament,"
     ]
   },
   {
@@ -589,6 +1323,31 @@
     ]
   },
   {
+    "id": "the-women-and-disciples-at-the-tomb",
+    "part": "II",
+    "chapter": "LXXI",
+    "title": "At the Tomb Before Dawn",
+    "subtitle": "The holy women come with their spices while it is still dark, seeking the Lord in the grave",
+    "theme": "Resurrection",
+    "lens": "Beholding",
+    "emotions": [
+      "wonder",
+      "hope",
+      "longing"
+    ],
+    "journeys": [
+      "risen",
+      "daily"
+    ],
+    "gospelRef": "Matthew 28; Mark 16; Luke 24; John 20 (esp. Matt 28:1; Mark 16:2; Luke 24:1; John 20:1)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Let us therefore imitate these same holy and most devout women,",
+      "that as they with their spices sought the Lord",
+      "with their whole heart and desire in the sepulchre,"
+    ]
+  },
+  {
     "id": "risen-to-magdalene",
     "part": "II",
     "chapter": "LXXII",
@@ -656,6 +1415,31 @@
       "My Lord and my God.",
       "Thou art my Lord, who redeemed me with Thy blood and made me Thine own;",
       "Thou art my God, who created me and formed me from the slime of the earth."
+    ]
+  },
+  {
+    "id": "the-lord-appears-in-galilee-to-the-eleve",
+    "part": "II",
+    "chapter": "LXXX",
+    "title": "On the Mountain in Galilee",
+    "subtitle": "The risen Lord appears to the eleven, and to more than five hundred brethren at once",
+    "theme": "Resurrection",
+    "lens": "Following",
+    "emotions": [
+      "joy",
+      "wonder",
+      "courage"
+    ],
+    "journeys": [
+      "risen",
+      "daily"
+    ],
+    "gospelRef": "Matthew 28:16–20 (with 1 Corinthians 15:6)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "O Lord Jesus Christ, to whom is given all power in heaven and in earth,",
+      "exalted in your humanity, set at the right hand of the Father,",
+      "raised above all the angels,"
     ]
   },
   {

@@ -30,9 +30,29 @@
     "from": "The One Lamp Still Burning"
   },
   {
+    "latin": "Magis enim operando quis proficit quam loquendo, et plus movent exempla quam verba, quia major est splendor operis quam sermonis.",
+    "english": "For one profits more by doing than by speaking, and examples move more than words, because the splendor of a deed is greater than that of speech.",
+    "from": "Salt of the Earth, Light of the World"
+  },
+  {
+    "latin": "Et significat quod ubi Christus cœnaturis est, lagena aquæ lacrymarum in expiatione debet præcedere.",
+    "english": "And this signifies that where Christ is to sup, the jar of the water of tears must go before, in expiation.",
+    "from": "The Supper Prepared"
+  },
+  {
+    "latin": "Oratio enim viri justi cœlos penetrat; quomodo ergo in terris hostes non vincat?",
+    "english": "For the prayer of a just man pierces the heavens; how then shall it not, on earth, conquer his enemies?",
+    "from": "Be Merciful, Judge Not"
+  },
+  {
     "latin": "Necessarium enim erit, ut aliquando ita cogites te praesentem cogitatione tua, ac si tunc temporis ibi praesens fuisses quando passus fuit.",
     "english": "For it will be needful that you sometimes so reckon yourself present in your thought, as though you had then and there been present when He suffered.",
     "from": "As If You Were Present"
+  },
+  {
+    "latin": "Dum enim vis vindicare vestem corporis, pretiosissimum animæ vestimentum perdis.",
+    "english": "For while you long to avenge the garment of your body, you lose the most precious garment of your soul.",
+    "from": "The Other Cheek"
   },
   {
     "latin": "Bene in igne Spiritus apparuit, quia ab omni corde quod replet, torporem frigoris excutit, et hoc in desiderio suæ æternitatis accendit.",
@@ -75,6 +95,11 @@
     "from": "Matins: The First Interrogation"
   },
   {
+    "latin": "Factus est servus, ut nos reges faceret; factus est advena et peregrinus, ut nos ad patriam et regnum suum perduceret.",
+    "english": "He became a servant, that he might make us kings; he became a stranger and a pilgrim, that he might lead us to his homeland and his kingdom.",
+    "from": "The Lord Goes Down to Jordan"
+  },
+  {
     "latin": "Tunc vere possidebis terram, quando inhæseris ei, qui fecit cœlum et terram.",
     "english": "Then truly shall you possess the earth, when you cleave to Him who made heaven and earth.",
     "from": "Upon the Mountain"
@@ -83,6 +108,31 @@
     "latin": "Sequere et tu pretiosissimum cœli terræque thesaurum; et porta vel pedes vel manus, brachiaque sustenta; terræ defluentes minutatim pretiosissimi sanguinis guttas curiosius collige; et pulverem pedum ejus linge.",
     "english": "Follow, you too, the most precious treasure of heaven and earth; carry either His feet or His hands, and bear up His arms; gather up with care the drops of most precious blood that fall little by little upon the ground; and kiss the dust of His feet.",
     "from": "The Anointing and the Tomb"
+  },
+  {
+    "latin": "Et vidit ibi, non tam corporis, quam mentis et miserantis intuitu, hominem.",
+    "english": "And he saw there a man — not so much with the gaze of the body as with the gaze of the mind, and of one who has pity.",
+    "from": "The Calling of Matthew"
+  },
+  {
+    "latin": "Domine Jesu Christe, non sum dignus ut intres sub tectum carnis meæ, quia puer sensualitatis jacet paralyticus, dissolutus morbo peccati in domo corporis mei.",
+    "english": "Lord Jesus Christ, I am not worthy that you should enter under the roof of my flesh, for the boy of my sensuality lies paralysed, undone by the sickness of sin in the house of my body.",
+    "from": "Speak But the Word"
+  },
+  {
+    "latin": "Et erat pernoctans in oratione Dei, non seculi; non pro se tamquam infirmus et indigens, sed pro nobis tamquam pius et clemens.",
+    "english": "And He kept watch all night long in the prayer of God, not of the world; not for Himself as one weak and in need, but for us, as one tender and merciful.",
+    "from": "The Choosing of the Twelve"
+  },
+  {
+    "latin": "Crux apparebit sole luculentior existens, ut non sit necessitas accusationis cum viderint crucem.",
+    "english": "The Cross shall appear, shining brighter than the sun, so that no accusation will be needed once they have seen the Cross.",
+    "from": "The Sign of the Cross in Heaven"
+  },
+  {
+    "latin": "Praesentia Salvatoris, tormentum est daemonum.",
+    "english": "The presence of the Savior is the torment of the demons.",
+    "from": "The Unclean Spirit Silenced"
   },
   {
     "latin": "Stabat Maria levans brachia in altum; et dum tangere eum valuit, caput et manus ejus dependentia trahebat supra triste pectus suum.",
@@ -100,9 +150,74 @@
     "from": "Into Your Hands"
   },
   {
+    "latin": "Quod ergo Rex esse voluit Israel, dignatio est non promotio, miserationis indicium, non potestatis augmentum; qui enim appellatus est in terra Rex Judæorum, in cœlis est Dominus Angelorum.",
+    "english": "That he willed to be King of Israel is condescension, not promotion; a sign of his mercy, not an increase of his power; for he who on earth is called King of the Jews is in heaven the Lord of the Angels.",
+    "from": "The King Comes Riding"
+  },
+  {
     "latin": "Merito ab Oriente veniunt, qui Solem justitiæ novum nobis ortum annuntiant, lætisque rumoribus totum mundum illuminant.",
     "english": "Rightly do they come from the East, who proclaim to us the Sun of Justice newly risen, and with glad tidings fill the whole world with light.",
     "from": "The Star and the Three Kings"
+  },
+  {
+    "latin": "Tantum enim desiderabant audire Christum, quod omiserant apportare secum alimentum; propter quod necessarium erat fieri miraculum.",
+    "english": "So greatly did they long to hear Christ that they had forgotten to bring food with them; and for that reason a miracle had to be wrought.",
+    "from": "The Five Loaves"
+  },
+  {
+    "latin": "O quam beatam diem, et quam beatam noctem duxerunt, audientes et videntes eum: quem multi videre et audire volentes, non viderunt neque audierunt!",
+    "english": "O how blessed a day, and how blessed a night, they passed, hearing and seeing Him: whom many, longing to see and to hear, neither saw nor heard!",
+    "from": "Come and See"
+  },
+  {
+    "latin": "Ecce fugit Christus, et nocte fugit, ut fuga quæ per se difficilis est, noctis obscuritate difficilior fiat.",
+    "english": "Behold, Christ flees, and He flees by night, so that the flight, which is hard in itself, is made harder still by the darkness of the night.",
+    "from": "The Flight into Egypt"
+  },
+  {
+    "latin": "Unde hoc, Deus meus? Ita compateris mihi exhibens hominem, ut quodammodo videaris nescire quod Deus es?",
+    "english": "Why this, my God? Do You so suffer with me, showing Yourself man, that in some way You seem not to know that You are God?",
+    "from": "Sorrowful Unto Death"
+  },
+  {
+    "latin": "Intrat per ostium, qui intrat per Christum, qui imitatur passionem Christi, qui cognoscit humilitatem Christi.",
+    "english": "He enters by the door who enters through Christ — he who imitates the Passion of Christ, who knows the humility of Christ.",
+    "from": "The Door of the Sheepfold"
+  },
+  {
+    "latin": "Ecce quidam leprosus veniens, non tam passibus corporis, quam fide cordis, genu flexo, procidens in faciem suam, adorabat eum.",
+    "english": "Behold, a certain leper came, not so much with the steps of his body as with the faith of his heart, and with bent knee, falling upon his face, he adored him.",
+    "from": "The Healing of the Leper"
+  },
+  {
+    "latin": "Obstupesce illam clarissimam dignationem, et dignatissimam caritatem, qua nobis tradidit et reliquit semetipsum, scilicet sacratissimum Corpus et Sanguinem suum vere in cibum et potum.",
+    "english": "Be astonished at that most clear condescension, and that most worthy love, with which He handed over and left to us His very self, namely His most holy Body and Blood, truly for food and for drink.",
+    "from": "The Bread He Became"
+  },
+  {
+    "latin": "Dubitatio quidem discipulorum, nostræ fidei fuit confirmatio: quippe quo amplius dubitaverunt, eo sollicitius inquisierunt, et quo verius probaverunt, eo firmius crediderunt.",
+    "english": "The doubt of the disciples was indeed the confirmation of our faith: for the more they doubted, the more anxiously they inquired; and the more truly they proved, the more firmly they believed.",
+    "from": "On the Mountain in Galilee"
+  },
+  {
+    "latin": "Fons enim pietatis erat, et ideo lacrymas continere non poterat, nec ædificia planxit parietum, sed subversionem animarum.",
+    "english": "For he was the fountain of mercy, and therefore he could not hold back his tears; nor did he weep for the walls of the buildings, but for the overthrow of souls.",
+    "from": "The Lord's Weeping over Jerusalem"
+  },
+  {
+    "latin": "Et, secundum Ambrosium, humeri Christi crucis brachia sunt: illic mea peccata deposui, in illa patibuli nobilis cruce quievi.",
+    "english": "And, according to Ambrose, the shoulders of Christ are the arms of the Cross: there I laid down my sins; upon that noble gibbet, that Cross, I found rest.",
+    "from": "The Shepherd Who Carries Me Home"
+  },
+  {
+    "latin": "Domine Jesu Christe, qui illuminasti oculos cæci nati, illumina, quæso, oculos cordis mei, ne in tenebris offendam, vel umquam in morte obdormiam.",
+    "english": "Lord Jesus Christ, who gave light to the eyes of the man born blind, give light, I beseech you, to the eyes of my heart, that I may not stumble in the darkness, nor ever fall asleep in death.",
+    "from": "The Man Born Blind"
+  },
+  {
+    "latin": "Quam angusta porta et arcta via est, quæ ducit ad vitam; et pauci sunt qui inveniunt eam!",
+    "english": "How strait is the gate, and narrow is the way that leadeth unto life; and few there are that find it!",
+    "from": "The Narrow Way"
   },
   {
     "latin": "Verbum æternum non nascitur, nisi in corde pacato; unde Psalmus dicit: Factus est in pace locus ejus.",
@@ -115,9 +230,24 @@
     "from": "Our Father"
   },
   {
+    "latin": "Magna virtus, ubi sine mora salus imperium comitatur.",
+    "english": "Great is that power, where healing follows the command without any delay.",
+    "from": "Lowered Through the Roof"
+  },
+  {
+    "latin": "Christus Mariæ Filius est candela accensa, propter tria quæ inveniuntur in ea, scilicet lumen, ignis, et cera; et in Christo sunt tria, scilicet caro, anima et deitas vera.",
+    "english": "Christ, the Son of Mary, is the lighted candle, because of the three things found in it — light, fire, and wax; and in Christ there are three — flesh, soul, and true Godhead.",
+    "from": "The Light to the Nations"
+  },
+  {
     "latin": "Radix amara crucis evanuit, flos vitæ cum fructibus erupit; et qui jacuit in morte, surrexit in gloria; sol post occasum oritur.",
     "english": "The bitter root of the cross has faded; the flower of life has burst forth with its fruits; and he who lay in death has risen in glory; the sun rises after its setting.",
     "from": "The New Day After the Sabbath"
+  },
+  {
+    "latin": "Divitibus sunt nomina in culmine mundi, sed pauperibus sunt nomina in aula Dei.",
+    "english": "The rich have their names on the summit of the world, but the poor have their names in the hall of God.",
+    "from": "The Rich Man and Lazarus at the Gate"
   },
   {
     "latin": "Sic quotidie facit nobiscum spiritualiter: si enim aliqua perplexitate vel accidia gravati pie de ipso loquimur, statim adest, confortans corda nostra et illuminans, et etiam ad amorem suum inflammans.",
@@ -128,6 +258,31 @@
     "latin": "Quasi enim homo navem ascendit, sed quasi Deus mare conturbat; quasi homo in navi dormit, sed quasi Deus ventis et mari imperat, et eorum furorem verbo coercet.",
     "english": "For as man He boards the boat, but as God He troubles the sea; as man He sleeps in the boat, but as God He commands the winds and the sea, and restrains their fury by a word.",
     "from": "The Master Asleep in the Boat"
+  },
+  {
+    "latin": "O quantus clamor, quia non erit anima ita alte in cœlo, nec ita profunde in inferno, nec corpus in sepulchro, quin audiat hunc clamorem, et contremiscat!",
+    "english": "O how great that cry shall be! For no soul will be so high in heaven, nor so deep in hell, nor any body in the grave, but it will hear this cry, and tremble!",
+    "from": "The Ten Virgins"
+  },
+  {
+    "latin": "Resplenduit enim facies ejus sicut sol, imo plus quam sol, sed nihil habet clarius cui comparetur.",
+    "english": "For His face shone as the sun — no, more than the sun, yet there is nothing brighter to which He might be compared.",
+    "from": "The Light on Tabor"
+  },
+  {
+    "latin": "Si tetigero tantum vestimentum ejus, salva ab infirmitate mea ero.",
+    "english": "If I shall touch only His garment, I shall be healed of my infirmity.",
+    "from": "If I Only Touch the Hem"
+  },
+  {
+    "latin": "Felix Maria, id est anima, quæ ad sepulchrum Christi venit videre, per meditationem, plangere per compassionem, ac ungere per devotionem!",
+    "english": "Happy the Mary — that is, the soul — who comes to the tomb of Christ: to see Him through meditation, to mourn Him through compassion, and to anoint Him through devotion!",
+    "from": "At the Tomb Before Dawn"
+  },
+  {
+    "latin": "Amor est animæ pondus portans eam quocumque ipse fertur; et anima verius est ubi amat, quam ubi animat.",
+    "english": "Love is the weight of the soul, carrying it wherever it is borne; and the soul is more truly where it loves than where it gives life.",
+    "from": "Treasure in Heaven"
   },
   {
     "latin": "Ex quo universum conculcat tumorem, dum is qui exit a Deo, et ad Deum vadit, pedes lavare voluit.",
@@ -143,5 +298,10 @@
     "latin": "Domine Jesu Christe, veni in Naim, animam meam fluctuantem tentationibus.",
     "english": "Lord Jesus Christ, come into Nain, into my soul tossed by temptations.",
     "from": "The Widow of Nain"
+  },
+  {
+    "latin": "Ecce sycomorum; ascende et tu lignum ubi pro te pependit Jesus, et videbis Jesum.",
+    "english": "Behold the sycamore: climb, you also, the wood where Jesus hung for you, and you shall see Jesus.",
+    "from": "The Man in the Sycamore"
   }
 ]
