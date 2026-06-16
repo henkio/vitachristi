@@ -1030,6 +1030,31 @@
     ]
   },
   {
+    "id": "the-cost-of-following-christ",
+    "part": "I",
+    "chapter": "XLV",
+    "title": "No Place to Lay His Head",
+    "subtitle": "The scribe who came to Christ for gain, and the cost of following",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "courage",
+      "gravity",
+      "longing"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 8:19–22; Luke 9:57–60",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ, good Master, searcher of hearts, and knower of secrets,",
+      "shut out and renew from me all craftiness and pretence,",
+      "and make me thy true and faithful disciple,"
+    ]
+  },
+  {
     "id": "the-storm-stilled",
     "part": "I",
     "chapter": "XLVI",
@@ -1051,6 +1076,31 @@
       "Lord Jesus Christ,",
       "command the blasts and motions of suggestions and temptations;",
       "come, and walk upon the waves of my heart,"
+    ]
+  },
+  {
+    "id": "the-gerasene-demoniacs",
+    "part": "I",
+    "chapter": "XLVII",
+    "title": "Legion",
+    "subtitle": "The two demoniacs of Gerasa, who cannot bear the presence of Christ",
+    "theme": "Miracles",
+    "lens": "Compassion",
+    "emotions": [
+      "wonder",
+      "fear",
+      "comfort"
+    ],
+    "journeys": [
+      "storm",
+      "daily"
+    ],
+    "gospelRef": "Matthew 8:28–32; Mark 5:1–13; Luke 8:26–33",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, most kind lover of men,",
+      "I beseech thy goodness with tears:",
+      "free me from all the filth of my sins,"
     ]
   },
   {
@@ -1663,6 +1713,54 @@
     ]
   },
   {
+    "id": "the-rebuke-of-the-pharisees-and-lawyers",
+    "part": "I",
+    "chapter": "LXXVI",
+    "title": "Tear Down the Barns",
+    "subtitle": "Christ refuses to divide an inheritance, and warns against all greed",
+    "theme": "Conflict & Opposition",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "repentance",
+      "courage"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Luke 12:13–21",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus, you would not be a judge of inheritance or a divider of estates,",
+      "for you came to gather, not to scatter,",
+      "to make many to have one heart and one soul."
+    ]
+  },
+  {
+    "id": "the-healing-at-the-pool-of-bethesda",
+    "part": "I",
+    "chapter": "LXXVIII",
+    "title": "The Pool of Bethesda",
+    "subtitle": "Christ finds the man who lay sick thirty-eight years",
+    "theme": "Miracles",
+    "lens": "Compassion",
+    "emotions": [
+      "hope",
+      "wonder",
+      "gratitude"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "John 5:1–6",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "heal me, languishing, worn down by a long and evil sickness,",
+      "and paralytic, weighed down by a lasting numbness toward the good."
+    ]
+  },
+  {
     "id": "the-barren-tree-and-the-bent-woman",
     "part": "I",
     "chapter": "LXXIX",
@@ -1684,6 +1782,126 @@
       "Lord Jesus Christ,",
       "grant me to do the fruit of good works fervently,",
       "and to persevere in them without ceasing,"
+    ]
+  },
+  {
+    "id": "the-man-with-dropsy-and-the-call-to-humi",
+    "part": "I",
+    "chapter": "LXXX",
+    "title": "The Man Swollen with Dropsy",
+    "subtitle": "Christ heals the dropsical man on the Sabbath, and calls the proud to the lowest place",
+    "theme": "Miracles",
+    "lens": "Awakening",
+    "emotions": [
+      "humility",
+      "compassion",
+      "wonder"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Luke 14:1–11",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, take hold of me and protect me with the hand of your mercy,",
+      "lest the dropsy of carnal pleasure, or avarice, or pride, prevail in me;",
+      "and grant me, through a true humility of heart and mouth and work,"
+    ]
+  },
+  {
+    "id": "the-parable-of-the-great-supper",
+    "part": "I",
+    "chapter": "LXXXI",
+    "title": "The Great Supper",
+    "subtitle": "A man prepares an eternal feast, and the invited make their excuses",
+    "theme": "Parables",
+    "lens": "Awakening",
+    "emotions": [
+      "longing",
+      "hope",
+      "love"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Luke 14:16–24",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who, willing that all men be saved,",
+      "have prepared for all the refreshment of heavenly blessedness,"
+    ]
+  },
+  {
+    "id": "at-the-feast-of-tabernacles",
+    "part": "I",
+    "chapter": "LXXXII",
+    "title": "The Feast of Tabernacles",
+    "subtitle": "Jesus withdraws while his kinsmen urge him toward the world's glory",
+    "theme": "Conflict & Opposition",
+    "lens": "Beholding",
+    "emotions": [
+      "longing",
+      "gravity",
+      "hope"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "John 7:1–8",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "grant me with heart and desire to go up to the festal day of the eternal solemnity,",
+      "and always to prepare myself for it,"
+    ]
+  },
+  {
+    "id": "the-woman-taken-in-adultery",
+    "part": "I",
+    "chapter": "LXXXIII",
+    "title": "The Woman Taken in Adultery",
+    "subtitle": "Jesus stoops, writes in the dust, and condemns no one",
+    "theme": "Conflict & Opposition",
+    "lens": "Compassion",
+    "emotions": [
+      "compassion",
+      "repentance",
+      "comfort"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "John 8:1-11",
+    "durationMin": 5,
+    "prayerPreview": [
+      "O merciful Jesus,",
+      "who didst mercifully free the woman taken in adultery from her accusers,",
+      "and, leaving her uncondemned, didst send her away in peace:"
+    ]
+  },
+  {
+    "id": "the-words-for-which-they-sought-to-stone",
+    "part": "I",
+    "chapter": "LXXXIV",
+    "title": "Light of the World",
+    "subtitle": "In the temple, the hidden God speaks the words for which they take up stones",
+    "theme": "Conflict & Opposition",
+    "lens": "Beholding",
+    "emotions": [
+      "gravity",
+      "courage",
+      "wonder"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "John 8:12, 28, 31–34",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, who invite us to hear the word of God,",
+      "teach us to bear insults and injuries,",
+      "not to seek our own glory,"
     ]
   },
   {
@@ -1732,6 +1950,150 @@
       "Lord Jesus Christ, good Shepherd,",
       "who for Thy sheep didst lay down Thy life as their ransom,",
       "Thy flesh for their food, and Thy blood for their drink;"
+    ]
+  },
+  {
+    "id": "at-the-feast-of-dedication",
+    "part": "I",
+    "chapter": "LXXXVII",
+    "title": "In the Porch of Solomon",
+    "subtitle": "At the Feast of Dedication, the Jews surround Jesus in the temple, demanding plainly: are you the Christ?",
+    "theme": "Conflict & Opposition",
+    "lens": "Beholding",
+    "emotions": [
+      "gravity",
+      "courage",
+      "trust"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "John 10:22-30",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Take care, then, that you also,",
+      "while winter draws near,",
+      "while this present life is shaken by the storms of iniquity,"
+    ]
+  },
+  {
+    "id": "the-traditions-of-the-pharisees",
+    "part": "I",
+    "chapter": "LXXXVIII",
+    "title": "The Washing of Hands",
+    "subtitle": "The Pharisees come down from Jerusalem to accuse the disciples, and the Lord lays bare their traditions against the commandment of God",
+    "theme": "Conflict & Opposition",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "repentance",
+      "courage"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 15:1–8 (with Mark 7)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, grant me so to keep the commandments of God without transgression",
+      "that I may set them before all things, one and all,",
+      "and depart from them on no occasion whatever."
+    ]
+  },
+  {
+    "id": "the-canaanite-woman-and-her-daughter",
+    "part": "I",
+    "chapter": "LXXXIX",
+    "title": "The Crumbs Beneath the Table",
+    "subtitle": "A Canaanite woman cries after Christ for her tormented daughter, and will not be sent away",
+    "theme": "Miracles",
+    "lens": "Receiving",
+    "emotions": [
+      "trust",
+      "humility",
+      "hope"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 15:21–27",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, I ask thee and beseech thee, have mercy on me,",
+      "and help me in my necessities, and in the vexations of temptations and tribulations.",
+      "And if, Lord, because I am a dog, and before thee scarcely even as a dog,"
+    ]
+  },
+  {
+    "id": "the-deaf-and-mute-man-healed",
+    "part": "I",
+    "chapter": "XC",
+    "title": "Ephphetha — Be Opened",
+    "subtitle": "Christ heals the deaf and mute man at the Sea of Galilee",
+    "theme": "Miracles",
+    "lens": "Compassion",
+    "emotions": [
+      "wonder",
+      "gratitude",
+      "comfort"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Mark 7:31–35",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, who at the last forsake the wicked,",
+      "come through the Sidon of preaching, to the sea of contrition,",
+      "of the Galilee of confession, of satisfaction, and of passing over,"
+    ]
+  },
+  {
+    "id": "the-feeding-of-the-four-thousand",
+    "part": "I",
+    "chapter": "XCI",
+    "title": "Bread in the Wilderness",
+    "subtitle": "Christ has compassion on the four thousand who would not leave Him",
+    "theme": "Miracles",
+    "lens": "Receiving",
+    "emotions": [
+      "wonder",
+      "gratitude",
+      "joy"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 15:29–36; Mark 8:1–6",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, have mercy upon the multitude:",
+      "upon the penitent, and the just who are beginning, and those advancing, the perfect and the contemplative,",
+      "who through a three days' contrition, confession, and satisfaction,"
+    ]
+  },
+  {
+    "id": "the-leaven-of-the-pharisees-and-the-blin",
+    "part": "I",
+    "chapter": "XCII",
+    "title": "The One Bread in the Boat",
+    "subtitle": "The Pharisees demand a sign from heaven; the disciples cross the lake having forgotten the bread",
+    "theme": "Miracles",
+    "lens": "Awakening",
+    "emotions": [
+      "wonder",
+      "gravity",
+      "hope"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 16:1–4; Mark 8:11–14",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ, work in me the sign of Your weakness and Your Passion unto good,",
+      "that thereby, through You, I may rejoice to be helped and consoled.",
+      "O Bread of life, grant me always to be refreshed by Your love,"
     ]
   },
   {
