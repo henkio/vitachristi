@@ -1,5 +1,10 @@
 [
   {
+    "latin": "Cor enim ambitiosi numquam quiescit; sed vel honorem, quem non habet appetit, vel eum quem habet amittere metuit.",
+    "english": "For the heart of the ambitious never rests: either it craves the honor it does not have, or it dreads to lose the one it has.",
+    "from": "The Lord Who Fled the Crown"
+  },
+  {
     "latin": "Sicut agnus coram tondente se obmutescet, et non aperiet os suum.",
     "english": "Like a lamb before its shearer, He shall be dumb, and shall not open His mouth.",
     "from": "Terce: The Silent Lamb"
@@ -13,6 +18,11 @@
     "latin": "Da mihi misero te desiderare, desiderando quærere, quærendo invenire, inveniendo amare, amando mala mea redimere, redempta non iterare.",
     "english": "Grant to me, a wretch, to desire you; by desiring, to seek you; by seeking, to find you; by finding, to love you; by loving, to redeem my evils; and, once redeemed, to do them no more.",
     "from": "The Boy Lost and Found"
+  },
+  {
+    "latin": "Non quantum des, sed ex quanto, attendit Deus.",
+    "english": "God regards not how much you give, but out of how much you give it.",
+    "from": "The Cup of Cold Water"
   },
   {
     "latin": "Magna quippe licentia, et magna gratia est mittere manum in latus illud dulcissimum, in latus illud saluberrimum, in latus, inquam, unde ab ira salvamur, unde a culpa sanamur, unde in gratia regeneramur, unde in gloria sublimamur.",
@@ -40,6 +50,11 @@
     "from": "The One Lamp Still Burning"
   },
   {
+    "latin": "Videtis me, agnoscite me; videtis facta, agnoscite factorem.",
+    "english": "You see me — then know me; you see the deeds — then know the doer.",
+    "from": "Are You the One?"
+  },
+  {
     "latin": "Magis enim voluit infirmitatem suam humiliter recognoscendo inter membra Christi numerari, quam ejus nomen immerito usurpando, ab ipso Christi corpore abscindi.",
     "english": "For he chose rather, by humbly acknowledging his own weakness, to be numbered among the members of Christ, than, by usurping the name that was not his, to be cut off from the very body of Christ.",
     "from": "I Am Not the Christ"
@@ -65,6 +80,11 @@
     "from": "Salt of the Earth, Light of the World"
   },
   {
+    "latin": "Intenta erat Martha quomodo pasceret Dominum; intenta erat Maria quomodo pasceretur a Domino.",
+    "english": "Martha was intent on how she might feed the Lord; Mary was intent on how she might be fed by the Lord.",
+    "from": "The Better Part"
+  },
+  {
     "latin": "Et significat quod ubi Christus cœnaturis est, lagena aquæ lacrymarum in expiatione debet præcedere.",
     "english": "And this signifies that where Christ is to sup, the jar of the water of tears must go before, in expiation.",
     "from": "The Supper Prepared"
@@ -73,6 +93,11 @@
     "latin": "Oratio enim viri justi cœlos penetrat; quomodo ergo in terris hostes non vincat?",
     "english": "For the prayer of a just man pierces the heavens; how then shall it not, on earth, conquer his enemies?",
     "from": "Be Merciful, Judge Not"
+  },
+  {
+    "latin": "Hostia enim Deo placabilis est salus hominum.",
+    "english": "For the sacrifice pleasing to God is the salvation of men.",
+    "from": "Lord of the Sabbath"
   },
   {
     "latin": "Necessarium enim erit, ut aliquando ita cogites te praesentem cogitatione tua, ac si tunc temporis ibi praesens fuisses quando passus fuit.",
@@ -110,6 +135,11 @@
     "from": "Lazarus, Our Friend, Sleeps"
   },
   {
+    "latin": "In facie ejus quidam fulgor divinæ gratiæ relucebat, qui animos intuentium attrahebat.",
+    "english": "In His face a certain radiance of divine grace shone forth, which drew to itself the souls of those who beheld Him.",
+    "from": "Today This Scripture Is Fulfilled"
+  },
+  {
     "latin": "Domina igitur orante et lacrymas dulciter emittente, ecce subito venit Dominus Jesus in albissimis vestibus gloriae et Resurrectionis novitatis suae; vultu sereno, speciosus, gloriosus, et gaudens, ac Matri desolatae et moerenti totus festivus apparens.",
     "english": "And so, as our Lady was praying and sweetly pouring out her tears, behold, suddenly the Lord Jesus came in garments most white, of the glory and newness of His Resurrection; with serene face, beautiful, glorious, and rejoicing, and to His desolate and mourning Mother He appeared, all festal.",
     "from": "The First to See Him Risen"
@@ -135,6 +165,11 @@
     "from": "The Lord Goes Down to Jordan"
   },
   {
+    "latin": "Quid enim stercore sordidius? Et tamen si eo bene utaris, quid fructuosius?",
+    "english": "For what is filthier than dung? And yet, if you use it well, what is more fruitful?",
+    "from": "The Barren Tree"
+  },
+  {
     "latin": "Tunc vere possidebis terram, quando inhæseris ei, qui fecit cœlum et terram.",
     "english": "Then truly shall you possess the earth, when you cleave to Him who made heaven and earth.",
     "from": "Upon the Mountain"
@@ -145,9 +180,19 @@
     "from": "The Light Goes Up Into Galilee"
   },
   {
+    "latin": "Convivante itaque Herode, paulo ante horam diei nonam, sanctus Joannes Baptista est decollatus in custodia, clamando voce magna: Domine Deus meus, tibi commendo spiritum meum.",
+    "english": "And so, while Herod feasted, a little before the ninth hour, holy John the Baptist was beheaded in his cell, crying out with a loud voice: My Lord and my God, into your hands I commend my spirit.",
+    "from": "A Lamp Extinguished"
+  },
+  {
     "latin": "Non clamor, sed amor sonat in aure Dei.",
     "english": "It is not the cry, but the love, that sounds in the ear of God.",
     "from": "The Leaping of the Forerunner"
+  },
+  {
+    "latin": "Abundat dæmonis malitia; superabundat divina clementia.",
+    "english": "The malice of the demon abounds; the divine mercy abounds beyond it.",
+    "from": "The Blind and Mute Man"
   },
   {
     "latin": "Sequere et tu pretiosissimum cœli terræque thesaurum; et porta vel pedes vel manus, brachiaque sustenta; terræ defluentes minutatim pretiosissimi sanguinis guttas curiosius collige; et pulverem pedum ejus linge.",
@@ -260,9 +305,19 @@
     "from": "The Door of the Sheepfold"
   },
   {
+    "latin": "Quæritis me propter aliud; quærite me propter me, non propter aliud, qui sum cibus permanens in vitam æternam.",
+    "english": "You seek Me for the sake of something else; seek Me for My own sake, not for anything else — I who am the food that endures unto life everlasting.",
+    "from": "Seek Jesus for His Own Sake"
+  },
+  {
     "latin": "Ecce quidam leprosus veniens, non tam passibus corporis, quam fide cordis, genu flexo, procidens in faciem suam, adorabat eum.",
     "english": "Behold, a certain leper came, not so much with the steps of his body as with the faith of his heart, and with bent knee, falling upon his face, he adored him.",
     "from": "The Healing of the Leper"
+  },
+  {
+    "latin": "Jesus tamen ibidem remanens, solo jussu et verbo filium absens sanat, ut pater ejus amplius credat.",
+    "english": "Yet Jesus, remaining in that very place, by command and word alone, being absent, heals the son — that his father might believe the more.",
+    "from": "The Word That Heals from Afar"
   },
   {
     "latin": "Ego sum vermis et non homo, opprobrium hominum et abjectio plebis.",
@@ -300,9 +355,19 @@
     "from": "The Man Born Blind"
   },
   {
+    "latin": "Dico verbo, et sanatur infirmus; et Legem sabbati vestri non transgredior, et sine opere opus virtutis consummo.",
+    "english": "I speak a word, and the sick man is healed; I do not break your law of the sabbath, and without labour I complete a work of power.",
+    "from": "The Withered Hand"
+  },
+  {
     "latin": "Operarii sunt in Ecclesia qui quærunt opus, non otium; onus, non honorem; animas, non decimas; prodesse, non præesse.",
     "english": "The laborers in the Church are those who seek work, not idleness; the burden, not the honor; souls, not tithes; to be of profit, not to preside.",
     "from": "The Harvest is Great"
+  },
+  {
+    "latin": "Ad locum unde exeunt flumina revertuntur, ut iterum fluant.",
+    "english": "Unto the place whence the rivers come forth, they return, that they may flow again.",
+    "from": "Return and Rest"
   },
   {
     "latin": "Quam angusta porta et arcta via est, quæ ducit ad vitam; et pauci sunt qui inveniunt eam!",
@@ -325,6 +390,11 @@
     "from": "Our Father"
   },
   {
+    "latin": "Exiit autem qui ubique est, non localiter sed Incarnatione; et per amictum carnis propinquior nobis factus est.",
+    "english": "He who is everywhere went out — not by changing place, but by the Incarnation; and through the garment of flesh he was made nearer to us.",
+    "from": "The Sower in the Boat"
+  },
+  {
     "latin": "Magna virtus, ubi sine mora salus imperium comitatur.",
     "english": "Great is that power, where healing follows the command without any delay.",
     "from": "Lowered Through the Roof"
@@ -333,6 +403,11 @@
     "latin": "Christus Mariæ Filius est candela accensa, propter tria quæ inveniuntur in ea, scilicet lumen, ignis, et cera; et in Christo sunt tria, scilicet caro, anima et deitas vera.",
     "english": "Christ, the Son of Mary, is the lighted candle, because of the three things found in it — light, fire, and wax; and in Christ there are three — flesh, soul, and true Godhead.",
     "from": "The Light to the Nations"
+  },
+  {
+    "latin": "Sed generatio Judaica non plorat cum Joanne plorante, neque gaudet cum Christo gaudente.",
+    "english": "But the Jewish generation does not weep with John weeping, nor rejoice with Christ rejoicing.",
+    "from": "The Children in the Marketplace"
   },
   {
     "latin": "Inveniatur ergo qui ex charitate moriatur, non obnoxius morti; et sic mors non poterit tenere innoxium, sed faciet in ea foramen, per quod transeant liberati.",
@@ -363,6 +438,11 @@
     "latin": "Ad transeundum istum mundum vidit Christus, id est approbavit duas naves.",
     "english": "To cross over this world, Christ saw — that is, approved — two boats.",
     "from": "The Boat of the Obedient"
+  },
+  {
+    "latin": "Vere enim nullum viderunt, quia corporali aspectu viderunt, non spirituali affectu.",
+    "english": "For truly they saw nothing, because they saw with the bodily eye, but not with spiritual affection.",
+    "from": "The Sign of Jonah"
   },
   {
     "latin": "Quasi enim homo navem ascendit, sed quasi Deus mare conturbat; quasi homo in navi dormit, sed quasi Deus ventis et mari imperat, et eorum furorem verbo coercet.",

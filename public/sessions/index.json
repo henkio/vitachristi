@@ -1226,6 +1226,105 @@
     ]
   },
   {
+    "id": "consolation-amid-the-burden-of-precepts",
+    "part": "I",
+    "chapter": "LV",
+    "title": "The Cup of Cold Water",
+    "subtitle": "Christ promises that even a cup of cold water, given in His name, shall not lose its reward",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "comfort",
+      "rest",
+      "trust"
+    ],
+    "journeys": [
+      "storm",
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 10:40–42",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, good Master,",
+      "grant me so to venerate and receive, for your name's sake,",
+      "the prophets, who preach you by their teaching,"
+    ]
+  },
+  {
+    "id": "john-s-question-and-the-lord-s-praise-of",
+    "part": "I",
+    "chapter": "LVI",
+    "title": "Are You the One?",
+    "subtitle": "John, bound in prison, sends his disciples to ask the Lord — and Christ answers in deeds",
+    "theme": "Conflict & Opposition",
+    "lens": "Beholding",
+    "emotions": [
+      "hope",
+      "gravity",
+      "trust"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 11:2–6",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "since you are he who is to come to save us,",
+      "and we look for no other:"
+    ]
+  },
+  {
+    "id": "the-rebuke-of-the-unbelieving-cities",
+    "part": "I",
+    "chapter": "LVII",
+    "title": "The Children in the Marketplace",
+    "subtitle": "Christ rebukes the generation that would neither mourn with John nor rejoice with him",
+    "theme": "Conflict & Opposition",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "sorrow",
+      "repentance"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 11:16–19",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who by word and example have called us",
+      "to grieve for our sins and to rejoice for spiritual goods:"
+    ]
+  },
+  {
+    "id": "the-mission-of-the-seventy-two",
+    "part": "I",
+    "chapter": "LVIII",
+    "title": "Return and Rest",
+    "subtitle": "The apostles come back to Jesus from preaching, and the seventy-two are sent and return",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "joy",
+      "hope",
+      "courage"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Luke 10:1–17 (with Mark 6:30–31)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "grant me, through the holy preaching of thy disciples,",
+      "so to be taught by thy grace,"
+    ]
+  },
+  {
     "id": "the-good-samaritan",
     "part": "I",
     "chapter": "LIX",
@@ -1247,6 +1346,128 @@
       "Lord Jesus Christ, who for me, a wretch, willed to be sorrowful and heavy:",
       "grant me to bear all my sorrows unceasingly up to You;",
       "and deign to bear them together with me, in union with Your own sorrow."
+    ]
+  },
+  {
+    "id": "martha-s-service-and-mary-s-repose",
+    "part": "I",
+    "chapter": "LXI",
+    "title": "The Better Part",
+    "subtitle": "Mary sits at the Lord's feet while Martha serves",
+    "theme": "Calling & Discipleship",
+    "lens": "Receiving",
+    "emotions": [
+      "rest",
+      "love",
+      "longing"
+    ],
+    "journeys": [
+      "storm",
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Luke 10:38–42",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, who for us camest in the flesh,",
+      "through the union of the divine nature and the human,",
+      "let the bowels of thy mercy be moved over me,"
+    ]
+  },
+  {
+    "id": "the-healing-of-the-official-s-son",
+    "part": "I",
+    "chapter": "LXIII",
+    "title": "The Word That Heals from Afar",
+    "subtitle": "Christ heals the official's dying son at Cana, with a single word",
+    "theme": "Miracles",
+    "lens": "Receiving",
+    "emotions": [
+      "trust",
+      "wonder",
+      "gratitude"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "John 4:46–53",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who from Judea of angelic confession and praise came into Galilee, the wheel of this world:",
+      "for I am sick, tempted by the beauty of temporal things,"
+    ]
+  },
+  {
+    "id": "the-parables-of-the-kingdom",
+    "part": "I",
+    "chapter": "LXIV",
+    "title": "The Sower in the Boat",
+    "subtitle": "Christ teaches the crowds from a little ship, scattering the seed of the Word",
+    "theme": "Parables",
+    "lens": "Awakening",
+    "emotions": [
+      "wonder",
+      "hope",
+      "longing"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 13:1–9; Mark 4:1–9; Luke 8:4–8",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, make me to go out from my old life,",
+      "that the seed of your Word be not trampled on the wayside of distraction,",
+      "nor wither on the rock of hard obstinacy,"
+    ]
+  },
+  {
+    "id": "rejection-at-nazareth",
+    "part": "I",
+    "chapter": "LXV",
+    "title": "Today This Scripture Is Fulfilled",
+    "subtitle": "The Lord rises to read in the synagogue at Nazareth, and reveals that the prophet spoke of Him",
+    "theme": "Conflict & Opposition",
+    "lens": "Beholding",
+    "emotions": [
+      "sorrow",
+      "gravity",
+      "courage"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Luke 4:16–21",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who so humbled yourself to every service",
+      "that you did not disdain to take up the office of reader,"
+    ]
+  },
+  {
+    "id": "the-beheading-of-john-the-baptist",
+    "part": "I",
+    "chapter": "LXVI",
+    "title": "A Lamp Extinguished",
+    "subtitle": "The beheading of John the Baptist in Herod's prison, amid a banquet",
+    "theme": "Conflict & Opposition",
+    "lens": "Compassion",
+    "emotions": [
+      "sorrow",
+      "gravity",
+      "courage"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 14:6–12; Mark 6:21–29",
+    "durationMin": 5,
+    "prayerPreview": [
+      "My Lord and my God,",
+      "into your hands I commend my spirit.",
+      "As John, friend of the Bridegroom, gave his life for the truth,"
     ]
   },
   {
@@ -1274,6 +1495,30 @@
     ]
   },
   {
+    "id": "against-ambition-and-the-faults-of-the-c",
+    "part": "I",
+    "chapter": "LXVIII",
+    "title": "The Lord Who Fled the Crown",
+    "subtitle": "Christ slips into the mountain alone, escaping the hands that would crown him",
+    "theme": "Conflict & Opposition",
+    "lens": "Awakening",
+    "emotions": [
+      "humility",
+      "gravity",
+      "repentance"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "John 6:15 (cf. Matthew 14:22–23)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, you who resist the proud and give grace to the humble,",
+      "grant to all who take up the state of dignity and rule for the good of obedience, humbly and without ambition, and so persevere in it,",
+      "grace in the present, and glory in time to come;"
+    ]
+  },
+  {
     "id": "peter-sinks",
     "part": "I",
     "chapter": "LXIX",
@@ -1294,6 +1539,151 @@
       "Lord Jesus Christ, most merciful,",
       "deign to climb into the little boat of my heart,",
       "and still the windy gusts of pride and the storms of rising vices,"
+    ]
+  },
+  {
+    "id": "the-hard-saying-and-the-disciples-who-tu",
+    "part": "I",
+    "chapter": "LXX",
+    "title": "Seek Jesus for His Own Sake",
+    "subtitle": "By the shore at Capernaum, the crowd that ate the loaves finds Him again — and He sees why they came",
+    "theme": "Conflict & Opposition",
+    "lens": "Following",
+    "emotions": [
+      "gravity",
+      "trust",
+      "sorrow"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "John 6:22–27",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, sufficient salvation of my soul,",
+      "grant me to desire You alone,",
+      "desiring You for Your own sake;"
+    ]
+  },
+  {
+    "id": "passing-through-the-grainfields",
+    "part": "I",
+    "chapter": "LXXI",
+    "title": "Lord of the Sabbath",
+    "subtitle": "The hungry disciples pluck grain in the fields, and the Pharisees murmur",
+    "theme": "Conflict & Opposition",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "trust",
+      "courage"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 12:1–8 (with Mark 2:23–28, Luke 6:1–5)",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus, you are greater than the temple, for you are its Lord;",
+      "you are Lord even of the sabbath.",
+      "You will the affection of mercy and of pity"
+    ]
+  },
+  {
+    "id": "the-man-with-the-withered-hand",
+    "part": "I",
+    "chapter": "LXXII",
+    "title": "The Withered Hand",
+    "subtitle": "A man with a shrivelled hand stands in the synagogue, and Christ says, \"Stretch out your hand.\"",
+    "theme": "Miracles",
+    "lens": "Compassion",
+    "emotions": [
+      "compassion",
+      "wonder",
+      "courage"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Luke 6:6–10 (with Matthew 12 and Mark 3)",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "I beg you, by the depths of your mercy,",
+      "that you would mercifully heal me,"
+    ]
+  },
+  {
+    "id": "the-blind-and-mute-demoniac",
+    "part": "I",
+    "chapter": "LXXIII",
+    "title": "The Blind and Mute Man",
+    "subtitle": "A man bound by a demon, blind and mute, is brought to Jesus and made whole",
+    "theme": "Miracles",
+    "lens": "Compassion",
+    "emotions": [
+      "wonder",
+      "comfort",
+      "gravity"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 12:22; Luke 11:14",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus,",
+      "the devil I led into the house of my soul:",
+      "drive him out, and dwell there Yourself."
+    ]
+  },
+  {
+    "id": "the-sign-sought-from-heaven-and-the-uncl",
+    "part": "I",
+    "chapter": "LXXIV",
+    "title": "The Sign of Jonah",
+    "subtitle": "The Pharisees demand a sign from heaven, and the Lord gives them only the sign of His own death and burial.",
+    "theme": "Conflict & Opposition",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "repentance",
+      "fear"
+    ],
+    "journeys": [
+      "storm",
+      "daily"
+    ],
+    "gospelRef": "Matthew 12:38–41",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, good Master, work in me the sign of Thy grace unto good,",
+      "that me, a wretched man, whom that great whale and dragon has swallowed up by sins spiritual and carnal, as by days and nights, and these three, by consent, by deed, and by habit,",
+      "Thou wouldst mercifully deign to deliver from his jaws."
+    ]
+  },
+  {
+    "id": "the-barren-tree-and-the-bent-woman",
+    "part": "I",
+    "chapter": "LXXIX",
+    "title": "The Barren Tree",
+    "subtitle": "The Lord seeks fruit on the fig tree, and finds none — yet stays the axe one more year",
+    "theme": "Miracles",
+    "lens": "Compassion",
+    "emotions": [
+      "compassion",
+      "hope",
+      "gratitude"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Luke 13:1–9",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "grant me to do the fruit of good works fervently,",
+      "and to persevere in them without ceasing,"
     ]
   },
   {
