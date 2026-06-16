@@ -1,0 +1,55 @@
+{
+  "id": "voice-mary-cross",
+  "type": "voice",
+  "character": "Mary, the Mother",
+  "scene": "I stood by the cross",
+  "title": "The Mother Beneath the Cross",
+  "gospelRef": "John 19:25–27",
+  "theme": "The Passion",
+  "emotions": [
+    "sorrow",
+    "love",
+    "courage"
+  ],
+  "durationMin": 4,
+  "narration": [
+    "I stand below him, and his eyes search for mine.",
+    "The blood has poured out of him; the veins are emptied, the strength is gone.",
+    "I watch the eyes I knew grow heavy, begin to fail.",
+    "I watch the face I kissed turn pale.",
+    "Now he bends his head toward me.",
+    "Toward me. His mother.",
+    "And I know what this bowing is. It is a last greeting.",
+    "An ave he cannot speak, for the pain is past all words.",
+    "Ave of grief, ave of every desolation — he gives it with his head alone.",
+    "He commends his body to me. This body, so cruelly dug and torn, broken on every side.",
+    "I bore this body. I held it whole. Now I am given it ruined.",
+    "He turns also toward his Father, showing he dies obeying, not unwilling.",
+    "Even thanking him — that the Father calls him home.",
+    "He teaches us, even now, to give thanks in our suffering.",
+    "Then the great cry. He summons all his voice, and weeping, calls out.",
+    "Father, into your hands I commend my spirit.",
+    "And with his head bowed, he gives up the spirit — not torn from him, but sent.",
+    "When he willed it, and because he willed it, he breathes his last.",
+    "The cry was so great it was heard down into the depths; heaven and earth tremble.",
+    "No dying man could cry like that. This was the voice of God.",
+    "I feel the ground move beneath my feet, and I do not fall.",
+    "Of all his pains, this parting is the bitterest, for nothing is more terrible than death.",
+    "And I, his mother, stand. I stand, and I receive him."
+  ],
+  "prayer": [
+    "Lord Jesus Christ,",
+    "who in the ninth hour, hanging on the gibbet,",
+    "cried with a great voice and into the Father's hands commended your spirit,",
+    "and with bowed head gave that same spirit up:",
+    "keep my spirit, I pray, commended to you now and always.",
+    "Pierce my heart through with the sword of love,",
+    "press into me the wounds of your body,",
+    "and at the last, set my spirit, commended into your hands,",
+    "among the blessed. Amen."
+  ],
+  "latinJewel": {
+    "latin": "Pater, in manus tuas commendo spiritum meum.",
+    "english": "Father, into your hands I commend my spirit."
+  }
+}

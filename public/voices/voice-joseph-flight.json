@@ -1,0 +1,62 @@
+{
+  "id": "voice-joseph-flight",
+  "type": "voice",
+  "character": "Joseph",
+  "scene": "I took the child by night",
+  "title": "Joseph: I Took the Child by Night",
+  "gospelRef": "Matthew 2:13–14",
+  "theme": "Hidden Life",
+  "emotions": [
+    "fear",
+    "trust",
+    "love"
+  ],
+  "durationMin": 4,
+  "narration": [
+    "We were going home. Toward Nazareth.",
+    "The danger had only begun to spread its shadow over the Child.",
+    "Then sleep took me, and in the sleep an angel.",
+    "Rise. Take the Boy and his Mother. Flee into Egypt.",
+    "Herod will seek the Child to destroy him.",
+    "I wake. My heart still pounding with the word.",
+    "I shake her awake. I tell her everything I heard.",
+    "No delay. None. She rises at once.",
+    "Her whole being trembles at the voice.",
+    "She will not be found careless of her Son's life.",
+    "She lifts the sleeping Boy, and he cries, startled, untimely.",
+    "I watch them, and something in me breaks with tenderness.",
+    "It is night. We go out into the dark.",
+    "By night, because flight belongs to night more than to day.",
+    "So the thing be done in secret, the danger slipped past unseen.",
+    "We had the word of God — yet still we use the human road.",
+    "We do not omit what we ourselves can do.",
+    "The flight is hard. The darkness makes it harder.",
+    "She is a girl, lately risen from childbirth, delicate.",
+    "I am old. The roads are rough and strange to us.",
+    "And the Child too small, too tender, to carry such a way.",
+    "Poor, with almost nothing, into a foreign land we do not know.",
+    "Among idolaters we are forced to dwell.",
+    "All of this is the matter of our affliction.",
+    "Yet I tell myself: this God grants no privilege he kept from himself.",
+    "Nor from her. So I take patience, and I walk.",
+    "Egypt — that he might give light to those who sit in darkness.",
+    "The land that burned with impiety, he will kindle with the fire of faith."
+  ],
+  "prayer": [
+    "Lord Jesus Christ,",
+    "who while still an infant willed to suffer persecution and exile,",
+    "give me, wretched as I am,",
+    "to bear all these things patiently for you —",
+    "and even death, if it must be.",
+    "Teach me to despise all the world's prosperity",
+    "and to fear none of its adversity.",
+    "When consolation comes, let me not be lifted up;",
+    "when trouble comes, let me not be broken.",
+    "Let me walk, like Joseph, by night if I must,",
+    "trusting the word that wakes me. Amen."
+  ],
+  "latinJewel": {
+    "latin": "Surge et accipe Puerum et Matrem ejus, et fuge in Egyptum.",
+    "english": "Rise and take the Child and his Mother, and flee into Egypt."
+  }
+}

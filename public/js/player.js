@@ -12,6 +12,14 @@ const Player = (() => {
   ];
 
   function buildScreens(s){
+    if (s.type === 'voice'){
+      const out = [];
+      out.push({ name:s.character||'A voice', lines:(s.narration||[]).map(t=>({t,cls:''})) });
+      if (s.latinJewel && s.latinJewel.latin)
+        out.push({ name:'', lines:[{t:s.latinJewel.latin,cls:'jewel-latin'},{t:s.latinJewel.english,cls:'jewel-en'}] });
+      out.push({ name:'Pray', lines:(s.prayer||[]).map(t=>({t,cls:'prayer'})) });
+      return out.filter(sc=>sc.lines.length);
+    }
     const out = [];
     out.push({ name:'Be Still', lines:(s.movements.stillness||[]).map(t=>({t,cls:''})) });
     const gospel = [];
@@ -68,14 +76,15 @@ const Player = (() => {
   function showIntro(s){
     idx = -1;
     const inner = el.querySelector('[data-role=inner]');
-    el.querySelector('[data-role=mlabel]').textContent = `Part ${s.part} · Chapter ${s.chapter}`;
+    const isVoice = s.type==='voice';
+    el.querySelector('[data-role=mlabel]').textContent = isVoice ? 'A Voice' : `Part ${s.part} · Chapter ${s.chapter}`;
     el.querySelector('[data-role=progress]').innerHTML='';
     el.querySelector('[data-role=hint]').style.visibility='hidden';
     inner.innerHTML = `
       <div class="session-intro">
-        <div class="tag">${s.theme||''}${s.lens?' · '+s.lens:''}</div>
+        <div class="tag">${isVoice ? ('In the voice of '+(s.character||'')) : (s.theme||'')+(s.lens?' · '+s.lens:'')}</div>
         <h1>${s.title}</h1>
-        <div class="sub">${s.subtitle||''}</div>
+        <div class="sub">${isVoice ? (s.scene||'') : (s.subtitle||'')}</div>
         <div class="ref">${s.gospelRef||''} &nbsp;·&nbsp; ${s.durationMin||4} min</div>
         <button class="btn solid" data-role="begin">Begin</button>
         <div style="margin-top:18px"><span class="emos" style="justify-content:center">${(s.emotions||[]).map(e=>`<span class="emo">${e}</span>`).join('')}</span></div>

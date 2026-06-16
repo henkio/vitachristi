@@ -1,0 +1,55 @@
+{
+  "id": "voice-shepherd",
+  "type": "voice",
+  "character": "A shepherd of Bethlehem",
+  "scene": "The night the sky opened",
+  "title": "The Shepherd at the Tower of the Flock",
+  "gospelRef": "Luke 2:8–16",
+  "theme": "Nativity",
+  "emotions": [
+    "wonder",
+    "fear",
+    "joy"
+  ],
+  "durationMin": 4,
+  "narration": [
+    "It is the fourth watch. The deepest fold of the night.",
+    "We keep the flock here, by the old tower between Bethlehem and Jerusalem — the place men call the tower of the flock, where Rachel lies buried.",
+    "We are awake. We are always awake at this hour, watching, guarding the sheep against the wolf in the dark.",
+    "Then one is standing beside us. Right there. A man in a white garment, his face shining, glad.",
+    "And the brightness of God breaks over us — over my body, my face, and somehow inside me too, in the mind, as if a sun had risen in the dark.",
+    "I am afraid. We are all afraid, a great fear, at this sudden light, this thing we have never seen.",
+    "He says: Do not be afraid.",
+    "He says: I bring you good news. A great joy. For all the people.",
+    "Today, he says — to you — a Savior is born, in the city of David. He is Christ the Lord.",
+    "To us. The poor ones. The simple ones. The ones who keep watch in the cold.",
+    "And he gives us a sign: you will find a child, wrapped in swaddling cloths, laid in a manger.",
+    "Not in gold. Not in silk. Swaddling bands, and an animals' trough.",
+    "Then — suddenly — he is not alone.",
+    "The whole night fills with them. A multitude of the heavenly host, the army of heaven, ranged around him.",
+    "And with one voice they sing: Glory to God in the highest, and on earth peace to men of good will.",
+    "The night is lit like day. The dark is gone, burned away by the brightness of God.",
+    "Then they rise from us into heaven, the singing climbing with them, until the sky is empty and still.",
+    "And I say to the others — we all say it — let us go over to Bethlehem. Let us see this thing the Lord has made known to us.",
+    "We do not walk. We run. Driven by the joy of it, the longing to see the child.",
+    "And we find them — Mary, and Joseph, and the infant laid in the manger, just as he told us.",
+    "The doors are not shut. For peace lies over all the earth tonight, and the town is full of strangers; so we come in by night and stand before him.",
+    "I look on him with my own eyes. The child in the straw. And I know — God is here, laid low among the beasts, for us.",
+    "We go back to the flock with an enormous joy, glorifying and praising God for all we have heard and seen, just as it was told to us."
+  ],
+  "prayer": [
+    "Glory to you, O God, in the highest,",
+    "and on earth, peace to men of good will.",
+    "You sent your light into our cold watch,",
+    "and did not pass over the poor, the simple, the watching ones.",
+    "Let me run, as those shepherds ran, with no sloth and no delay,",
+    "toward the child laid low in the manger for me.",
+    "And let me return, glorifying and praising you with heart and mouth,",
+    "for all that I have heard, and all that you have shown.",
+    "Glory to you in the highest, O God; on earth, your peace. Amen."
+  ],
+  "latinJewel": {
+    "latin": "Vigilantibus pastoribus annuntiatur gaudium lucis, et illis dicitur esse natum Salvatorem, pauperibus atque laborantibus.",
+    "english": "To the watching shepherds the joy of light is announced, and to them — the poor and the laboring — it is said that a Savior is born."
+  }
+}

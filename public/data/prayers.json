@@ -1,5 +1,59 @@
 [
   {
+    "ref": "In the Beginning Was the Word · John 1:1–3",
+    "text": [
+      "Lord Jesus, eternal Word of the Father,",
+      "you were in the beginning, the Principle from the Principle.",
+      "With thee is the Principle in the day of thy strength, in the splendours of the Saints;",
+      "from the womb, before Lucifer, you were begotten.",
+      "Your generation, who shall tell?",
+      "Be the beginning of my every intention,",
+      "and the end toward which I move,",
+      "that my acts may be divine,",
+      "since the beginning and the end are one and the same — you, my God."
+    ],
+    "theme": "Incarnation",
+    "part": "I",
+    "chapter": "I"
+  },
+  {
+    "ref": "The Remedy Devised · none (Vita Christi, Part I, ch. II — pre-Incarnation; no Gospel quoted)",
+    "text": [
+      "I beseech You, O Lord, let the word You have spoken be fulfilled.",
+      "Why, O Lord, have You made me?",
+      "For Truth herself knows that I perish, if You never show mercy.",
+      "The rational creature has need of Your pity,",
+      "for she is made wretched, and exceedingly miserable.",
+      "The time has come, O Lord, to have mercy upon her."
+    ],
+    "theme": "Incarnation",
+    "part": "I",
+    "chapter": "II"
+  },
+  {
+    "ref": "The Forerunner Promised · Luke 1:5–13",
+    "text": [
+      "Fear not, Zacharias, for your prayer is heard.",
+      "Lord, You did not despise the prayer of Your servant,",
+      "who prayed not for offspring he had ceased to hope for,",
+      "but for the sins of the people, and their redemption,",
+      "and the coming of the Messiah.",
+      "Make me also mindful of You,",
+      "to carry the memory of You in my breast,",
+      "for my own salvation and the salvation of others.",
+      "Let me enter Your temple by diligent care for Your worship,",
+      "and offer the incense of devout prayer.",
+      "And as You sent the Forerunner to prepare Your people,",
+      "preaching penance and faith,",
+      "so prepare my heart for the Saviour,",
+      "through whom grace and truth came to be.",
+      "Amen."
+    ],
+    "theme": "Incarnation",
+    "part": "I",
+    "chapter": "IV"
+  },
+  {
     "ref": "The Word Made Flesh in Her · Luke 1:26–34",
     "text": [
       "O Jesus, Son of the living God,",
@@ -23,6 +77,65 @@
     "chapter": "V"
   },
   {
+    "ref": "The Leaping of the Forerunner · Luke 1:39-44, 57-63",
+    "text": [
+      "Holy John the Baptist,",
+      "you who were filled with God before you were born from the womb,",
+      "knowing God before you were known in the world:",
+      "to you I flee, anxious, whom grace made so dear a friend of God —",
+      "I, whom my own iniquity made so guilty before God.",
+      "Remember, then, lord, that as the grace of God so raised you up,",
+      "so your mercy may lift up the one whom his own fault has so cast down.",
+      "My iniquity made me what I am; but you, not you, but the grace of God made you.",
+      "Obtain for me, a wretch, that as you exulted with great joy at the first coming of our Saviour,",
+      "so I too may be counted worthy to rejoice at His second coming,",
+      "and to exult with the saints in glory. Amen."
+    ],
+    "theme": "Nativity",
+    "part": "I",
+    "chapter": "VI"
+  },
+  {
+    "ref": "The Book of His Generations · Matthew 1:1–2; Luke 3",
+    "text": [
+      "Lord Jesus Christ, our hope and our trust,",
+      "be mindful of what You took upon Yourself for our redemption.",
+      "Be mindful that, the Creator of all things,",
+      "You deigned to take our nature and become aware of our frailty.",
+      "You came, O Lord, for the sake of sinners,",
+      "that You might blot out the sins of all.",
+      "What shall I render to You? What can be worthily done for this?",
+      "I praise You; I give You thanks with my whole heart,",
+      "for Your measureless benefits,",
+      "by which You came to the aid of a lost human race.",
+      "And I pray You, most merciful Lord,",
+      "that, having so bent down for us as to deign to become man,",
+      "You would not suffer to perish in us",
+      "what in mercy You resolved to assume.",
+      "Make me render to You a service grateful and owed. Amen."
+    ],
+    "theme": "Incarnation",
+    "part": "I",
+    "chapter": "VII"
+  },
+  {
+    "ref": "The Silence of Joseph · Matthew 1:18–21",
+    "text": [
+      "Lord Jesus Christ, who art the impregnable wall of all who hope in thee,",
+      "be thou my refuge in tribulation;",
+      "behold my tribulations and my distresses, and have mercy on me,",
+      "and by all thy compassions come to my aid.",
+      "Behold my weakness, and with a father's mercy protect me,",
+      "that, upheld by thy providence, I may never be forsaken of thy consolation and mercy.",
+      "Remember, Lord, thy creature, and drive far from me the enemies that lie in wait for me;",
+      "that, fortified by thy mercy, I may know the sweetness of thy goodness in me,",
+      "and pay a worthy penance for my sins. Amen."
+    ],
+    "theme": "Incarnation",
+    "part": "I",
+    "chapter": "VIII"
+  },
+  {
     "ref": "The King Enrolled Among Us · Luke 2:1–5",
     "text": [
       "Would that You, Lord Jesus,",
@@ -34,6 +147,21 @@
     "theme": "Nativity",
     "part": "I",
     "chapter": "IX"
+  },
+  {
+    "ref": "The Knife of Stone · Luke 2:21",
+    "text": [
+      "O merciful Jesus, who, born of the Virgin under the Law, willed to be circumcised:",
+      "circumcise, O merciful Jesus, the thoughts, the words, and the works of Your servant,",
+      "that I may carry through nothing contrary to Your will in thinking, in speaking, in working.",
+      "Behold, O Lord, before You are: my heart, my tongue, my senses and my members;",
+      "they strive indeed, but of themselves they cannot.",
+      "Do You that which they cannot, and perfect the desire of me, a sinner,",
+      "You who are accustomed to grant the just their desire. Amen."
+    ],
+    "theme": "Nativity",
+    "part": "I",
+    "chapter": "X"
   },
   {
     "ref": "The Star and the Three Kings · Matthew 2:1–2",
@@ -96,6 +224,26 @@
     "chapter": "XIII"
   },
   {
+    "ref": "The Return from Egypt · Matthew 2:19–21",
+    "text": [
+      "O most gentle Jesus,",
+      "who, born of the Virgin, withdrew into the regions of Egypt,",
+      "and, called out of Egypt, returned into the land of Israel:",
+      "call me back, O Lord, your servant,",
+      "cast out from before the sight of your eyes into the Egypt of this exile,",
+      "banished in the darkness of this pilgrimage.",
+      "From the regions of Egypt, from the darkness of worldly living,",
+      "lead me back in body, lead me back in mind, lead me back in will.",
+      "Make me forsake my vices, and pass over to the virtues,",
+      "and deign to bring me into the land of promise:",
+      "now by faith, hope, and charity;",
+      "but in time to come, in reality, in vision, in glory, and in truth. Amen."
+    ],
+    "theme": "Hidden Life",
+    "part": "I",
+    "chapter": "XIV"
+  },
+  {
     "ref": "The Boy Lost and Found · Luke 2:40–46",
     "text": [
       "Lord Jesus Christ, Son of the living God,",
@@ -120,6 +268,107 @@
     "theme": "Hidden Life",
     "part": "I",
     "chapter": "XV"
+  },
+  {
+    "ref": "The Hidden Years · Luke 2:51",
+    "text": [
+      "O Jesus, meek, the very pattern of true patience,",
+      "and the example of humility,",
+      "drive far from me all swelling of pride,",
+      "and every appetite of vain glory,",
+      "every kind at once of so great a plague",
+      "and so great a malice.",
+      "Let there not be, O Lord, nor even seem to be,",
+      "any sign of so great an evil and so great a ruin",
+      "in Your servant —",
+      "not in my conduct, not in my words,",
+      "not in my deeds,",
+      "nor before You in my thoughts.",
+      "Found me in true and deep humility,",
+      "that no place may lie open in me",
+      "to the snares of my enemies,",
+      "and grant that I may be little in my own eyes,",
+      "that I may find full grace",
+      "in the eyes of Your majesty. Amen."
+    ],
+    "theme": "Hidden Life",
+    "part": "I",
+    "chapter": "XVI"
+  },
+  {
+    "ref": "The Voice in the Wilderness · Matthew 3:1–10; Luke 3:1–14",
+    "text": [
+      "Most blessed John the Baptist, forerunner of Christ and most holy virgin,",
+      "who preached penance to sinners by your word",
+      "and showed it no less by your example,",
+      "leading a life austere in food and clothing,",
+      "and withdrawing yourself from the enticements of the world:",
+      "I beseech you, obtain for me by your holy prayers",
+      "that the Lord may grant me fitting abstinence",
+      "of food and drink, of thought, of speech, and of deed;",
+      "that He may guard me from all defilement of mind and body,",
+      "and grant me, as long as I dwell in this temporal life,",
+      "to be set apart from vices, and to do battle for Him,",
+      "and so to bring forth fruits worthy of penance,",
+      "that I may obtain pardon of all my sins",
+      "and come to life everlasting. Amen."
+    ],
+    "theme": "Baptism & Temptation",
+    "part": "I",
+    "chapter": "XVII"
+  },
+  {
+    "ref": "The True Light · John 1:6–12",
+    "text": [
+      "Lord Jesus Christ, Son of the living God, who art the true Light that enlightens every man coming into this world,",
+      "I, a wretch obscured by dense darkness, adore thee,",
+      "beseeching thy mercy, that thou wouldst enlighten my soul, form my mind, order my thoughts,",
+      "compose my senses, and direct my words and my deeds,",
+      "so that the author of iniquity and the lover of darkness may not snatch me away, nor find his mark in me;",
+      "but, struck by the splendour of the truest Light, may flee far from me,",
+      "that, pressing on by the clear and straight path toward thee, the Author of light,",
+      "I may come to thy everlasting glory. Amen."
+    ],
+    "theme": "Baptism & Temptation",
+    "part": "I",
+    "chapter": "XVIII"
+  },
+  {
+    "ref": "I Am Not the Christ · John 1:19–21",
+    "text": [
+      "Lord, Lord, open to us, for we stand knocking at your door.",
+      "We dare not call ourselves yours if we do not do your works — for that, as your servant says, would be a lie.",
+      "You have said: You are my friends, if you do what I command you; do not say to us, I do not know you.",
+      "Give us the humility of John, than which nothing is greater,",
+      "who confessed he was not the Christ, and was not lifted up into pride.",
+      "Number us, who humbly acknowledge our own weakness, among the members of your body;",
+      "let us never be cut off from you by seizing a glory that is not ours.",
+      "Make us not air that lifts itself up, but earth that is humbled;",
+      "not the voice that claims to be the Word, but only a voice that prepares your way."
+    ],
+    "theme": "Baptism & Temptation",
+    "part": "I",
+    "chapter": "XIX"
+  },
+  {
+    "ref": "The Tribunal of the Heart · Luke 11:32 (the men of Nineveh); cf. Proverbs 18:3, Psalm 130:1",
+    "text": [
+      "Lord, the patience of your mercy has led me to repentance:",
+      "let me not waste it by delay.",
+      "You promised pardon to the one who repents,",
+      "but to the one who puts it off you did not promise tomorrow.",
+      "So I will not despise, I will not despair —",
+      "out of the depth of my sins I cry to you.",
+      "Receive the blood of a confessing soul, poured out in tears.",
+      "Judge me now within myself, that I be not judged by you;",
+      "turn my will and my ways toward the better while I still can.",
+      "I let go what is uncertain, and I hold fast to you, who are certain.",
+      "Grant me to do true penance while I am whole,",
+      "and to be found running toward you on my last day."
+    ],
+    "theme": "Baptism & Temptation",
+    "part": "I",
+    "chapter": "XX"
   },
   {
     "ref": "The Lord Goes Down to Jordan · Matthew 3:13–15 (with Mark 1, Luke 3)",
@@ -166,6 +415,22 @@
     "chapter": "XXII"
   },
   {
+    "ref": "Behold the Lamb of God · John 1:29–34",
+    "text": [
+      "O Lamb of God,",
+      "acknowledge me, a wretched man,",
+      "among the sheep to be set at your right hand.",
+      "But first forgive me my sins and offenses,",
+      "that you may the better acknowledge me among your sheep.",
+      "Lamb of God, have mercy on me.",
+      "Lamb of God, have mercy on me.",
+      "Lamb of God, give me peace."
+    ],
+    "theme": "Baptism & Temptation",
+    "part": "I",
+    "chapter": "XXIII"
+  },
+  {
     "ref": "Come and See · John 1:35–39",
     "text": [
       "O good Jesus, Redeemer of the lost, Saviour of the redeemed, hope of the exiled.",
@@ -202,6 +467,110 @@
     "theme": "Miracles",
     "part": "I",
     "chapter": "XXV"
+  },
+  {
+    "ref": "The Cleansing of the Temple · John 2:13–17",
+    "text": [
+      "Brethren, let every Christian, in the members of Christ, be eaten up with zeal for the house of God.",
+      "Who is eaten up with zeal for the house of God?",
+      "He who, whatever he sees there gone wrong, strives to have it corrected, longs to see it amended, and is not at rest.",
+      "If you cannot amend it, bear it, groan, sigh, endure the chaff.",
+      "You see a brother running to the theatre? Forbid him, warn him, grieve over him — so the zeal of the Lord's house eats you up.",
+      "You see others running, and willing to be drunk? Forbid whom you can, hold whom you can, frighten whom you can.",
+      "But if you are cold and withered, looking to yourself alone,",
+      "and say in your heart: What is it to me to care for the sins of others? My own soul is enough, that I keep it whole for God —",
+      "does there not come to your mind that servant who hid his talent, and would not put it out?",
+      "Was he not accused, not because he lost it, but because he kept it without gain?",
+      "So then hear, my brethren, that you be not at rest:",
+      "cease not to gain souls for Christ, for you yourselves were gained by Christ."
+    ],
+    "theme": "Conflict & Opposition",
+    "part": "I",
+    "chapter": "XXVI"
+  },
+  {
+    "ref": "He Must Increase, I Must Decrease · John 3:22–30 (with Matthew 14, Mark 6)",
+    "text": [
+      "Lord Jesus Christ, good Master,",
+      "teach me the truth of life, of justice, and of doctrine —",
+      "of heart, of mouth, and of work —",
+      "never to forsake it through fear, or human favor, or worldly regard.",
+      "Let no tenderness of carnal fear or love prevail in me",
+      "to hinder the perfection of spiritual love.",
+      "And because, through the sin of our first parents,",
+      "our irascible power has contracted weakness, our rational power darkness, and our concupiscible power a proneness to evil,",
+      "give me the Paraclete: a defender against persecutions,",
+      "an illuminator against errors, a kindler against concupiscence,",
+      "that in all things I may be able to do Your good pleasure, and to keep from offending You. Amen."
+    ],
+    "theme": "Conflict & Opposition",
+    "part": "I",
+    "chapter": "XXVII"
+  },
+  {
+    "ref": "The Light Goes Up Into Galilee · Matthew 4:12–17",
+    "text": [
+      "Lord Jesus Christ,",
+      "who, having compassion on our misery, and as a true physician willing to give us the medicine of souls,",
+      "began your preaching from penance, and bade us, while we have time, to do it:",
+      "grant to me, a wretched sinner, the space and the effect of repenting —",
+      "you who have so long, in mercy, spared me the offender, for which be praise to you;",
+      "that through penance the kingdom of heaven may draw near and be unlocked to me,",
+      "which is set far off and shut by sin —",
+      "through true repentance and the compunction of tears.",
+      "Grant that I may be, in the moment of death, such as you made me to be in the water of regeneration, in the laver of Baptism,",
+      "that I may deserve to be fit for the kingdom of heaven. Amen."
+    ],
+    "theme": "Calling & Discipleship",
+    "part": "I",
+    "chapter": "XXVIII"
+  },
+  {
+    "ref": "The Boat of the Obedient · Luke 5:1–6 (with Matthew 4)",
+    "text": [
+      "Lord Jesus Christ,",
+      "make me rush upon the nets of preaching and of desire and of good work",
+      "through eagerness to hear the word of God;",
+      "to wash them clean of all avarice, flattery, and empty glory;",
+      "to draw back the boat of religion from earthly things,",
+      "to sit resting within it,",
+      "and to teach others by example,",
+      "and to lead into the deep of contemplation and of preaching;",
+      "to let down the nets at the word of Your inspiration,",
+      "and in the waters of tribulations",
+      "to enclose a copious multitude of inward consolations.",
+      "Call and draw me, a wretched man, to Your holy discipleship,",
+      "that, leaving all things and following You,",
+      "I may deserve to attain the fellowship of Your poor.",
+      "Amen."
+    ],
+    "theme": "Calling & Discipleship",
+    "part": "I",
+    "chapter": "XXIX"
+  },
+  {
+    "ref": "The Zeal of Christ in Preaching · Matthew 5 (with Luke 9:59–60)",
+    "text": [
+      "Lord Jesus Christ,",
+      "who as a diligent physician went about seeking the sick,",
+      "and healed the infirmities of bodies and of souls,",
+      "heal me, I pray, within and without,",
+      "labouring under many infirmities;",
+      "draw me after You, that I may follow You,",
+      "passing over from vices to virtues,",
+      "keeping the Ten Commandments,",
+      "dwelling peaceably with others,",
+      "humbly confessing my sins,",
+      "and dreading the divine judgments.",
+      "Lead me out of the pit of misery and the mire of dregs,",
+      "and direct my steps into the way of salvation,",
+      "that I may advance in Your commandments,",
+      "and hasten to the blessed homeland,",
+      "and come there without hindrance. Amen."
+    ],
+    "theme": "Calling & Discipleship",
+    "part": "I",
+    "chapter": "XXX"
   },
   {
     "ref": "The Calling of Matthew · Matthew 9:9–13; Mark 2:14–17; Luke 5:27–32",
@@ -530,6 +899,105 @@
     "theme": "Miracles",
     "part": "I",
     "chapter": "XLIX"
+  },
+  {
+    "ref": "Son of David, Have Mercy · Matthew 9:27–34",
+    "text": [
+      "Lord Jesus Christ, light of eternal brightness,",
+      "enlighten my inward eyes,",
+      "that I may never fall asleep in the death of the soul;",
+      "that, enlightened by Your grace,",
+      "I may see all that ought to be done,",
+      "and, helped by that same grace, grow strong to fulfil what I have seen;",
+      "and thence may recount Your benefits,",
+      "to Your glory and the good of others.",
+      "Open also, Lord, my mute mouth,",
+      "loosing my sins by the infusion of grace,",
+      "and freeing my tongue to Your praises;",
+      "that, having received the grace of speech,",
+      "I may accuse myself, praise You as God,",
+      "build up my neighbour, and proclaim the truth. Amen."
+    ],
+    "theme": "Miracles",
+    "part": "I",
+    "chapter": "L"
+  },
+  {
+    "ref": "The Harvest is Great · Matthew 9:36–10:5; Luke 10:2; 9:1–2",
+    "text": [
+      "Lord Jesus Christ,",
+      "who, sending Your disciples out to preach,",
+      "gave them power to heal, and precepts for living and conversing:",
+      "direct my feet into the way of peace,",
+      "and give me health of mind and of body;",
+      "that I may have justice in my works,",
+      "discipline in my ways,",
+      "and in all things Your fear and Your love.",
+      "Mortify in me all vices,",
+      "and restore me, within and without, by Your gifts,",
+      "that the things You commanded Your disciples",
+      "I may, after my small measure, be worthy to imitate,",
+      "and with them, by Your mercy, be rewarded with eternal glory.",
+      "Amen."
+    ],
+    "theme": "Calling & Discipleship",
+    "part": "I",
+    "chapter": "LI"
+  },
+  {
+    "ref": "Sheep Among Wolves · Matthew 10:16–17",
+    "text": [
+      "Most merciful Lord Jesus Christ,",
+      "who sent your disciples to do battle against the world and the devil,",
+      "as sheep among wolves,",
+      "and gave them consolation in the bearing of tribulations:",
+      "strengthen my frailty,",
+      "and grant me firmness against the perils of the world and the snares of the devil.",
+      "Guard me from my enemies, visible and invisible,",
+      "and give me patience in adversities and tribulations,",
+      "that I may always know you, my Creator, to be my Defender,",
+      "and being always defended by you in this present life,",
+      "may come after it to you, absolved of all my sins. Amen."
+    ],
+    "theme": "Calling & Discipleship",
+    "part": "I",
+    "chapter": "LII"
+  },
+  {
+    "ref": "Fear Not Those Who Kill the Body · Matthew 10:28",
+    "text": [
+      "Lord Jesus Christ,",
+      "grant me so to despise all earthly desires and sinful delights",
+      "that I may fear to suffer nothing on earth for your name;",
+      "but let your name and your Passion be so inscribed forever upon my heart",
+      "that my soul may deserve to hold the palm of victory against all things adverse and prosperous,",
+      "and so confess you in heart, in word, and in deed before men on earth,",
+      "that you, according to your promise, may confess me before your Father in heaven,",
+      "where by your tenderness and mercy, with your saints and your elect,",
+      "I may deserve to receive the joys promised through you, good Jesus, to those who thus confess you. Amen."
+    ],
+    "theme": "Calling & Discipleship",
+    "part": "I",
+    "chapter": "LIII"
+  },
+  {
+    "ref": "Fire Cast Upon the Earth · Luke 12:49–53; Matthew 10:34–37",
+    "text": [
+      "Lord Jesus Christ, splendor of the Father's glory,",
+      "send into me the fire and fervor of the Holy Spirit,",
+      "that the love of God and of neighbor may be kindled, increased, and made perfect in me.",
+      "Grant me to leave behind entirely the affection of carnal kinship and the love of bodily delight,",
+      "and to love you above all things;",
+      "to hold consideration and discretion in all I do,",
+      "and never to trust in the security of my own strength or merits;",
+      "but always to send to you the embassy of tears and of good works,",
+      "and to seek peace from you and bear it away.",
+      "Grant me also to renounce all things in affection, and to leave all things in deed,",
+      "that I may be your true disciple. Amen."
+    ],
+    "theme": "Calling & Discipleship",
+    "part": "I",
+    "chapter": "LIV"
   },
   {
     "ref": "Sorrowful Unto Death · Matthew 26:36–39; Luke 22:41–44",

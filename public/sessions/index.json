@@ -1,5 +1,80 @@
 [
   {
+    "id": "the-eternal-generation-of-the-son",
+    "part": "I",
+    "chapter": "I",
+    "title": "In the Beginning Was the Word",
+    "subtitle": "Before Mary, before Lucifer, before the world: the eternal birth of the Son from the Father",
+    "theme": "Incarnation",
+    "lens": "Beholding",
+    "emotions": [
+      "wonder",
+      "humility",
+      "love"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "John 1:1–3",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus, eternal Word of the Father,",
+      "you were in the beginning, the Principle from the Principle.",
+      "With thee is the Principle in the day of thy strength, in the splendours of the Saints;"
+    ]
+  },
+  {
+    "id": "the-remedy-for-mankind-and-the-birth-of-",
+    "part": "I",
+    "chapter": "II",
+    "title": "The Remedy Devised",
+    "subtitle": "Mercy and Truth contend before God for the ruined race of Adam",
+    "theme": "Incarnation",
+    "lens": "Beholding",
+    "emotions": [
+      "hope",
+      "wonder",
+      "gratitude"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "none (Vita Christi, Part I, ch. II — pre-Incarnation; no Gospel quoted)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "I beseech You, O Lord, let the word You have spoken be fulfilled.",
+      "Why, O Lord, have You made me?",
+      "For Truth herself knows that I perish, if You never show mercy."
+    ]
+  },
+  {
+    "id": "the-conception-of-the-forerunner",
+    "part": "I",
+    "chapter": "IV",
+    "title": "The Forerunner Promised",
+    "subtitle": "Gabriel at the altar of incense, and the word \"Fear not, Zacharias\"",
+    "theme": "Incarnation",
+    "lens": "Beholding",
+    "emotions": [
+      "wonder",
+      "joy",
+      "hope"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Luke 1:5–13",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Fear not, Zacharias, for your prayer is heard.",
+      "Lord, You did not despise the prayer of Your servant,",
+      "who prayed not for offspring he had ceased to hope for,"
+    ]
+  },
+  {
     "id": "the-annunciation",
     "part": "I",
     "chapter": "V",
@@ -25,6 +100,81 @@
     ]
   },
   {
+    "id": "the-birth-and-circumcision-of-the-foreru",
+    "part": "I",
+    "chapter": "VI",
+    "title": "The Leaping of the Forerunner",
+    "subtitle": "Mary comes to the hill country, and the child in Elizabeth's womb leaps for joy",
+    "theme": "Nativity",
+    "lens": "Beholding",
+    "emotions": [
+      "joy",
+      "wonder",
+      "gratitude"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Luke 1:39-44, 57-63",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Holy John the Baptist,",
+      "you who were filled with God before you were born from the womb,",
+      "knowing God before you were known in the world:"
+    ]
+  },
+  {
+    "id": "the-genealogy-of-the-saviour",
+    "part": "I",
+    "chapter": "VII",
+    "title": "The Book of His Generations",
+    "subtitle": "The genealogy of the Saviour — how God descended to us through the line of Abraham and David",
+    "theme": "Incarnation",
+    "lens": "Beholding",
+    "emotions": [
+      "wonder",
+      "gravity",
+      "hope"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 1:1–2; Luke 3",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ, our hope and our trust,",
+      "be mindful of what You took upon Yourself for our redemption.",
+      "Be mindful that, the Creator of all things,"
+    ]
+  },
+  {
+    "id": "joseph-resolves-to-send-mary-away",
+    "part": "I",
+    "chapter": "VIII",
+    "title": "The Silence of Joseph",
+    "subtitle": "Joseph, finding Mary with child, resolves to send her away in secret — until the angel speaks",
+    "theme": "Incarnation",
+    "lens": "Beholding",
+    "emotions": [
+      "sorrow",
+      "trust",
+      "humility"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 1:18–21",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, who art the impregnable wall of all who hope in thee,",
+      "be thou my refuge in tribulation;",
+      "behold my tribulations and my distresses, and have mercy on me,"
+    ]
+  },
+  {
     "id": "the-nativity",
     "part": "I",
     "chapter": "IX",
@@ -47,6 +197,31 @@
       "Would that You, Lord Jesus,",
       "would make me, a wretched one, to be among Your chosen,",
       "that You might enroll me in eternity."
+    ]
+  },
+  {
+    "id": "the-circumcision-of-the-lord",
+    "part": "I",
+    "chapter": "X",
+    "title": "The Knife of Stone",
+    "subtitle": "On the eighth day, the Infant sheds His first blood and is named Jesus, Savior",
+    "theme": "Nativity",
+    "lens": "Beholding",
+    "emotions": [
+      "humility",
+      "love",
+      "gravity"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Luke 2:21",
+    "durationMin": 5,
+    "prayerPreview": [
+      "O merciful Jesus, who, born of the Virgin under the Law, willed to be circumcised:",
+      "circumcise, O merciful Jesus, the thoughts, the words, and the works of Your servant,",
+      "that I may carry through nothing contrary to Your will in thinking, in speaking, in working."
     ]
   },
   {
@@ -124,6 +299,31 @@
     ]
   },
   {
+    "id": "the-return-from-egypt-and-john-s-penance",
+    "part": "I",
+    "chapter": "XIV",
+    "title": "The Return from Egypt",
+    "subtitle": "The weary road home through the wilderness, where the boy John already does penance",
+    "theme": "Hidden Life",
+    "lens": "Following",
+    "emotions": [
+      "hope",
+      "repentance",
+      "trust"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 2:19–21",
+    "durationMin": 4,
+    "prayerPreview": [
+      "O most gentle Jesus,",
+      "who, born of the Virgin, withdrew into the regions of Egypt,",
+      "and, called out of Egypt, returned into the land of Israel:"
+    ]
+  },
+  {
     "id": "boy-jesus-temple",
     "part": "I",
     "chapter": "XV",
@@ -144,6 +344,132 @@
       "Lord Jesus Christ, Son of the living God,",
       "who for three days were sought by your grieving parents,",
       "and at last were found in the Temple:"
+    ]
+  },
+  {
+    "id": "the-hidden-years-of-the-lord",
+    "part": "I",
+    "chapter": "XVI",
+    "title": "The Hidden Years",
+    "subtitle": "The Lord Jesus from His twelfth year to the threshold of His thirtieth — the long silence of God among men",
+    "theme": "Hidden Life",
+    "lens": "Beholding",
+    "emotions": [
+      "humility",
+      "rest",
+      "love"
+    ],
+    "journeys": [
+      "humility",
+      "storm",
+      "daily"
+    ],
+    "gospelRef": "Luke 2:51",
+    "durationMin": 5,
+    "prayerPreview": [
+      "O Jesus, meek, the very pattern of true patience,",
+      "and the example of humility,",
+      "drive far from me all swelling of pride,"
+    ]
+  },
+  {
+    "id": "the-office-and-life-of-john-the-baptist",
+    "part": "I",
+    "chapter": "XVII",
+    "title": "The Voice in the Wilderness",
+    "subtitle": "John the Baptist preaches repentance by the Jordan, and his whole life cries out the word of penance",
+    "theme": "Baptism & Temptation",
+    "lens": "Following",
+    "emotions": [
+      "repentance",
+      "gravity",
+      "hope"
+    ],
+    "journeys": [
+      "temptation",
+      "daily"
+    ],
+    "gospelRef": "Matthew 3:1–10; Luke 3:1–14",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Most blessed John the Baptist, forerunner of Christ and most holy virgin,",
+      "who preached penance to sinners by your word",
+      "and showed it no less by your example,"
+    ]
+  },
+  {
+    "id": "john-sent-forth-by-god",
+    "part": "I",
+    "chapter": "XVIII",
+    "title": "The True Light",
+    "subtitle": "John, sent from God, bears witness to the Light that shines in the darkness",
+    "theme": "Baptism & Temptation",
+    "lens": "Following",
+    "emotions": [
+      "humility",
+      "trust",
+      "gravity"
+    ],
+    "journeys": [
+      "temptation",
+      "daily"
+    ],
+    "gospelRef": "John 1:6–12",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, Son of the living God, who art the true Light that enlightens every man coming into this world,",
+      "I, a wretch obscured by dense darkness, adore thee,",
+      "beseeching thy mercy, that thou wouldst enlighten my soul, form my mind, order my thoughts,"
+    ]
+  },
+  {
+    "id": "john-s-witness-as-forerunner",
+    "part": "I",
+    "chapter": "XIX",
+    "title": "I Am Not the Christ",
+    "subtitle": "John the Baptist confesses the truth before the priests and Levites — and turns the question on you",
+    "theme": "Baptism & Temptation",
+    "lens": "Beholding",
+    "emotions": [
+      "humility",
+      "hope",
+      "gravity"
+    ],
+    "journeys": [
+      "temptation",
+      "daily"
+    ],
+    "gospelRef": "John 1:19–21",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord, Lord, open to us, for we stand knocking at your door.",
+      "We dare not call ourselves yours if we do not do your works — for that, as your servant says, would be a lie.",
+      "You have said: You are my friends, if you do what I command you; do not say to us, I do not know you."
+    ]
+  },
+  {
+    "id": "the-call-to-repentance",
+    "part": "I",
+    "chapter": "XX",
+    "title": "The Tribunal of the Heart",
+    "subtitle": "Ludolph on true penance: to weep for what is done, and do no more the things to be wept for",
+    "theme": "Baptism & Temptation",
+    "lens": "Awakening",
+    "emotions": [
+      "repentance",
+      "gravity",
+      "hope"
+    ],
+    "journeys": [
+      "temptation",
+      "daily"
+    ],
+    "gospelRef": "Luke 11:32 (the men of Nineveh); cf. Proverbs 18:3, Psalm 130:1",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord, the patience of your mercy has led me to repentance:",
+      "let me not waste it by delay.",
+      "You promised pardon to the one who repents,"
     ]
   },
   {
@@ -195,6 +521,31 @@
     ]
   },
   {
+    "id": "john-s-witness-to-the-lamb-of-god",
+    "part": "I",
+    "chapter": "XXIII",
+    "title": "Behold the Lamb of God",
+    "subtitle": "John points to Jesus at the Jordan: \"Behold the Lamb of God, who takes away the sin of the world\"",
+    "theme": "Baptism & Temptation",
+    "lens": "Beholding",
+    "emotions": [
+      "wonder",
+      "hope",
+      "love"
+    ],
+    "journeys": [
+      "temptation",
+      "daily"
+    ],
+    "gospelRef": "John 1:29–34",
+    "durationMin": 5,
+    "prayerPreview": [
+      "O Lamb of God,",
+      "acknowledge me, a wretched man,",
+      "among the sheep to be set at your right hand."
+    ]
+  },
+  {
     "id": "the-first-calling-of-the-disciples",
     "part": "I",
     "chapter": "XXIV",
@@ -240,6 +591,129 @@
       "Lord Jesus Christ,",
       "who on the third day — that is, in the time of grace —",
       "came in the flesh to the wedding,"
+    ]
+  },
+  {
+    "id": "the-cleansing-of-the-temple-and-nicodemu",
+    "part": "I",
+    "chapter": "XXVI",
+    "title": "The Cleansing of the Temple",
+    "subtitle": "Jesus drives the sellers from His Father's house, and zeal for it consumes Him",
+    "theme": "Conflict & Opposition",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "courage",
+      "hope"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "John 2:13–17",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Brethren, let every Christian, in the members of Christ, be eaten up with zeal for the house of God.",
+      "Who is eaten up with zeal for the house of God?",
+      "He who, whatever he sees there gone wrong, strives to have it corrected, longs to see it amended, and is not at rest."
+    ]
+  },
+  {
+    "id": "the-imprisonment-of-john-the-baptist",
+    "part": "I",
+    "chapter": "XXVII",
+    "title": "He Must Increase, I Must Decrease",
+    "subtitle": "John the Baptist yields his glory to Christ at the Jordan, as his disciples murmur",
+    "theme": "Conflict & Opposition",
+    "lens": "Compassion",
+    "emotions": [
+      "sorrow",
+      "courage",
+      "trust"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "John 3:22–30 (with Matthew 14, Mark 6)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, good Master,",
+      "teach me the truth of life, of justice, and of doctrine —",
+      "of heart, of mouth, and of work —"
+    ]
+  },
+  {
+    "id": "the-beginning-of-the-public-preaching",
+    "part": "I",
+    "chapter": "XXVIII",
+    "title": "The Light Goes Up Into Galilee",
+    "subtitle": "Jesus withdraws into Galilee and begins to preach: \"Repent, for the kingdom of heaven is at hand.\"",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "hope",
+      "courage",
+      "joy"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 4:12–17",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who, having compassion on our misery, and as a true physician willing to give us the medicine of souls,",
+      "began your preaching from penance, and bade us, while we have time, to do it:"
+    ]
+  },
+  {
+    "id": "the-second-and-third-calling-of-the-disc",
+    "part": "I",
+    "chapter": "XXIX",
+    "title": "The Boat of the Obedient",
+    "subtitle": "Christ teaches from Simon's boat, and the nets break with the catch",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "trust",
+      "hope",
+      "joy"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Luke 5:1–6 (with Matthew 4)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "make me rush upon the nets of preaching and of desire and of good work",
+      "through eagerness to hear the word of God;"
+    ]
+  },
+  {
+    "id": "the-zeal-of-christ-in-preaching",
+    "part": "I",
+    "chapter": "XXX",
+    "title": "The Zeal of Christ in Preaching",
+    "subtitle": "How Christ called fishermen, not the wise, to found His Church",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "courage",
+      "love",
+      "hope"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 5 (with Luke 9:59–60)",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who as a diligent physician went about seeking the sick,",
+      "and healed the infirmities of bodies and of souls,"
     ]
   },
   {
@@ -625,6 +1099,130 @@
       "Lord Jesus Christ, I adore the feet of Thy mercy and Thy truth.",
       "Most loving One, I beseech Thee:",
       "heal by the touch of Thy grace my soul,"
+    ]
+  },
+  {
+    "id": "the-two-blind-men-and-the-mute",
+    "part": "I",
+    "chapter": "L",
+    "title": "Son of David, Have Mercy",
+    "subtitle": "The two blind men cry out, are touched, and see",
+    "theme": "Miracles",
+    "lens": "Receiving",
+    "emotions": [
+      "trust",
+      "wonder",
+      "gratitude"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 9:27–34",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ, light of eternal brightness,",
+      "enlighten my inward eyes,",
+      "that I may never fall asleep in the death of the soul;"
+    ]
+  },
+  {
+    "id": "the-mission-of-the-apostles",
+    "part": "I",
+    "chapter": "LI",
+    "title": "The Harvest is Great",
+    "subtitle": "Christ, moved with pity for the shepherdless crowds, sends out the Twelve",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "courage",
+      "hope",
+      "trust"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 9:36–10:5; Luke 10:2; 9:1–2",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who, sending Your disciples out to preach,",
+      "gave them power to heal, and precepts for living and conversing:"
+    ]
+  },
+  {
+    "id": "patience-in-adversity",
+    "part": "I",
+    "chapter": "LII",
+    "title": "Sheep Among Wolves",
+    "subtitle": "Christ sends out his disciples and arms them for patience in suffering",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "courage",
+      "trust",
+      "comfort"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 10:16–17",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Most merciful Lord Jesus Christ,",
+      "who sent your disciples to do battle against the world and the devil,",
+      "as sheep among wolves,"
+    ]
+  },
+  {
+    "id": "fearless-confession-of-christ",
+    "part": "I",
+    "chapter": "LIII",
+    "title": "Fear Not Those Who Kill the Body",
+    "subtitle": "Christ arms his friends against the fear of death and bids them confess him before men",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "courage",
+      "trust",
+      "hope"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 10:28",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "grant me so to despise all earthly desires and sinful delights",
+      "that I may fear to suffer nothing on earth for your name;"
+    ]
+  },
+  {
+    "id": "hindrances-to-following-christ",
+    "part": "I",
+    "chapter": "LIV",
+    "title": "Fire Cast Upon the Earth",
+    "subtitle": "Christ longs to be baptized in his own blood — and to set you free from every love that holds you back from him",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "gravity",
+      "longing",
+      "courage"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Luke 12:49–53; Matthew 10:34–37",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, splendor of the Father's glory,",
+      "send into me the fire and fervor of the Holy Spirit,",
+      "that the love of God and of neighbor may be kindled, increased, and made perfect in me."
     ]
   },
   {

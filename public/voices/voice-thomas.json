@@ -1,0 +1,60 @@
+{
+  "id": "voice-thomas",
+  "type": "voice",
+  "character": "Thomas",
+  "scene": "Unless I touch",
+  "title": "The Wound I Dared to Touch",
+  "gospelRef": "John 20:24–29",
+  "theme": "Resurrection",
+  "emotions": [
+    "trust",
+    "wonder",
+    "love"
+  ],
+  "durationMin": 7,
+  "narration": [
+    "Eight days have passed since they first told me.",
+    "I would not believe it then. Not from malice — only from ignorance.",
+    "I had said it plainly: unless I see the marks of the nails in his hands,",
+    "and put my finger into the place of the nails, and my hand into his side — I will not believe.",
+    "Now we are gathered again, inside, on Mount Sion. The doors are shut. This time I am with them.",
+    "Then he comes. The good shepherd, anxious for one small lamb of his little flock.",
+    "The doors stay closed — yet he is here. He stands in the midst of us, where every eye can reach him.",
+    "Peace be to you, he says.",
+    "And then — before I have asked — he answers the question I never spoke aloud.",
+    "Put in your finger here, he says. See my hands.",
+    "Bring your hand, and put it into my side.",
+    "He knows my words. He was not here when I spoke them, yet he knows. In this he shows me he is God.",
+    "Reach into the place of the nails. Reach into the wound the lance has opened.",
+    "The side asks not a finger but a whole hand — so great is that wound.",
+    "And know that I am the same who hung upon the cross.",
+    "Do not be unbelieving — slow to believe — but faithful, firm in faith.",
+    "For in the sin of unbelief, he says, you crucify me again, you renew the cause of my Passion.",
+    "I touch the scars. My hand goes into that side — that sweetest side, that side of salvation,",
+    "whence we are saved from wrath, healed of guilt, reborn in grace, raised into glory.",
+    "O the boldness of my hand! What licence, what grace was given me!",
+    "And I cry out — not in heart alone but with my mouth, for both are needed for salvation —",
+    "My Lord and my God.",
+    "My Lord, in your manhood, in which you redeemed me with your blood;",
+    "my God, in your Godhead, in which you made me, formed me from the dust.",
+    "Now I doubt nothing. I am certain. I confirm the Resurrection; I proclaim immortality.",
+    "And he answers, blessing my confession: Because you have seen me, Thomas, you have believed.",
+    "Blessed are they who have not seen, and have believed.",
+    "I, who am called Didymus for my doubting, double heart — I have touched the deep of his divinity."
+  ],
+  "prayer": [
+    "Lord Jesus, peace which you brought in coming and left in departing,",
+    "do not leave me in my unbelief, as you did not leave Thomas.",
+    "Let whatever is discernment and work in me be spent in your service —",
+    "my finger and my hand laid in the place of the nails.",
+    "Make me not slow to believe, but firm in faith,",
+    "so that I crucify you no more by doubting.",
+    "And though I do not see you with my eyes, let me believe you with my heart,",
+    "that I may be among the blessed who have not seen, and yet have believed.",
+    "My Lord and my God. Amen."
+  ],
+  "latinJewel": {
+    "latin": "O felix Thoma, quam felicem habuit licentiam manus tua!",
+    "english": "O happy Thomas, what a happy licence your hand was given!"
+  }
+}

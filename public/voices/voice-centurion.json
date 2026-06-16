@@ -1,0 +1,52 @@
+{
+  "id": "voice-centurion",
+  "type": "voice",
+  "character": "The centurion",
+  "scene": "Truly this was the Son of God",
+  "title": "The Centurion Beneath the Cross",
+  "gospelRef": "Matthew 27:54",
+  "theme": "The Passion",
+  "emotions": [
+    "fear",
+    "wonder",
+    "repentance"
+  ],
+  "durationMin": 4,
+  "narration": [
+    "I stand at my post, the ninth hour, and I watch a man die.",
+    "His eyes are sinking. The light in them dims, goes faint.",
+    "His face goes pale. The blood is spent, drained out of him.",
+    "His strength fails. He is at the edge of death now.",
+    "I have guarded many crosses. I know how men end here.",
+    "They cannot cry out. They can barely breathe. A thin word, then nothing.",
+    "So I brace myself for the quiet rattle, the slow giving-up.",
+    "But his head turns. Toward the woman below. A last farewell with no voice for it.",
+    "Then toward the sky, as a son looking to a father.",
+    "And he does not slump. He does not sag like the broken do.",
+    "He gathers himself. He lifts a great cry.",
+    "A voice loud and strong — Pater, in manus tuas — into the day.",
+    "It tears the air. I feel the ground move under my feet.",
+    "No dying man makes that sound. No man near death has that breath in him.",
+    "This cry is not nature's. It cannot be. Nature cannot do this.",
+    "And the head bows — calmly, as one chosen, not seized.",
+    "He lets the spirit go. He is not torn from life. He releases it.",
+    "Who lays down his garment when he wills? He sheds his flesh when he wills.",
+    "Who sleeps when he chooses? He died when he chose.",
+    "I have seen the power of a man dying. I tremble at what the Judge will be.",
+    "The word breaks out of me before I can hold it.",
+    "Truly — truly this was the Son of God."
+  ],
+  "prayer": [
+    "Lord Jesus Christ, who at the ninth hour hung upon the gibbet,",
+    "and crying with a loud voice commended your spirit into the Father's hands,",
+    "and with bowed head gave up that same spirit:",
+    "commend my spirit to yourself, now and always.",
+    "Pierce my heart with the sword of your love,",
+    "press into me the wounds of your body,",
+    "and at the end of my life set my spirit, given into your hands, among the blessed. Amen."
+  ],
+  "latinJewel": {
+    "latin": "Vox ergo illa non fuit naturalis, sed miraculosa.",
+    "english": "That voice, therefore, was not natural, but miraculous."
+  }
+}

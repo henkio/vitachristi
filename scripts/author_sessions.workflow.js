@@ -90,7 +90,7 @@ Produce ONE meditation session as structured JSON, arranged in Ludolph's own fiv
 ABSOLUTE RULES:
 1. FAITHFUL, NOT INVENTED. Translate Ludolph's actual words and the Gospel verses he quotes. Do not put modern sentences in his mouth. If you must add a tiny connective phrase, keep it minimal and note it in fidelityNote.
 2. KEEP THE INTENSITY. Ludolph is visceral, raw, medieval — blood, fear, "wretched sinner", the worm, tears. DO NOT sanitize him into soft mindfulness language. His heaviness is the whole point.
-3. The "behold" movement uses his real compositio (e.g. his "attende ad singula ac si praesens esses" — attend to each thing as if you were present; "Conspice..." — Behold...).
+3. The "behold" movement: use ONLY Ludolph's own scene-setting words FROM THIS CHAPTER (his "Conspice...", "Vide...", "Cogita...", "attende...", "Aspice..."). If THIS chapter contains no such compositio, build the scene strictly from his actual narrative in this chapter — do NOT insert the "as if you were present" formula, and do NOT import phrasing from the preface or other chapters. Never put a sentence in his mouth that is not in this chapter's text.
 4. The "prayer" movement must be a REAL prayer from the source (the PRAYER PASSAGES block, or an embedded "Domine Jesu..."), translated faithfully — never a self-authored affirmation.
 5. Keep lines SHORT (one image/thought per line) for slow on-screen reveal.
 6. latinJewel = one real, beautiful Latin sentence copied from the source + its English.

@@ -20,14 +20,44 @@
     "from": "The Wound and the Word"
   },
   {
+    "latin": "Magna securitas est nihil timere praeter Deum, et stultus timor est, quo plus timetur humana indignatio, quam divina.",
+    "english": "It is a great security to fear nothing but God; and foolish is the fear by which human anger is dreaded more than the divine.",
+    "from": "Fear Not Those Who Kill the Body"
+  },
+  {
     "latin": "Tristis est anima mea usque ad mortem.",
     "english": "My soul is sorrowful unto death.",
     "from": "The Agony in the Garden"
   },
   {
+    "latin": "Ignem veni mittere in terram, et quid volo, nisi ut accendatur?",
+    "english": "I came to cast fire upon the earth, and what do I will, but that it be kindled?",
+    "from": "Fire Cast Upon the Earth"
+  },
+  {
     "latin": "Et ideo, aliis luminaribus exstinctis, una candela in officio tenebrarum servatur accensa, quia lumen fidei in sola remansit virgine Maria.",
     "english": "And therefore, when the other lights are extinguished, one candle is kept burning in the office of Tenebrae, because the light of faith remained in the Virgin Mary alone.",
     "from": "The One Lamp Still Burning"
+  },
+  {
+    "latin": "Magis enim voluit infirmitatem suam humiliter recognoscendo inter membra Christi numerari, quam ejus nomen immerito usurpando, ab ipso Christi corpore abscindi.",
+    "english": "For he chose rather, by humbly acknowledging his own weakness, to be numbered among the members of Christ, than, by usurping the name that was not his, to be cut off from the very body of Christ.",
+    "from": "I Am Not the Christ"
+  },
+  {
+    "latin": "Ecce innocens inter peccatores, justus inter reprobos, pius inter impios; in quo nullum peccatum potuit inveniri.",
+    "english": "Behold the innocent one among sinners, the just one among the reprobate, the holy one among the impious; in whom no sin could be found.",
+    "from": "Behold the Lamb of God"
+  },
+  {
+    "latin": "Ipsa autem lux, de qua testimonium perhibebat, erat ab æterno lux vera sine falsitate, sine umbra, et sine participatione, sed per essentiam.",
+    "english": "But that Light, of which he bore witness, was from eternity the true Light: without falsehood, without shadow, without participation, but Light by its very essence.",
+    "from": "The True Light"
+  },
+  {
+    "latin": "Possibilius enim credebat virginem sine viro posse concipere, quam Mariam posse peccare.",
+    "english": "For he held it more possible that a virgin could conceive without man, than that Mary could sin.",
+    "from": "The Silence of Joseph"
   },
   {
     "latin": "Magis enim operando quis proficit quam loquendo, et plus movent exempla quam verba, quia major est splendor operis quam sermonis.",
@@ -53,6 +83,11 @@
     "latin": "Dum enim vis vindicare vestem corporis, pretiosissimum animæ vestimentum perdis.",
     "english": "For while you long to avenge the garment of your body, you lose the most precious garment of your soul.",
     "from": "The Other Cheek"
+  },
+  {
+    "latin": "Mirabilis venator est Dominus, qui per agnos, sive oves, capit et devincit lupos; per patientiam vincit potentiam.",
+    "english": "A wondrous hunter is the Lord, who by lambs, by sheep, captures and conquers the wolves; by patience He overcomes power.",
+    "from": "Sheep Among Wolves"
   },
   {
     "latin": "Bene in igne Spiritus apparuit, quia ab omni corde quod replet, torporem frigoris excutit, et hoc in desiderio suæ æternitatis accendit.",
@@ -105,9 +140,24 @@
     "from": "Upon the Mountain"
   },
   {
+    "latin": "Praemissus est Joannes, velut vox ante Verbum, aurora ante solem, praeco ante Judicem, servus ante Dominum, amicus ante Sponsum.",
+    "english": "John was sent ahead, as the voice before the Word, the dawn before the sun, the herald before the Judge, the servant before the Lord, the friend before the Bridegroom.",
+    "from": "The Light Goes Up Into Galilee"
+  },
+  {
+    "latin": "Non clamor, sed amor sonat in aure Dei.",
+    "english": "It is not the cry, but the love, that sounds in the ear of God.",
+    "from": "The Leaping of the Forerunner"
+  },
+  {
     "latin": "Sequere et tu pretiosissimum cœli terræque thesaurum; et porta vel pedes vel manus, brachiaque sustenta; terræ defluentes minutatim pretiosissimi sanguinis guttas curiosius collige; et pulverem pedum ejus linge.",
     "english": "Follow, you too, the most precious treasure of heaven and earth; carry either His feet or His hands, and bear up His arms; gather up with care the drops of most precious blood that fall little by little upon the ground; and kiss the dust of His feet.",
     "from": "The Anointing and the Tomb"
+  },
+  {
+    "latin": "Vera siquidem pænitentia est, sine intermissione temporis, de præteritis malis dolere, et sic plangere commissa, ut non committat plangenda.",
+    "english": "For true penance is, without any pause of time, to grieve for past evils, and so to bewail what is done that one does not do the things to be bewailed.",
+    "from": "The Tribunal of the Heart"
   },
   {
     "latin": "Et vidit ibi, non tam corporis, quam mentis et miserantis intuitu, hominem.",
@@ -125,9 +175,24 @@
     "from": "The Choosing of the Twelve"
   },
   {
+    "latin": "Nomen quod, secundum Bernardum, est mel in ore, in aure melos, in corde jubilus.",
+    "english": "A name which, according to Bernard, is honey in the mouth, a melody in the ear, a jubilee in the heart.",
+    "from": "The Knife of Stone"
+  },
+  {
+    "latin": "Zelus domus tuæ comedit me.",
+    "english": "The zeal of thy house hath eaten me up.",
+    "from": "The Cleansing of the Temple"
+  },
+  {
     "latin": "Crux apparebit sole luculentior existens, ut non sit necessitas accusationis cum viderint crucem.",
     "english": "The Cross shall appear, shining brighter than the sun, so that no accusation will be needed once they have seen the Cross.",
     "from": "The Sign of the Cross in Heaven"
+  },
+  {
+    "latin": "Joannes enim interpretatur, in quo est gratia; ipse vero Christum manifestavit, per quem gratia et veritas facta est.",
+    "english": "For John is interpreted 'in whom is grace'; and he himself made Christ manifest, through whom grace and truth came to be.",
+    "from": "The Forerunner Promised"
   },
   {
     "latin": "Praesentia Salvatoris, tormentum est daemonum.",
@@ -160,6 +225,11 @@
     "from": "The Star and the Three Kings"
   },
   {
+    "latin": "Numquam enim Pater sine Filio fuit, numquam sine Verbo, numquam sine Virtute, numquam sine Sapientia esse potuit.",
+    "english": "For never was the Father without the Son; never without the Word, never without his Power, never without his Wisdom could he be.",
+    "from": "In the Beginning Was the Word"
+  },
+  {
     "latin": "Tantum enim desiderabant audire Christum, quod omiserant apportare secum alimentum; propter quod necessarium erat fieri miraculum.",
     "english": "So greatly did they long to hear Christ that they had forgotten to bring food with them; and for that reason a miracle had to be wrought.",
     "from": "The Five Loaves"
@@ -175,6 +245,11 @@
     "from": "The Flight into Egypt"
   },
   {
+    "latin": "Quæ generationes narrantur, propter illam qua Maria genuit Jesum, qui vocatur Christus.",
+    "english": "These generations are recounted for the sake of that one by which Mary begot Jesus, who is called Christ.",
+    "from": "The Book of His Generations"
+  },
+  {
     "latin": "Unde hoc, Deus meus? Ita compateris mihi exhibens hominem, ut quodammodo videaris nescire quod Deus es?",
     "english": "Why this, my God? Do You so suffer with me, showing Yourself man, that in some way You seem not to know that You are God?",
     "from": "Sorrowful Unto Death"
@@ -188,6 +263,16 @@
     "latin": "Ecce quidam leprosus veniens, non tam passibus corporis, quam fide cordis, genu flexo, procidens in faciem suam, adorabat eum.",
     "english": "Behold, a certain leper came, not so much with the steps of his body as with the faith of his heart, and with bent knee, falling upon his face, he adored him.",
     "from": "The Healing of the Leper"
+  },
+  {
+    "latin": "Ego sum vermis et non homo, opprobrium hominum et abjectio plebis.",
+    "english": "I am a worm and no man, the reproach of men and the outcast of the people.",
+    "from": "The Hidden Years"
+  },
+  {
+    "latin": "Illum oportet crescere, me autem minui.",
+    "english": "He must increase, but I must decrease.",
+    "from": "He Must Increase, I Must Decrease"
   },
   {
     "latin": "Obstupesce illam clarissimam dignationem, et dignatissimam caritatem, qua nobis tradidit et reliquit semetipsum, scilicet sacratissimum Corpus et Sanguinem suum vere in cibum et potum.",
@@ -215,6 +300,11 @@
     "from": "The Man Born Blind"
   },
   {
+    "latin": "Operarii sunt in Ecclesia qui quærunt opus, non otium; onus, non honorem; animas, non decimas; prodesse, non præesse.",
+    "english": "The laborers in the Church are those who seek work, not idleness; the burden, not the honor; souls, not tithes; to be of profit, not to preside.",
+    "from": "The Harvest is Great"
+  },
+  {
     "latin": "Quam angusta porta et arcta via est, quæ ducit ad vitam; et pauci sunt qui inveniunt eam!",
     "english": "How strait is the gate, and narrow is the way that leadeth unto life; and few there are that find it!",
     "from": "The Narrow Way"
@@ -223,6 +313,11 @@
     "latin": "Verbum æternum non nascitur, nisi in corde pacato; unde Psalmus dicit: Factus est in pace locus ejus.",
     "english": "The eternal Word is not born except in a heart at peace; whence the Psalm says: His place is made in peace.",
     "from": "The King Enrolled Among Us"
+  },
+  {
+    "latin": "Nox enim quasi unus carpentator de dicta arbore tollit unum scopulum, et dies similiter alium; quot enim diebus et noctibus vixit homo, tot minus habet vivere, et ad ultimum necesse habet arbor cadere.",
+    "english": "For night, like a woodcutter, takes one chip from the tree, and the day likewise takes another; for however many days and nights a man has lived, by so much less has he left to live, and at the last the tree must fall.",
+    "from": "The Voice in the Wilderness"
   },
   {
     "latin": "O quanta fiducia et fiducialis audacia, quod factura Factorem, creatura Creatorem, homo Deum Patrem audeat nuncupare!",
@@ -240,9 +335,19 @@
     "from": "The Light to the Nations"
   },
   {
+    "latin": "Inveniatur ergo qui ex charitate moriatur, non obnoxius morti; et sic mors non poterit tenere innoxium, sed faciet in ea foramen, per quod transeant liberati.",
+    "english": "Let one be found, then, who dies out of love, not owing death; and so death cannot hold the innocent one, but He will make in it an opening, through which the freed may pass.",
+    "from": "The Remedy Devised"
+  },
+  {
     "latin": "Radix amara crucis evanuit, flos vitæ cum fructibus erupit; et qui jacuit in morte, surrexit in gloria; sol post occasum oritur.",
     "english": "The bitter root of the cross has faded; the flower of life has burst forth with its fruits; and he who lay in death has risen in glory; the sun rises after its setting.",
     "from": "The New Day After the Sabbath"
+  },
+  {
+    "latin": "O quantum Puer egregius ac delicatus, Rex cæli et terræ, pro nobis laboravit, et quam cito cæperit!",
+    "english": "O how greatly this noble and tender Child, the King of heaven and earth, labored for us, and how early he began!",
+    "from": "The Return from Egypt"
   },
   {
     "latin": "Divitibus sunt nomina in culmine mundi, sed pauperibus sunt nomina in aula Dei.",
@@ -253,6 +358,11 @@
     "latin": "Sic quotidie facit nobiscum spiritualiter: si enim aliqua perplexitate vel accidia gravati pie de ipso loquimur, statim adest, confortans corda nostra et illuminans, et etiam ad amorem suum inflammans.",
     "english": "So he does with us each day in spirit: for if, weighed down by some perplexity or listlessness, we speak of him devoutly, at once he is present, strengthening our hearts and enlightening them, and setting them aflame with love of himself.",
     "from": "The Stranger on the Road"
+  },
+  {
+    "latin": "Ad transeundum istum mundum vidit Christus, id est approbavit duas naves.",
+    "english": "To cross over this world, Christ saw — that is, approved — two boats.",
+    "from": "The Boat of the Obedient"
   },
   {
     "latin": "Quasi enim homo navem ascendit, sed quasi Deus mare conturbat; quasi homo in navi dormit, sed quasi Deus ventis et mari imperat, et eorum furorem verbo coercet.",
@@ -270,6 +380,11 @@
     "from": "The Light on Tabor"
   },
   {
+    "latin": "Felix tactus, ad quem tanta sequitur virtus!",
+    "english": "O happy touch, upon which so great a power follows!",
+    "from": "Son of David, Have Mercy"
+  },
+  {
     "latin": "Si tetigero tantum vestimentum ejus, salva ab infirmitate mea ero.",
     "english": "If I shall touch only His garment, I shall be healed of my infirmity.",
     "from": "If I Only Touch the Hem"
@@ -278,6 +393,11 @@
     "latin": "Felix Maria, id est anima, quæ ad sepulchrum Christi venit videre, per meditationem, plangere per compassionem, ac ungere per devotionem!",
     "english": "Happy the Mary — that is, the soul — who comes to the tomb of Christ: to see Him through meditation, to mourn Him through compassion, and to anoint Him through devotion!",
     "from": "At the Tomb Before Dawn"
+  },
+  {
+    "latin": "Humiles quidem in seculo, etiam in ipso artis officio, sed præcelsos fide, ac devotos mentis obsequio; ignobiles seculo, sed nobiles Christo; despectos terræ, sed acceptissimos cælo; pauperes mundo, sed divites Deo.",
+    "english": "Humble indeed in the world, even in their very trade, yet lofty in faith and devoted in the service of mind; lowborn to the world, but noble to Christ; despised of earth, but most welcome to heaven; poor to the world, but rich to God.",
+    "from": "The Zeal of Christ in Preaching"
   },
   {
     "latin": "Amor est animæ pondus portans eam quocumque ipse fertur; et anima verius est ubi amat, quam ubi animat.",

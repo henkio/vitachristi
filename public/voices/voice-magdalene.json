@@ -1,0 +1,60 @@
+{
+  "id": "voice-magdalene",
+  "type": "voice",
+  "character": "Mary Magdalene",
+  "scene": "I came while it was still dark",
+  "title": "Apostle to the Apostles",
+  "gospelRef": "John 20:11–18",
+  "theme": "Resurrection",
+  "emotions": [
+    "longing",
+    "sorrow",
+    "joy"
+  ],
+  "durationMin": 7,
+  "narration": [
+    "We three are walking back from the tomb, the other Marys and I.",
+    "We have not reached the city, nor the apostles, yet.",
+    "We hurry. We are running, almost.",
+    "I had to come while it was still dark. I had to be first.",
+    "No one watched that sepulchre more closely than I did.",
+    "And now, suddenly, on the road, He meets us.",
+    "He comes toward us. He, risen. He, alive.",
+    "He speaks softly, gently, lifting us up from our grief.",
+    "He says one word: Avete. Rejoice. Hail.",
+    "And I think, even as He says it, of Eve.",
+    "The first woman heard a curse. We hear a greeting.",
+    "Out of Eva, He forms this Ave. The old word is undone.",
+    "I am glad beyond what any tongue could say.",
+    "I run to Him. I believe now. The faith burns in me like light.",
+    "And I do what was kept from me before, when I sought the living among the dead.",
+    "I take hold of His feet. I kiss them.",
+    "I feel the flesh in which He rose. Real. Warm. His.",
+    "By this touch I am made certain of the rising.",
+    "We fall down. We adore Him as God and Lord.",
+    "Then He sees the fear still clinging to us, and He says: Do not be afraid.",
+    "He drives the fear out as He had driven out the sorrow.",
+    "And He calls us to His own: Go, tell my brethren.",
+    "His brethren. He who is Lord, He names them brothers.",
+    "Tell them to go into Galilee. There they will see Him.",
+    "He sends me, a woman, with the good news on this morning.",
+    "I who was the door of death now first proclaim the rising.",
+    "I run to the mourning disciples to say: I have seen the Lord.",
+    "I have seen Him, and He told me these things to tell to you."
+  ],
+  "prayer": [
+    "O Jesus, my redemption, my love and my desire,",
+    "You who, rising from the dead, willed to meet the women returning from Your tomb,",
+    "I too seek You, the one my soul loves, sweetest Jesus.",
+    "I seek, and do not yet find: come, then, to my soul that seeks You.",
+    "If You withhold Your desirable presence now,",
+    "do not take it from me forever;",
+    "but in the last resurrection of the faithful",
+    "show Yourself to me, gentle and kind, with Your chosen ones,",
+    "that I may rejoice in Your presence everlastingly. Amen."
+  ],
+  "latinJewel": {
+    "latin": "Quia vidi Dominum, et hæc, quæ dicta sunt, dixit mihi.",
+    "english": "For I have seen the Lord, and these things that were spoken, He said to me."
+  }
+}

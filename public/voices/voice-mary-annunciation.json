@@ -1,0 +1,52 @@
+{
+  "id": "voice-mary-annunciation",
+  "type": "voice",
+  "character": "Mary",
+  "scene": "The angel’s word",
+  "title": "The Maid Who Said Yes",
+  "gospelRef": "Luke 1:26–38",
+  "theme": "Incarnation",
+  "emotions": [
+    "awe",
+    "humility",
+    "joy"
+  ],
+  "durationMin": 4,
+  "narration": [
+    "I am in Nazareth, the little town — the small place, not the great city.",
+    "Christ does not choose a wide kingdom for his nuptials. He chooses this.",
+    "And he sends to me not just any maiden.",
+    "Virgin in mind. Virgin in body. Virgin in vow.",
+    "In my soul I have made it: I will know no man. I am sealed with that promise.",
+    "Then he comes — Gabriel. The strength of God, his name says.",
+    "An archangel, sent for a great announcing.",
+    "And I am troubled. Perplexed.",
+    "For Ambrose is right of me: I dare not disbelieve an angel, yet I dare not too rashly seize the things of God.",
+    "He tells me I will conceive, will bear a son.",
+    "This one will be great — not great as a man before the Lord, but great as God, the Son of God.",
+    "And the question rises out of my fear — for one thing I fear above all, that my virginity be lost.",
+    "So I ask of the manner: How shall this be?",
+    "Since I know not a man — for in my soul I have vowed never to know one.",
+    "He does not break the seal. He fulfills it.",
+    "The Holy Spirit will overshadow. The power of the Most High alone.",
+    "I feel it begin — not a place changed, but a Presence made flesh within me.",
+    "From my own flesh he takes flesh. From my own members he fashions his.",
+    "Here Eve was deceived; here I am taught. There the loss; here the repair.",
+    "The flower conceived in the flower, of the flower, among the flowers.",
+    "And I am the handmaid. Let it be."
+  ],
+  "prayer": [
+    "O Jesus, Son of the living God,",
+    "who by the Father's will and the Spirit's working",
+    "came down into the womb of a virgin,",
+    "bending low through the humble valleys to look upon your handmaid's lowliness —",
+    "let your grace come down, merciful Jesus,",
+    "through the merits of your Mother and Virgin, upon me, your most unworthy servant,",
+    "that through her I may desire you, and inwardly conceive you in love,",
+    "and bring forth the saving fruit of good works. Amen."
+  ],
+  "latinJewel": {
+    "latin": "Quomodo fiet istud, quoniam virum non cognosco?",
+    "english": "How shall this be, since I know not a man?"
+  }
+}

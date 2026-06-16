@@ -1,6 +1,6 @@
 /* Vita Christi — SPA router & views */
 const App = (() => {
-  let register = [], sessions = [], sessionsById = {}, prayers = [], retreats = [], jewels = [];
+  let register = [], sessions = [], sessionsById = {}, prayers = [], retreats = [], jewels = [], voices = [];
 
   const EMOTIONS = ['fear','sorrow','wonder','joy','trust','humility','love','rest','hope','courage','repentance','comfort','longing','gratitude','gravity'];
 
@@ -35,6 +35,7 @@ const App = (() => {
     prayers  = (await get('data/prayers.json')) || [];
     retreats = (await get('data/retreats.json')) || [];
     jewels   = (await get('data/jewels.json')) || [];
+    voices   = (await get('data/voices.json')) || [];
     sessionsById = {}; sessions.forEach(s=>sessionsById[s.id]=s);
     // map sessions onto register chapters for timeline links
     const liveKey = new Set(sessions.map(s=>s.part+'|'+s.chapter));
@@ -246,6 +247,7 @@ const App = (() => {
         <a class="card way passion" href="#/pray/wounds"><div class="ic">✝</div><h3>The Wounds</h3><p>Ludolph's counting devotion — fifteen prayers a day, and in a year you honour every wound of the Passion.</p></a>
         <a class="card way" href="#/pray/gaze"><div class="ic">✦</div><h3>Gaze</h3><p>One line of Latin, held in silence. No reading, no thinking. Only beholding.</p></a>
         <a class="card way" href="#/pray/lectio"><div class="ic">☩</div><h3>Lectio</h3><p>Read one Gospel passage three times, slowly, until a single word shines and stays.</p></a>
+        <a class="card way" href="#/voices"><div class="ic">☵</div><h3>Voices</h3><p>Stand inside a scene as a witness — Mary, a shepherd, Magdalene at the tomb. The detail is Ludolph's; the eyes are yours.</p></a>
       </div>
       <div style="margin-top:32px"><a class="btn ghost" href="#/prayers">Read Ludolph's prayers →</a></div>
     </div>` + footer();
@@ -275,6 +277,21 @@ const App = (() => {
       const full = await fetch('sessions/'+pick.id+'.json').then(r=>r.ok?r.json():null).catch(()=>null);
       if (full) Practices.lectio(full);
     }
+  }
+
+  function voicesView(){
+    return nav('') + `<div class="wrap section">
+      <div class="kicker">Through the eyes of a witness</div>
+      <h1 style="font-size:2.6rem;margin:6px 0 8px">Voices</h1>
+      <p style="color:var(--ink-soft);max-width:580px;margin-bottom:14px">Ludolph bids you enter each scene “as if you saw it with your own eyes.” Here you stand inside it — as Mary, as a shepherd, as Magdalene at the tomb. Every detail is his; the eyes are yours.</p>
+      ${voices.length?`<div class="grid two">${voices.map(v=>`
+        <a class="card ${v.theme==='The Passion'?'passion':''}" href="#/session/${v.id}">
+          <div class="tag">In the voice of ${v.character}</div>
+          <h3>${v.title}</h3>
+          <p>${v.scene||''}</p>
+          <div class="foot"><span>${v.gospelRef||''}</span><span>${v.durationMin||4} min</span></div>
+        </a>`).join('')}</div>`:`<p style="color:var(--muted)">The voices are being written.</p>`}
+    </div>` + footer();
   }
 
   function method(){
@@ -314,6 +331,11 @@ const App = (() => {
 
   // ---------- router ----------
   async function openSession(id){
+    if (id.startsWith('voice-')){
+      const v = await fetch('voices/'+id+'.json').then(r=>r.ok?r.json():null).catch(()=>null);
+      if (v) Player.open(v);
+      return;
+    }
     let s = sessionsById[id];
     if (s && !s.movements){ // index entry without full body -> fetch full
       const full = await fetch('sessions/'+id+'.json').then(r=>r.ok?r.json():null).catch(()=>null);
@@ -340,6 +362,7 @@ const App = (() => {
       case 'timeline': html=timeline(); break;
       case 'prayers': html=prayersView(); break;
       case 'method': html=method(); break;
+      case 'voices': html=voicesView(); break;
       case 'about': html=about(); break;
       default: html=notFound();
     }

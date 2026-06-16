@@ -1,0 +1,114 @@
+[
+  {
+    "id": "voice-mary-annunciation",
+    "character": "Mary",
+    "scene": "The angel’s word",
+    "title": "The Maid Who Said Yes",
+    "gospelRef": "Luke 1:26–38",
+    "theme": "Incarnation",
+    "emotions": [
+      "awe",
+      "humility",
+      "joy"
+    ],
+    "durationMin": 4
+  },
+  {
+    "id": "voice-shepherd",
+    "character": "A shepherd of Bethlehem",
+    "scene": "The night the sky opened",
+    "title": "The Shepherd at the Tower of the Flock",
+    "gospelRef": "Luke 2:8–16",
+    "theme": "Nativity",
+    "emotions": [
+      "wonder",
+      "fear",
+      "joy"
+    ],
+    "durationMin": 4
+  },
+  {
+    "id": "voice-magus",
+    "character": "One of the Magi",
+    "scene": "We followed a star",
+    "title": "The Magus Who Followed the Star",
+    "gospelRef": "Matthew 2:1–11",
+    "theme": "Nativity",
+    "emotions": [
+      "longing",
+      "wonder",
+      "joy"
+    ],
+    "durationMin": 5
+  },
+  {
+    "id": "voice-joseph-flight",
+    "character": "Joseph",
+    "scene": "I took the child by night",
+    "title": "Joseph: I Took the Child by Night",
+    "gospelRef": "Matthew 2:13–14",
+    "theme": "Hidden Life",
+    "emotions": [
+      "fear",
+      "trust",
+      "love"
+    ],
+    "durationMin": 4
+  },
+  {
+    "id": "voice-magdalene",
+    "character": "Mary Magdalene",
+    "scene": "I came while it was still dark",
+    "title": "Apostle to the Apostles",
+    "gospelRef": "John 20:11–18",
+    "theme": "Resurrection",
+    "emotions": [
+      "longing",
+      "sorrow",
+      "joy"
+    ],
+    "durationMin": 7
+  },
+  {
+    "id": "voice-thomas",
+    "character": "Thomas",
+    "scene": "Unless I touch",
+    "title": "The Wound I Dared to Touch",
+    "gospelRef": "John 20:24–29",
+    "theme": "Resurrection",
+    "emotions": [
+      "trust",
+      "wonder",
+      "love"
+    ],
+    "durationMin": 7
+  },
+  {
+    "id": "voice-mary-cross",
+    "character": "Mary, the Mother",
+    "scene": "I stood by the cross",
+    "title": "The Mother Beneath the Cross",
+    "gospelRef": "John 19:25–27",
+    "theme": "The Passion",
+    "emotions": [
+      "sorrow",
+      "love",
+      "courage"
+    ],
+    "durationMin": 4
+  },
+  {
+    "id": "voice-centurion",
+    "character": "The centurion",
+    "scene": "Truly this was the Son of God",
+    "title": "The Centurion Beneath the Cross",
+    "gospelRef": "Matthew 27:54",
+    "theme": "The Passion",
+    "emotions": [
+      "fear",
+      "wonder",
+      "repentance"
+    ],
+    "durationMin": 4
+  }
+]

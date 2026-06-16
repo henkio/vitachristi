@@ -1,0 +1,49 @@
+{
+  "id": "voice-magus",
+  "type": "voice",
+  "character": "One of the Magi",
+  "scene": "We followed a star",
+  "title": "The Magus Who Followed the Star",
+  "gospelRef": "Matthew 2:1–11",
+  "theme": "Nativity",
+  "emotions": [
+    "longing",
+    "wonder",
+    "joy"
+  ],
+  "durationMin": 5,
+  "narration": [
+    "I am a Magus, a watcher of the heavens, schooled in the courses of the stars.",
+    "We are no workers of magic — we are called great in wisdom, the firstfruits of the faith.",
+    "From the East we come, from the lands of the Persians, the Medes, the Chaldeans.",
+    "I knew this light was no ordinary star.",
+    "Its substance is not the incorruptible fire of the firmament — it burns from a corruptible thing, made low, near to the earth.",
+    "It does not wheel from East to West as the others do. It runs straight, from the rising toward the south.",
+    "It is no larger than two or three cubits, and it hovers in the air, not far above us.",
+    "When we walk, it walks. When we stop and rest, it rests and waits over us.",
+    "It shines at noonday, in the full blaze of the sun, and its own splendor overcomes even the sun's rays.",
+    "I know now what no astronomy taught me: this is the sign foretold by Balaam — a star shall rise out of Jacob.",
+    "Divine inspiration opens my mind: this light does not mark seasons or years. It marks the birth of the Creator.",
+    "We seek One who is God and man, and the star tells us only this — the Savior is born.",
+    "We enter Jerusalem — and the star hides itself from us.",
+    "We leave Herod behind, and it shows itself again, going before us.",
+    "It leads us to the place. Here. A stable. A poor Mother. A child.",
+    "I fall down. I adore Him.",
+    "I open my treasures: gold for His poverty, to sustain a poor Mother and Son.",
+    "Frankincense against the stench of this stable, against the foulness of this place.",
+    "Myrrh for the tenderness of an infant's body, to strengthen His weak small limbs.",
+    "I came by the way of darkness. I will go home by another way."
+  ],
+  "prayer": [
+    "O good Jesus, born of the Virgin, who revealed yourself to the Magi with the star for guide.",
+    "Let the light of your grace shine into the darkness of my conscience.",
+    "By your glad appearing, give me full knowledge of you and of myself, that within I may see you, within I may find you.",
+    "There let me offer to your majesty the myrrh of inward compunction, the incense of devout prayer, the gold of loving devotion.",
+    "I went out from the homeland of supernal joy by the way of darkness and of fault.",
+    "Lead me back, by the way of truth and grace, to that country, with you to guide me. Amen."
+  ],
+  "latinJewel": {
+    "latin": "qui de Virgine natus teipsum Magis, stella duce, revelasti, et eos per aliam viam in regionem suam redire fecisti",
+    "english": "who, born of the Virgin, revealed yourself to the Magi with the star for guide, and made them return into their own country by another way"
+  }
+}
