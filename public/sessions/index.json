@@ -2097,6 +2097,31 @@
     ]
   },
   {
+    "id": "the-call-to-take-up-the-cross",
+    "part": "II",
+    "chapter": "II",
+    "title": "Take Up Your Cross",
+    "subtitle": "Christ calls the crowd, and you among them, to follow Him by the way of the cross",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "courage",
+      "love",
+      "gravity"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 16:24; Luke 9:23",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, grant me so to deny myself,",
+      "that in prosperity and in all things that delight for a time, I may turn away from evil, and seek nothing but Your honor;",
+      "and, renouncing my own will, that I may obey You, and for Your sake every creature."
+    ]
+  },
+  {
     "id": "the-transfiguration-of-the-lord",
     "part": "II",
     "chapter": "III",
@@ -2121,6 +2146,80 @@
     ]
   },
   {
+    "id": "the-healing-of-the-epileptic-boy",
+    "part": "II",
+    "chapter": "IV",
+    "title": "Servants of No Account",
+    "subtitle": "Christ descends the mountain to heal the boy the disciples could not free",
+    "theme": "Miracles",
+    "lens": "Receiving",
+    "emotions": [
+      "trust",
+      "wonder",
+      "compassion"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 17; Mark 9; Luke 9",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, who taught us humility by word and example,",
+      "grant me that I may never think high things of myself, but always lowly things,",
+      "feel them in my heart, speak them with my mouth, and show them in my deeds."
+    ]
+  },
+  {
+    "id": "the-temple-tax-and-the-question-of-great",
+    "part": "II",
+    "chapter": "V",
+    "title": "The Coin in the Fish's Mouth",
+    "subtitle": "At Capernaum the temple tax is demanded of the Lord, and a stater is drawn from the deep",
+    "theme": "Calling & Discipleship",
+    "lens": "Awakening",
+    "emotions": [
+      "humility",
+      "trust",
+      "gravity"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 17:22–27; Mark 9:30–32; Luke 9:44–45",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "grant me to go to the sea,",
+      "calling my sins to mind in the bitterness of my soul;"
+    ]
+  },
+  {
+    "id": "against-scandalising-the-little-ones",
+    "part": "II",
+    "chapter": "VI",
+    "title": "The Millstone and the Little Ones",
+    "subtitle": "Christ warns against scandalising the small in faith",
+    "theme": "Calling & Discipleship",
+    "lens": "Awakening",
+    "emotions": [
+      "humility",
+      "love",
+      "gravity"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 18:6–7; Mark 9:41",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, good Master and ruler,",
+      "govern and rule mercifully all that is within me and without,",
+      "that never may scandal come from others to me, or from me to others;"
+    ]
+  },
+  {
     "id": "the-lost-sheep-the-lost-coin-and-the-pro",
     "part": "II",
     "chapter": "VII",
@@ -2142,6 +2241,155 @@
       "Come, Lord Jesus, seek your servant;",
       "come, good Shepherd, seek your straying and weary sheep;",
       "come, Spouse of Mother Church, seek the lost coin;"
+    ]
+  },
+  {
+    "id": "fraternal-correction-and-boundless-forgi",
+    "part": "II",
+    "chapter": "VIII",
+    "title": "Seventy Times Seven",
+    "subtitle": "Christ teaches how to win back the brother who has sinned, and how often to forgive",
+    "theme": "Calling & Discipleship",
+    "lens": "Awakening",
+    "emotions": [
+      "love",
+      "humility",
+      "comfort"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 18:15–17",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "grant me, unworthy as I am, in Your mercy,",
+      "that I may mend my sinning brother, correcting him with words in due season;"
+    ]
+  },
+  {
+    "id": "the-unforgiving-servant",
+    "part": "II",
+    "chapter": "IX",
+    "title": "The King Who Settled Accounts",
+    "subtitle": "The servant forgiven ten thousand talents, who would not forgive a hundred pence",
+    "theme": "Parables",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "repentance",
+      "love"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 18:23–28",
+    "durationMin": 5,
+    "prayerPreview": [
+      "We run after Thee, O Lord Jesus,",
+      "hearing that Thou dost not spurn the poor, nor abhor the sinner.",
+      "Thou didst not abhor the thief confessing Thee,"
+    ]
+  },
+  {
+    "id": "on-marriage-and-the-children-brought-to-",
+    "part": "II",
+    "chapter": "X",
+    "title": "The Indissoluble Bond",
+    "subtitle": "By the Jordan, the Pharisees test Him on marriage, and He calls the soul to a higher continence",
+    "theme": "Calling & Discipleship",
+    "lens": "Receiving",
+    "emotions": [
+      "love",
+      "humility",
+      "joy"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 19:1–12",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ, who hast exhorted us to continence,",
+      "grant what Thou dost exhort,",
+      "and bestow on me, the frail one, chastity of mind and body;"
+    ]
+  },
+  {
+    "id": "the-perfection-of-poverty",
+    "part": "II",
+    "chapter": "XI",
+    "title": "What Do I Still Lack?",
+    "subtitle": "The rich young man kneels before Jesus and asks the way to eternal life",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "humility",
+      "longing",
+      "courage"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 19:16–20; Mark 10:17–20",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, grant to me — wretched and frail,",
+      "who until now have kept Thy commandments negligently and badly —",
+      "grant me at least from now on to keep them,"
+    ]
+  },
+  {
+    "id": "the-twelve-evangelical-counsels",
+    "part": "II",
+    "chapter": "XII",
+    "title": "The Guarded Gateway",
+    "subtitle": "The twelve evangelical counsels Christ added to the commandments",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "longing",
+      "courage",
+      "love"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 19:21; Luke 14:33",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Let the fear of God be to you more forceful than any necessity.",
+      "For if you are always willing to set the occasions before yourself,",
+      "you will keep nothing of the things commanded,"
+    ]
+  },
+  {
+    "id": "the-reward-of-those-who-leave-all",
+    "part": "II",
+    "chapter": "XIII",
+    "title": "The Eye of the Needle",
+    "subtitle": "Christ on the hard road of the rich, and the reward of those who leave all",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "hope",
+      "courage",
+      "trust"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 19:23–26",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, grant to me, wretched and unworthy,",
+      "that for Your sake and for love of You,",
+      "and for the glorifying of Your name,"
     ]
   },
   {
@@ -2319,6 +2567,82 @@
     ]
   },
   {
+    "id": "the-winnowing-at-the-last-judgement",
+    "part": "II",
+    "chapter": "L",
+    "title": "The Winnowing of the Threshing-Floor",
+    "subtitle": "The Son of Man comes in majesty to separate the sheep from the goats",
+    "theme": "The Last Things",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "fear",
+      "hope"
+    ],
+    "journeys": [
+      "storm",
+      "daily"
+    ],
+    "gospelRef": "Matthew 25:31–34",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, judge of the living and the dead,",
+      "in the last judgement deign to set me at thy right hand,",
+      "and then make me to hear that most sweet voice of thine,"
+    ]
+  },
+  {
+    "id": "the-pasch-and-its-meanings",
+    "part": "II",
+    "chapter": "LI",
+    "title": "Behold and Do",
+    "subtitle": "On the threshold of the Passion: Christ, the pattern shown on the mountain",
+    "theme": "The Passion",
+    "lens": "Beholding",
+    "emotions": [
+      "gravity",
+      "longing",
+      "love"
+    ],
+    "journeys": [
+      "passion",
+      "daily"
+    ],
+    "gospelRef": "Matthew 26 (with Exodus 25:40; 1 Peter 2:21; 1 Corinthians 2:2)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who on the third day before the time of your Passion and death",
+      "foretold to your disciples your Pasch and your passing out of this world,"
+    ]
+  },
+  {
+    "id": "the-betrayal-by-judas",
+    "part": "II",
+    "chapter": "LII",
+    "title": "The Price of a Friend",
+    "subtitle": "Judas goes out to the council and sells his Master for thirty pieces of silver",
+    "theme": "The Passion",
+    "lens": "Compassion",
+    "emotions": [
+      "sorrow",
+      "gravity",
+      "fear"
+    ],
+    "journeys": [
+      "passion",
+      "storm",
+      "daily"
+    ],
+    "gospelRef": "Matthew 26:14–16; Luke 22:1–6",
+    "durationMin": 5,
+    "prayerPreview": [
+      "O most merciful Jesus,",
+      "who bore the labors of preaching, the weariness of journeying,",
+      "the insults and reproaches, the injuries and the anguish, for our salvation,"
+    ]
+  },
+  {
     "id": "meditation-at-the-first-vespers-of-the-s",
     "part": "II",
     "chapter": "LIII",
@@ -2368,6 +2692,31 @@
     ]
   },
   {
+    "id": "the-charitable-warning-of-the-traitor",
+    "part": "II",
+    "chapter": "LV",
+    "title": "The Warning at the Table",
+    "subtitle": "Christ, troubled in spirit, names the traitor among His own — and Judas goes out",
+    "theme": "The Passion",
+    "lens": "Compassion",
+    "emotions": [
+      "sorrow",
+      "love",
+      "gravity"
+    ],
+    "journeys": [
+      "passion",
+      "daily"
+    ],
+    "gospelRef": "Matthew 26:21–25; John 13:21–26",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, good Shepherd,",
+      "who willed in many ways to call Your disciple back from his errors to repentance,",
+      "call me back from all my wanderings and from all my errors."
+    ]
+  },
+  {
     "id": "the-institution-of-the-eucharist",
     "part": "II",
     "chapter": "LVI",
@@ -2390,6 +2739,31 @@
       "Lord Jesus, who didst hand over and leave to us Thy very self,",
       "Thy most holy Body and Blood, truly for our food and drink:",
       "grant me, in receiving and before receiving this sacrament,"
+    ]
+  },
+  {
+    "id": "the-lord-s-discourse-and-prayer-at-the-s",
+    "part": "II",
+    "chapter": "LVII",
+    "title": "Let Not Your Heart Be Troubled",
+    "subtitle": "After Judas goes out, the Lord consoles his own with his farewell at the Supper",
+    "theme": "The Passion",
+    "lens": "Receiving",
+    "emotions": [
+      "love",
+      "comfort",
+      "longing"
+    ],
+    "journeys": [
+      "passion",
+      "daily"
+    ],
+    "gospelRef": "John 13:33; 14:1–3, 18, 27; 16:7",
+    "durationMin": 5,
+    "prayerPreview": [
+      "O Lord, prepare what you are preparing:",
+      "us, that is, for yourself, and yourself for us,",
+      "that there may be a multitude of mansions for the diversity of merits:"
     ]
   },
   {
