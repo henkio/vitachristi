@@ -1,5 +1,19 @@
 [
   {
+    "part": "II",
+    "chapter": "I",
+    "n": 0,
+    "latinTitle": "De confessione Petri",
+    "title": "The Confession of Peter",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "trust",
+      "courage"
+    ],
+    "act": 5
+  },
+  {
     "part": "I",
     "chapter": "I",
     "n": 1,
@@ -7,7 +21,11 @@
     "title": "The Eternal Generation of the Son",
     "theme": "Incarnation",
     "lens": "Beholding",
-    "emotions": ["wonder", "humility", "love"],
+    "emotions": [
+      "wonder",
+      "humility",
+      "love"
+    ],
     "act": 1
   },
   {
@@ -18,7 +36,11 @@
     "title": "The Remedy for Mankind and the Birth of the Virgin",
     "theme": "Incarnation",
     "lens": "Beholding",
-    "emotions": ["hope", "wonder", "gratitude"],
+    "emotions": [
+      "hope",
+      "wonder",
+      "gratitude"
+    ],
     "act": 1
   },
   {
@@ -29,7 +51,11 @@
     "title": "The Betrothal of Mary",
     "theme": "Incarnation",
     "lens": "Beholding",
-    "emotions": ["humility", "trust", "love"],
+    "emotions": [
+      "humility",
+      "trust",
+      "love"
+    ],
     "act": 1
   },
   {
@@ -40,7 +66,11 @@
     "title": "The Conception of the Forerunner",
     "theme": "Incarnation",
     "lens": "Beholding",
-    "emotions": ["wonder", "joy", "hope"],
+    "emotions": [
+      "wonder",
+      "joy",
+      "hope"
+    ],
     "act": 1
   },
   {
@@ -51,7 +81,11 @@
     "title": "The Conception of the Saviour",
     "theme": "Incarnation",
     "lens": "Receiving",
-    "emotions": ["wonder", "humility", "joy"],
+    "emotions": [
+      "wonder",
+      "humility",
+      "joy"
+    ],
     "act": 1
   },
   {
@@ -62,7 +96,11 @@
     "title": "The Birth and Circumcision of the Forerunner",
     "theme": "Nativity",
     "lens": "Beholding",
-    "emotions": ["joy", "wonder", "gratitude"],
+    "emotions": [
+      "joy",
+      "wonder",
+      "gratitude"
+    ],
     "act": 1
   },
   {
@@ -73,7 +111,11 @@
     "title": "The Genealogy of the Saviour",
     "theme": "Incarnation",
     "lens": "Beholding",
-    "emotions": ["wonder", "gravity", "hope"],
+    "emotions": [
+      "wonder",
+      "gravity",
+      "hope"
+    ],
     "act": 1
   },
   {
@@ -84,7 +126,11 @@
     "title": "Joseph Resolves to Send Mary Away",
     "theme": "Incarnation",
     "lens": "Beholding",
-    "emotions": ["sorrow", "trust", "humility"],
+    "emotions": [
+      "sorrow",
+      "trust",
+      "humility"
+    ],
     "act": 1
   },
   {
@@ -95,7 +141,11 @@
     "title": "The Nativity of the Saviour",
     "theme": "Nativity",
     "lens": "Beholding",
-    "emotions": ["wonder", "joy", "love"],
+    "emotions": [
+      "wonder",
+      "joy",
+      "love"
+    ],
     "act": 1
   },
   {
@@ -106,7 +156,11 @@
     "title": "The Circumcision of the Lord",
     "theme": "Nativity",
     "lens": "Beholding",
-    "emotions": ["humility", "love", "gravity"],
+    "emotions": [
+      "humility",
+      "love",
+      "gravity"
+    ],
     "act": 1
   },
   {
@@ -117,7 +171,11 @@
     "title": "The Epiphany to the Three Magi",
     "theme": "Nativity",
     "lens": "Beholding",
-    "emotions": ["wonder", "joy", "gratitude"],
+    "emotions": [
+      "wonder",
+      "joy",
+      "gratitude"
+    ],
     "act": 1
   },
   {
@@ -128,7 +186,11 @@
     "title": "The Presentation in the Temple",
     "theme": "Nativity",
     "lens": "Beholding",
-    "emotions": ["joy", "hope", "humility"],
+    "emotions": [
+      "joy",
+      "hope",
+      "humility"
+    ],
     "act": 1
   },
   {
@@ -139,7 +201,11 @@
     "title": "The Flight into Egypt and the Holy Innocents",
     "theme": "Hidden Life",
     "lens": "Compassion",
-    "emotions": ["sorrow", "fear", "trust"],
+    "emotions": [
+      "sorrow",
+      "fear",
+      "trust"
+    ],
     "act": 1
   },
   {
@@ -150,7 +216,11 @@
     "title": "The Return from Egypt and John's Penance",
     "theme": "Hidden Life",
     "lens": "Following",
-    "emotions": ["hope", "repentance", "trust"],
+    "emotions": [
+      "hope",
+      "repentance",
+      "trust"
+    ],
     "act": 1
   },
   {
@@ -161,7 +231,11 @@
     "title": "The Boy Jesus Found in the Temple",
     "theme": "Hidden Life",
     "lens": "Beholding",
-    "emotions": ["wonder", "longing", "joy"],
+    "emotions": [
+      "wonder",
+      "longing",
+      "joy"
+    ],
     "act": 1
   },
   {
@@ -172,7 +246,11 @@
     "title": "The Hidden Years of the Lord",
     "theme": "Hidden Life",
     "lens": "Beholding",
-    "emotions": ["humility", "rest", "love"],
+    "emotions": [
+      "humility",
+      "rest",
+      "love"
+    ],
     "act": 1
   },
   {
@@ -183,7 +261,11 @@
     "title": "The Office and Life of John the Baptist",
     "theme": "Baptism & Temptation",
     "lens": "Following",
-    "emotions": ["repentance", "gravity", "hope"],
+    "emotions": [
+      "repentance",
+      "gravity",
+      "hope"
+    ],
     "act": 2
   },
   {
@@ -194,7 +276,11 @@
     "title": "John Sent Forth by God",
     "theme": "Baptism & Temptation",
     "lens": "Following",
-    "emotions": ["humility", "trust", "gravity"],
+    "emotions": [
+      "humility",
+      "trust",
+      "gravity"
+    ],
     "act": 2
   },
   {
@@ -205,7 +291,11 @@
     "title": "John's Witness as Forerunner",
     "theme": "Baptism & Temptation",
     "lens": "Beholding",
-    "emotions": ["humility", "hope", "gravity"],
+    "emotions": [
+      "humility",
+      "hope",
+      "gravity"
+    ],
     "act": 2
   },
   {
@@ -216,7 +306,11 @@
     "title": "The Call to Repentance",
     "theme": "Baptism & Temptation",
     "lens": "Awakening",
-    "emotions": ["repentance", "gravity", "hope"],
+    "emotions": [
+      "repentance",
+      "gravity",
+      "hope"
+    ],
     "act": 2
   },
   {
@@ -227,7 +321,11 @@
     "title": "The Baptism of the Lord",
     "theme": "Baptism & Temptation",
     "lens": "Beholding",
-    "emotions": ["wonder", "humility", "joy"],
+    "emotions": [
+      "wonder",
+      "humility",
+      "joy"
+    ],
     "act": 2
   },
   {
@@ -238,7 +336,11 @@
     "title": "The Fast and Temptations in the Desert",
     "theme": "Baptism & Temptation",
     "lens": "Following",
-    "emotions": ["courage", "trust", "gravity"],
+    "emotions": [
+      "courage",
+      "trust",
+      "gravity"
+    ],
     "act": 2
   },
   {
@@ -249,7 +351,11 @@
     "title": "John's Witness to the Lamb of God",
     "theme": "Baptism & Temptation",
     "lens": "Beholding",
-    "emotions": ["wonder", "hope", "love"],
+    "emotions": [
+      "wonder",
+      "hope",
+      "love"
+    ],
     "act": 2
   },
   {
@@ -260,7 +366,11 @@
     "title": "The First Calling of the Disciples",
     "theme": "Calling & Discipleship",
     "lens": "Following",
-    "emotions": ["hope", "joy", "trust"],
+    "emotions": [
+      "hope",
+      "joy",
+      "trust"
+    ],
     "act": 2
   },
   {
@@ -271,7 +381,11 @@
     "title": "The Water Turned to Wine",
     "theme": "Miracles",
     "lens": "Beholding",
-    "emotions": ["wonder", "joy", "trust"],
+    "emotions": [
+      "wonder",
+      "joy",
+      "trust"
+    ],
     "act": 4
   },
   {
@@ -282,7 +396,11 @@
     "title": "The Cleansing of the Temple and Nicodemus",
     "theme": "Conflict & Opposition",
     "lens": "Awakening",
-    "emotions": ["gravity", "courage", "hope"],
+    "emotions": [
+      "gravity",
+      "courage",
+      "hope"
+    ],
     "act": 4
   },
   {
@@ -293,7 +411,11 @@
     "title": "The Imprisonment of John the Baptist",
     "theme": "Conflict & Opposition",
     "lens": "Compassion",
-    "emotions": ["sorrow", "courage", "trust"],
+    "emotions": [
+      "sorrow",
+      "courage",
+      "trust"
+    ],
     "act": 4
   },
   {
@@ -304,7 +426,11 @@
     "title": "The Beginning of the Public Preaching",
     "theme": "Calling & Discipleship",
     "lens": "Following",
-    "emotions": ["hope", "courage", "joy"],
+    "emotions": [
+      "hope",
+      "courage",
+      "joy"
+    ],
     "act": 4
   },
   {
@@ -315,7 +441,11 @@
     "title": "The Second and Third Calling of the Disciples",
     "theme": "Calling & Discipleship",
     "lens": "Following",
-    "emotions": ["trust", "hope", "joy"],
+    "emotions": [
+      "trust",
+      "hope",
+      "joy"
+    ],
     "act": 4
   },
   {
@@ -326,7 +456,11 @@
     "title": "The Zeal of Christ in Preaching",
     "theme": "Calling & Discipleship",
     "lens": "Following",
-    "emotions": ["courage", "love", "hope"],
+    "emotions": [
+      "courage",
+      "love",
+      "hope"
+    ],
     "act": 4
   },
   {
@@ -337,7 +471,11 @@
     "title": "The Calling of Matthew and His Feast",
     "theme": "Calling & Discipleship",
     "lens": "Following",
-    "emotions": ["joy", "repentance", "love"],
+    "emotions": [
+      "joy",
+      "repentance",
+      "love"
+    ],
     "act": 4
   },
   {
@@ -348,7 +486,11 @@
     "title": "The Choosing of the Twelve Apostles",
     "theme": "Calling & Discipleship",
     "lens": "Following",
-    "emotions": ["hope", "trust", "gravity"],
+    "emotions": [
+      "hope",
+      "trust",
+      "gravity"
+    ],
     "act": 4
   },
   {
@@ -359,7 +501,11 @@
     "title": "The Sermon on the Mount: The Eight Beatitudes",
     "theme": "Sermon on the Mount",
     "lens": "Awakening",
-    "emotions": ["hope", "comfort", "longing"],
+    "emotions": [
+      "hope",
+      "comfort",
+      "longing"
+    ],
     "act": 3
   },
   {
@@ -370,7 +516,11 @@
     "title": "Light to the World and the Law Fulfilled",
     "theme": "Sermon on the Mount",
     "lens": "Awakening",
-    "emotions": ["gravity", "courage", "hope"],
+    "emotions": [
+      "gravity",
+      "courage",
+      "hope"
+    ],
     "act": 3
   },
   {
@@ -381,7 +531,11 @@
     "title": "Patience and Generosity Toward Our Neighbour",
     "theme": "Sermon on the Mount",
     "lens": "Awakening",
-    "emotions": ["love", "humility", "comfort"],
+    "emotions": [
+      "love",
+      "humility",
+      "comfort"
+    ],
     "act": 3
   },
   {
@@ -392,7 +546,11 @@
     "title": "Good Works Without Seeking Human Praise",
     "theme": "Sermon on the Mount",
     "lens": "Awakening",
-    "emotions": ["humility", "gravity", "trust"],
+    "emotions": [
+      "humility",
+      "gravity",
+      "trust"
+    ],
     "act": 3
   },
   {
@@ -403,7 +561,11 @@
     "title": "The Lord's Prayer",
     "theme": "Sermon on the Mount",
     "lens": "Receiving",
-    "emotions": ["trust", "hope", "love"],
+    "emotions": [
+      "trust",
+      "hope",
+      "love"
+    ],
     "act": 3
   },
   {
@@ -414,7 +576,11 @@
     "title": "Treasure in Heaven, Not on Earth",
     "theme": "Sermon on the Mount",
     "lens": "Awakening",
-    "emotions": ["longing", "trust", "hope"],
+    "emotions": [
+      "longing",
+      "trust",
+      "hope"
+    ],
     "act": 3
   },
   {
@@ -425,7 +591,11 @@
     "title": "Mercy, Not Judging, and Confidence in Prayer",
     "theme": "Sermon on the Mount",
     "lens": "Awakening",
-    "emotions": ["love", "trust", "comfort"],
+    "emotions": [
+      "love",
+      "trust",
+      "comfort"
+    ],
     "act": 3
   },
   {
@@ -436,7 +606,11 @@
     "title": "The Narrow Way and the Sermon's Close",
     "theme": "Sermon on the Mount",
     "lens": "Awakening",
-    "emotions": ["gravity", "courage", "hope"],
+    "emotions": [
+      "gravity",
+      "courage",
+      "hope"
+    ],
     "act": 3
   },
   {
@@ -447,7 +621,11 @@
     "title": "The Healing of the Leper",
     "theme": "Miracles",
     "lens": "Compassion",
-    "emotions": ["compassion", "wonder", "trust"],
+    "emotions": [
+      "compassion",
+      "wonder",
+      "trust"
+    ],
     "act": 4
   },
   {
@@ -458,7 +636,11 @@
     "title": "The Centurion's Paralysed Servant",
     "theme": "Miracles",
     "lens": "Receiving",
-    "emotions": ["trust", "wonder", "humility"],
+    "emotions": [
+      "trust",
+      "wonder",
+      "humility"
+    ],
     "act": 4
   },
   {
@@ -469,7 +651,11 @@
     "title": "The Demoniac and Peter's Mother-in-Law",
     "theme": "Miracles",
     "lens": "Compassion",
-    "emotions": ["wonder", "comfort", "gratitude"],
+    "emotions": [
+      "wonder",
+      "comfort",
+      "gratitude"
+    ],
     "act": 4
   },
   {
@@ -480,7 +666,11 @@
     "title": "The Raising of the Widow's Son at Nain",
     "theme": "Miracles",
     "lens": "Compassion",
-    "emotions": ["sorrow", "wonder", "comfort"],
+    "emotions": [
+      "sorrow",
+      "wonder",
+      "comfort"
+    ],
     "act": 4
   },
   {
@@ -491,7 +681,11 @@
     "title": "The Cost of Following Christ",
     "theme": "Calling & Discipleship",
     "lens": "Following",
-    "emotions": ["courage", "gravity", "longing"],
+    "emotions": [
+      "courage",
+      "gravity",
+      "longing"
+    ],
     "act": 4
   },
   {
@@ -502,7 +696,11 @@
     "title": "The Storm Stilled",
     "theme": "Miracles",
     "lens": "Receiving",
-    "emotions": ["fear", "wonder", "trust"],
+    "emotions": [
+      "fear",
+      "wonder",
+      "trust"
+    ],
     "act": 4
   },
   {
@@ -513,7 +711,11 @@
     "title": "The Gerasene Demoniacs",
     "theme": "Miracles",
     "lens": "Compassion",
-    "emotions": ["wonder", "fear", "comfort"],
+    "emotions": [
+      "wonder",
+      "fear",
+      "comfort"
+    ],
     "act": 4
   },
   {
@@ -524,7 +726,11 @@
     "title": "The Paralytic Lowered Through the Roof",
     "theme": "Miracles",
     "lens": "Receiving",
-    "emotions": ["trust", "wonder", "gratitude"],
+    "emotions": [
+      "trust",
+      "wonder",
+      "gratitude"
+    ],
     "act": 4
   },
   {
@@ -535,7 +741,11 @@
     "title": "The Woman with the Issue and Jairus' Daughter",
     "theme": "Miracles",
     "lens": "Receiving",
-    "emotions": ["trust", "hope", "wonder"],
+    "emotions": [
+      "trust",
+      "hope",
+      "wonder"
+    ],
     "act": 4
   },
   {
@@ -546,7 +756,11 @@
     "title": "The Two Blind Men and the Mute",
     "theme": "Miracles",
     "lens": "Receiving",
-    "emotions": ["trust", "wonder", "gratitude"],
+    "emotions": [
+      "trust",
+      "wonder",
+      "gratitude"
+    ],
     "act": 4
   },
   {
@@ -557,7 +771,11 @@
     "title": "The Mission of the Apostles",
     "theme": "Calling & Discipleship",
     "lens": "Following",
-    "emotions": ["courage", "hope", "trust"],
+    "emotions": [
+      "courage",
+      "hope",
+      "trust"
+    ],
     "act": 4
   },
   {
@@ -568,7 +786,11 @@
     "title": "Patience in Adversity",
     "theme": "Calling & Discipleship",
     "lens": "Following",
-    "emotions": ["courage", "trust", "comfort"],
+    "emotions": [
+      "courage",
+      "trust",
+      "comfort"
+    ],
     "act": 4
   },
   {
@@ -579,7 +801,11 @@
     "title": "Fearless Confession of Christ",
     "theme": "Calling & Discipleship",
     "lens": "Following",
-    "emotions": ["courage", "trust", "hope"],
+    "emotions": [
+      "courage",
+      "trust",
+      "hope"
+    ],
     "act": 4
   },
   {
@@ -590,7 +816,11 @@
     "title": "Hindrances to Following Christ",
     "theme": "Calling & Discipleship",
     "lens": "Following",
-    "emotions": ["gravity", "longing", "courage"],
+    "emotions": [
+      "gravity",
+      "longing",
+      "courage"
+    ],
     "act": 4
   },
   {
@@ -601,7 +831,11 @@
     "title": "Consolation Amid the Burden of Precepts",
     "theme": "Calling & Discipleship",
     "lens": "Following",
-    "emotions": ["comfort", "rest", "trust"],
+    "emotions": [
+      "comfort",
+      "rest",
+      "trust"
+    ],
     "act": 4
   },
   {
@@ -612,7 +846,11 @@
     "title": "John's Question and the Lord's Praise of Him",
     "theme": "Conflict & Opposition",
     "lens": "Beholding",
-    "emotions": ["hope", "gravity", "trust"],
+    "emotions": [
+      "hope",
+      "gravity",
+      "trust"
+    ],
     "act": 4
   },
   {
@@ -623,7 +861,11 @@
     "title": "The Rebuke of the Unbelieving Cities",
     "theme": "Conflict & Opposition",
     "lens": "Awakening",
-    "emotions": ["gravity", "sorrow", "repentance"],
+    "emotions": [
+      "gravity",
+      "sorrow",
+      "repentance"
+    ],
     "act": 4
   },
   {
@@ -634,7 +876,11 @@
     "title": "The Mission of the Seventy-Two",
     "theme": "Calling & Discipleship",
     "lens": "Following",
-    "emotions": ["joy", "hope", "courage"],
+    "emotions": [
+      "joy",
+      "hope",
+      "courage"
+    ],
     "act": 4
   },
   {
@@ -645,7 +891,11 @@
     "title": "The Good Samaritan",
     "theme": "Parables",
     "lens": "Compassion",
-    "emotions": ["love", "compassion", "comfort"],
+    "emotions": [
+      "love",
+      "compassion",
+      "comfort"
+    ],
     "act": 4
   },
   {
@@ -656,7 +906,11 @@
     "title": "The Penance of Mary Magdalene",
     "theme": "Calling & Discipleship",
     "lens": "Awakening",
-    "emotions": ["repentance", "love", "sorrow"],
+    "emotions": [
+      "repentance",
+      "love",
+      "sorrow"
+    ],
     "act": 4
   },
   {
@@ -667,7 +921,11 @@
     "title": "Martha's Service and Mary's Repose",
     "theme": "Calling & Discipleship",
     "lens": "Receiving",
-    "emotions": ["rest", "love", "longing"],
+    "emotions": [
+      "rest",
+      "love",
+      "longing"
+    ],
     "act": 4
   },
   {
@@ -678,7 +936,11 @@
     "title": "The Woman of Samaria",
     "theme": "Miracles",
     "lens": "Awakening",
-    "emotions": ["longing", "wonder", "joy"],
+    "emotions": [
+      "longing",
+      "wonder",
+      "joy"
+    ],
     "act": 4
   },
   {
@@ -689,7 +951,11 @@
     "title": "The Healing of the Official's Son",
     "theme": "Miracles",
     "lens": "Receiving",
-    "emotions": ["trust", "wonder", "gratitude"],
+    "emotions": [
+      "trust",
+      "wonder",
+      "gratitude"
+    ],
     "act": 4
   },
   {
@@ -700,7 +966,11 @@
     "title": "The Parables of the Kingdom",
     "theme": "Parables",
     "lens": "Awakening",
-    "emotions": ["wonder", "hope", "longing"],
+    "emotions": [
+      "wonder",
+      "hope",
+      "longing"
+    ],
     "act": 4
   },
   {
@@ -711,7 +981,11 @@
     "title": "Rejection at Nazareth",
     "theme": "Conflict & Opposition",
     "lens": "Beholding",
-    "emotions": ["sorrow", "gravity", "courage"],
+    "emotions": [
+      "sorrow",
+      "gravity",
+      "courage"
+    ],
     "act": 4
   },
   {
@@ -722,7 +996,11 @@
     "title": "The Beheading of John the Baptist",
     "theme": "Conflict & Opposition",
     "lens": "Compassion",
-    "emotions": ["sorrow", "gravity", "courage"],
+    "emotions": [
+      "sorrow",
+      "gravity",
+      "courage"
+    ],
     "act": 4
   },
   {
@@ -733,7 +1011,11 @@
     "title": "The Feeding of the Five Thousand",
     "theme": "Miracles",
     "lens": "Receiving",
-    "emotions": ["wonder", "gratitude", "joy"],
+    "emotions": [
+      "wonder",
+      "gratitude",
+      "joy"
+    ],
     "act": 4
   },
   {
@@ -744,7 +1026,11 @@
     "title": "Against Ambition and the Faults of the Clergy",
     "theme": "Conflict & Opposition",
     "lens": "Awakening",
-    "emotions": ["humility", "gravity", "repentance"],
+    "emotions": [
+      "humility",
+      "gravity",
+      "repentance"
+    ],
     "act": 4
   },
   {
@@ -755,7 +1041,11 @@
     "title": "Walking on the Water and Lifting Peter",
     "theme": "Miracles",
     "lens": "Receiving",
-    "emotions": ["fear", "trust", "wonder"],
+    "emotions": [
+      "fear",
+      "trust",
+      "wonder"
+    ],
     "act": 4
   },
   {
@@ -766,7 +1056,11 @@
     "title": "The Hard Saying and the Disciples Who Turned Back",
     "theme": "Conflict & Opposition",
     "lens": "Following",
-    "emotions": ["gravity", "trust", "sorrow"],
+    "emotions": [
+      "gravity",
+      "trust",
+      "sorrow"
+    ],
     "act": 4
   },
   {
@@ -777,7 +1071,11 @@
     "title": "Passing Through the Grainfields",
     "theme": "Conflict & Opposition",
     "lens": "Awakening",
-    "emotions": ["gravity", "trust", "courage"],
+    "emotions": [
+      "gravity",
+      "trust",
+      "courage"
+    ],
     "act": 4
   },
   {
@@ -788,7 +1086,11 @@
     "title": "The Man with the Withered Hand",
     "theme": "Miracles",
     "lens": "Compassion",
-    "emotions": ["compassion", "wonder", "courage"],
+    "emotions": [
+      "compassion",
+      "wonder",
+      "courage"
+    ],
     "act": 4
   },
   {
@@ -799,7 +1101,11 @@
     "title": "The Blind and Mute Demoniac",
     "theme": "Miracles",
     "lens": "Compassion",
-    "emotions": ["wonder", "comfort", "gravity"],
+    "emotions": [
+      "wonder",
+      "comfort",
+      "gravity"
+    ],
     "act": 4
   },
   {
@@ -810,7 +1116,11 @@
     "title": "The Sign Sought from Heaven and the Unclean Spirit",
     "theme": "Conflict & Opposition",
     "lens": "Awakening",
-    "emotions": ["gravity", "repentance", "fear"],
+    "emotions": [
+      "gravity",
+      "repentance",
+      "fear"
+    ],
     "act": 4
   },
   {
@@ -821,7 +1131,11 @@
     "title": "The True Kindred of Christ",
     "theme": "Conflict & Opposition",
     "lens": "Following",
-    "emotions": ["love", "hope", "humility"],
+    "emotions": [
+      "love",
+      "hope",
+      "humility"
+    ],
     "act": 4
   },
   {
@@ -832,7 +1146,11 @@
     "title": "The Rebuke of the Pharisees and Lawyers",
     "theme": "Conflict & Opposition",
     "lens": "Awakening",
-    "emotions": ["gravity", "repentance", "courage"],
+    "emotions": [
+      "gravity",
+      "repentance",
+      "courage"
+    ],
     "act": 4
   },
   {
@@ -843,7 +1161,11 @@
     "title": "The Rich Fool and His Barns",
     "theme": "Parables",
     "lens": "Awakening",
-    "emotions": ["gravity", "longing", "repentance"],
+    "emotions": [
+      "gravity",
+      "longing",
+      "repentance"
+    ],
     "act": 4
   },
   {
@@ -854,7 +1176,11 @@
     "title": "The Healing at the Pool of Bethesda",
     "theme": "Miracles",
     "lens": "Compassion",
-    "emotions": ["hope", "wonder", "gratitude"],
+    "emotions": [
+      "hope",
+      "wonder",
+      "gratitude"
+    ],
     "act": 4
   },
   {
@@ -865,7 +1191,11 @@
     "title": "The Barren Tree and the Bent Woman",
     "theme": "Miracles",
     "lens": "Compassion",
-    "emotions": ["compassion", "hope", "gratitude"],
+    "emotions": [
+      "compassion",
+      "hope",
+      "gratitude"
+    ],
     "act": 4
   },
   {
@@ -876,7 +1206,11 @@
     "title": "The Man with Dropsy and the Call to Humility",
     "theme": "Miracles",
     "lens": "Awakening",
-    "emotions": ["humility", "compassion", "wonder"],
+    "emotions": [
+      "humility",
+      "compassion",
+      "wonder"
+    ],
     "act": 4
   },
   {
@@ -887,7 +1221,11 @@
     "title": "The Parable of the Great Supper",
     "theme": "Parables",
     "lens": "Awakening",
-    "emotions": ["longing", "hope", "love"],
+    "emotions": [
+      "longing",
+      "hope",
+      "love"
+    ],
     "act": 4
   },
   {
@@ -898,7 +1236,11 @@
     "title": "At the Feast of Tabernacles",
     "theme": "Conflict & Opposition",
     "lens": "Beholding",
-    "emotions": ["longing", "gravity", "hope"],
+    "emotions": [
+      "longing",
+      "gravity",
+      "hope"
+    ],
     "act": 4
   },
   {
@@ -909,7 +1251,11 @@
     "title": "The Woman Taken in Adultery",
     "theme": "Conflict & Opposition",
     "lens": "Compassion",
-    "emotions": ["compassion", "repentance", "comfort"],
+    "emotions": [
+      "compassion",
+      "repentance",
+      "comfort"
+    ],
     "act": 4
   },
   {
@@ -920,7 +1266,11 @@
     "title": "The Words for Which They Sought to Stone Him",
     "theme": "Conflict & Opposition",
     "lens": "Beholding",
-    "emotions": ["gravity", "courage", "wonder"],
+    "emotions": [
+      "gravity",
+      "courage",
+      "wonder"
+    ],
     "act": 4
   },
   {
@@ -931,7 +1281,11 @@
     "title": "The Man Born Blind",
     "theme": "Miracles",
     "lens": "Awakening",
-    "emotions": ["wonder", "joy", "gratitude"],
+    "emotions": [
+      "wonder",
+      "joy",
+      "gratitude"
+    ],
     "act": 4
   },
   {
@@ -942,7 +1296,11 @@
     "title": "The Good Shepherd",
     "theme": "Parables",
     "lens": "Receiving",
-    "emotions": ["comfort", "love", "trust"],
+    "emotions": [
+      "comfort",
+      "love",
+      "trust"
+    ],
     "act": 4
   },
   {
@@ -953,7 +1311,11 @@
     "title": "At the Feast of Dedication",
     "theme": "Conflict & Opposition",
     "lens": "Beholding",
-    "emotions": ["gravity", "courage", "trust"],
+    "emotions": [
+      "gravity",
+      "courage",
+      "trust"
+    ],
     "act": 4
   },
   {
@@ -964,7 +1326,11 @@
     "title": "The Traditions of the Pharisees",
     "theme": "Conflict & Opposition",
     "lens": "Awakening",
-    "emotions": ["gravity", "repentance", "courage"],
+    "emotions": [
+      "gravity",
+      "repentance",
+      "courage"
+    ],
     "act": 4
   },
   {
@@ -975,7 +1341,11 @@
     "title": "The Canaanite Woman and Her Daughter",
     "theme": "Miracles",
     "lens": "Receiving",
-    "emotions": ["trust", "humility", "hope"],
+    "emotions": [
+      "trust",
+      "humility",
+      "hope"
+    ],
     "act": 4
   },
   {
@@ -986,7 +1356,11 @@
     "title": "The Deaf and Mute Man Healed",
     "theme": "Miracles",
     "lens": "Compassion",
-    "emotions": ["wonder", "gratitude", "comfort"],
+    "emotions": [
+      "wonder",
+      "gratitude",
+      "comfort"
+    ],
     "act": 4
   },
   {
@@ -997,7 +1371,11 @@
     "title": "The Feeding of the Four Thousand",
     "theme": "Miracles",
     "lens": "Receiving",
-    "emotions": ["wonder", "gratitude", "joy"],
+    "emotions": [
+      "wonder",
+      "gratitude",
+      "joy"
+    ],
     "act": 4
   },
   {
@@ -1008,7 +1386,11 @@
     "title": "The Leaven of the Pharisees and the Blind Man of Bethsaida",
     "theme": "Miracles",
     "lens": "Awakening",
-    "emotions": ["wonder", "gravity", "hope"],
+    "emotions": [
+      "wonder",
+      "gravity",
+      "hope"
+    ],
     "act": 4
   },
   {
@@ -1019,7 +1401,11 @@
     "title": "The Call to Take Up the Cross",
     "theme": "Calling & Discipleship",
     "lens": "Following",
-    "emotions": ["courage", "love", "gravity"],
+    "emotions": [
+      "courage",
+      "love",
+      "gravity"
+    ],
     "act": 5
   },
   {
@@ -1030,7 +1416,11 @@
     "title": "The Transfiguration of the Lord",
     "theme": "Miracles",
     "lens": "Beholding",
-    "emotions": ["wonder", "joy", "longing"],
+    "emotions": [
+      "wonder",
+      "joy",
+      "longing"
+    ],
     "act": 5
   },
   {
@@ -1041,7 +1431,11 @@
     "title": "The Healing of the Epileptic Boy",
     "theme": "Miracles",
     "lens": "Receiving",
-    "emotions": ["trust", "wonder", "compassion"],
+    "emotions": [
+      "trust",
+      "wonder",
+      "compassion"
+    ],
     "act": 5
   },
   {
@@ -1052,7 +1446,11 @@
     "title": "The Temple Tax and the Question of Greatness",
     "theme": "Calling & Discipleship",
     "lens": "Awakening",
-    "emotions": ["humility", "trust", "gravity"],
+    "emotions": [
+      "humility",
+      "trust",
+      "gravity"
+    ],
     "act": 5
   },
   {
@@ -1063,7 +1461,11 @@
     "title": "Against Scandalising the Little Ones",
     "theme": "Calling & Discipleship",
     "lens": "Awakening",
-    "emotions": ["humility", "love", "gravity"],
+    "emotions": [
+      "humility",
+      "love",
+      "gravity"
+    ],
     "act": 5
   },
   {
@@ -1074,7 +1476,11 @@
     "title": "The Lost Sheep, the Lost Coin, and the Prodigal Son",
     "theme": "Parables",
     "lens": "Receiving",
-    "emotions": ["joy", "repentance", "love"],
+    "emotions": [
+      "joy",
+      "repentance",
+      "love"
+    ],
     "act": 5
   },
   {
@@ -1085,7 +1491,11 @@
     "title": "Fraternal Correction and Boundless Forgiveness",
     "theme": "Calling & Discipleship",
     "lens": "Awakening",
-    "emotions": ["love", "humility", "comfort"],
+    "emotions": [
+      "love",
+      "humility",
+      "comfort"
+    ],
     "act": 5
   },
   {
@@ -1096,7 +1506,11 @@
     "title": "The Unforgiving Servant",
     "theme": "Parables",
     "lens": "Awakening",
-    "emotions": ["gravity", "repentance", "love"],
+    "emotions": [
+      "gravity",
+      "repentance",
+      "love"
+    ],
     "act": 5
   },
   {
@@ -1107,7 +1521,11 @@
     "title": "On Marriage and the Children Brought to the Lord",
     "theme": "Calling & Discipleship",
     "lens": "Receiving",
-    "emotions": ["love", "humility", "joy"],
+    "emotions": [
+      "love",
+      "humility",
+      "joy"
+    ],
     "act": 5
   },
   {
@@ -1118,7 +1536,11 @@
     "title": "The Perfection of Poverty",
     "theme": "Calling & Discipleship",
     "lens": "Following",
-    "emotions": ["humility", "longing", "courage"],
+    "emotions": [
+      "humility",
+      "longing",
+      "courage"
+    ],
     "act": 5
   },
   {
@@ -1129,7 +1551,11 @@
     "title": "The Twelve Evangelical Counsels",
     "theme": "Calling & Discipleship",
     "lens": "Following",
-    "emotions": ["longing", "courage", "love"],
+    "emotions": [
+      "longing",
+      "courage",
+      "love"
+    ],
     "act": 5
   },
   {
@@ -1140,7 +1566,11 @@
     "title": "The Reward of Those Who Leave All",
     "theme": "Calling & Discipleship",
     "lens": "Following",
-    "emotions": ["hope", "courage", "trust"],
+    "emotions": [
+      "hope",
+      "courage",
+      "trust"
+    ],
     "act": 5
   },
   {
@@ -1151,7 +1581,11 @@
     "title": "The Labourers in the Vineyard",
     "theme": "Parables",
     "lens": "Receiving",
-    "emotions": ["gratitude", "humility", "hope"],
+    "emotions": [
+      "gratitude",
+      "humility",
+      "hope"
+    ],
     "act": 5
   },
   {
@@ -1162,7 +1596,11 @@
     "title": "The Unjust Steward",
     "theme": "Parables",
     "lens": "Awakening",
-    "emotions": ["gravity", "longing", "trust"],
+    "emotions": [
+      "gravity",
+      "longing",
+      "trust"
+    ],
     "act": 5
   },
   {
@@ -1173,7 +1611,11 @@
     "title": "The Rich Man and Lazarus",
     "theme": "Parables",
     "lens": "Awakening",
-    "emotions": ["gravity", "compassion", "fear"],
+    "emotions": [
+      "gravity",
+      "compassion",
+      "fear"
+    ],
     "act": 5
   },
   {
@@ -1184,7 +1626,11 @@
     "title": "The Raising of Lazarus",
     "theme": "Miracles",
     "lens": "Beholding",
-    "emotions": ["sorrow", "wonder", "hope"],
+    "emotions": [
+      "sorrow",
+      "wonder",
+      "hope"
+    ],
     "act": 5
   },
   {
@@ -1195,7 +1641,11 @@
     "title": "The Plot Against Jesus",
     "theme": "Conflict & Opposition",
     "lens": "Beholding",
-    "emotions": ["sorrow", "gravity", "fear"],
+    "emotions": [
+      "sorrow",
+      "gravity",
+      "fear"
+    ],
     "act": 5
   },
   {
@@ -1206,7 +1656,11 @@
     "title": "The Ten Lepers Cleansed",
     "theme": "Miracles",
     "lens": "Receiving",
-    "emotions": ["gratitude", "wonder", "joy"],
+    "emotions": [
+      "gratitude",
+      "wonder",
+      "joy"
+    ],
     "act": 5
   },
   {
@@ -1217,7 +1671,11 @@
     "title": "The Samaritans Who Refused Him Welcome",
     "theme": "Conflict & Opposition",
     "lens": "Following",
-    "emotions": ["sorrow", "humility", "love"],
+    "emotions": [
+      "sorrow",
+      "humility",
+      "love"
+    ],
     "act": 5
   },
   {
@@ -1228,7 +1686,11 @@
     "title": "The Request of the Sons of Zebedee",
     "theme": "Calling & Discipleship",
     "lens": "Awakening",
-    "emotions": ["humility", "gravity", "love"],
+    "emotions": [
+      "humility",
+      "gravity",
+      "love"
+    ],
     "act": 5
   },
   {
@@ -1239,7 +1701,11 @@
     "title": "The Blind Man Healed Before Jericho",
     "theme": "Miracles",
     "lens": "Receiving",
-    "emotions": ["trust", "wonder", "gratitude"],
+    "emotions": [
+      "trust",
+      "wonder",
+      "gratitude"
+    ],
     "act": 5
   },
   {
@@ -1250,7 +1716,11 @@
     "title": "Zacchaeus and His Feast",
     "theme": "Calling & Discipleship",
     "lens": "Receiving",
-    "emotions": ["joy", "repentance", "gratitude"],
+    "emotions": [
+      "joy",
+      "repentance",
+      "gratitude"
+    ],
     "act": 5
   },
   {
@@ -1261,7 +1731,11 @@
     "title": "The Two Blind Men Healed Beyond Jericho",
     "theme": "Miracles",
     "lens": "Receiving",
-    "emotions": ["trust", "wonder", "gratitude"],
+    "emotions": [
+      "trust",
+      "wonder",
+      "gratitude"
+    ],
     "act": 5
   },
   {
@@ -1272,7 +1746,11 @@
     "title": "The Anointing at Bethany",
     "theme": "The Passion",
     "lens": "Beholding",
-    "emotions": ["love", "sorrow", "gratitude"],
+    "emotions": [
+      "love",
+      "sorrow",
+      "gratitude"
+    ],
     "act": 5
   },
   {
@@ -1283,7 +1761,11 @@
     "title": "The Lord Seated upon the Colt",
     "theme": "The Passion",
     "lens": "Beholding",
-    "emotions": ["joy", "humility", "hope"],
+    "emotions": [
+      "joy",
+      "humility",
+      "hope"
+    ],
     "act": 5
   },
   {
@@ -1294,7 +1776,11 @@
     "title": "The Entry into Jerusalem on Palm Sunday",
     "theme": "The Passion",
     "lens": "Beholding",
-    "emotions": ["joy", "wonder", "hope"],
+    "emotions": [
+      "joy",
+      "wonder",
+      "hope"
+    ],
     "act": 5
   },
   {
@@ -1305,7 +1791,11 @@
     "title": "The Lord's Weeping over Jerusalem",
     "theme": "The Passion",
     "lens": "Compassion",
-    "emotions": ["sorrow", "love", "longing"],
+    "emotions": [
+      "sorrow",
+      "love",
+      "longing"
+    ],
     "act": 5
   },
   {
@@ -1316,7 +1806,11 @@
     "title": "The Second Cleansing of the Temple",
     "theme": "Conflict & Opposition",
     "lens": "Awakening",
-    "emotions": ["gravity", "courage", "repentance"],
+    "emotions": [
+      "gravity",
+      "courage",
+      "repentance"
+    ],
     "act": 5
   },
   {
@@ -1327,7 +1821,11 @@
     "title": "The Widow's Mite and the Pharisee and Publican",
     "theme": "Parables",
     "lens": "Awakening",
-    "emotions": ["humility", "trust", "love"],
+    "emotions": [
+      "humility",
+      "trust",
+      "love"
+    ],
     "act": 5
   },
   {
@@ -1338,7 +1836,11 @@
     "title": "The Cursing of the Fig Tree and the Grain of Wheat",
     "theme": "Conflict & Opposition",
     "lens": "Awakening",
-    "emotions": ["gravity", "longing", "trust"],
+    "emotions": [
+      "gravity",
+      "longing",
+      "trust"
+    ],
     "act": 5
   },
   {
@@ -1349,7 +1851,11 @@
     "title": "The Parable of the Two Sons",
     "theme": "Parables",
     "lens": "Awakening",
-    "emotions": ["repentance", "gravity", "hope"],
+    "emotions": [
+      "repentance",
+      "gravity",
+      "hope"
+    ],
     "act": 5
   },
   {
@@ -1360,7 +1866,11 @@
     "title": "The Wicked Tenants of the Vineyard",
     "theme": "Parables",
     "lens": "Awakening",
-    "emotions": ["gravity", "sorrow", "repentance"],
+    "emotions": [
+      "gravity",
+      "sorrow",
+      "repentance"
+    ],
     "act": 5
   },
   {
@@ -1371,7 +1881,11 @@
     "title": "The Wedding Feast and the Wedding Garment",
     "theme": "Parables",
     "lens": "Awakening",
-    "emotions": ["longing", "gravity", "hope"],
+    "emotions": [
+      "longing",
+      "gravity",
+      "hope"
+    ],
     "act": 5
   },
   {
@@ -1382,7 +1896,11 @@
     "title": "The Tribute to Caesar and the Question of the Resurrection",
     "theme": "Conflict & Opposition",
     "lens": "Awakening",
-    "emotions": ["gravity", "wonder", "trust"],
+    "emotions": [
+      "gravity",
+      "wonder",
+      "trust"
+    ],
     "act": 5
   },
   {
@@ -1393,7 +1911,11 @@
     "title": "The Greatest Commandment",
     "theme": "Conflict & Opposition",
     "lens": "Awakening",
-    "emotions": ["love", "longing", "humility"],
+    "emotions": [
+      "love",
+      "longing",
+      "humility"
+    ],
     "act": 5
   },
   {
@@ -1404,7 +1926,11 @@
     "title": "The Scribes and Pharisees in the Seat of Moses",
     "theme": "Conflict & Opposition",
     "lens": "Awakening",
-    "emotions": ["gravity", "humility", "repentance"],
+    "emotions": [
+      "gravity",
+      "humility",
+      "repentance"
+    ],
     "act": 5
   },
   {
@@ -1415,7 +1941,11 @@
     "title": "The Woes of Eternal Judgement",
     "theme": "Conflict & Opposition",
     "lens": "Awakening",
-    "emotions": ["gravity", "fear", "repentance"],
+    "emotions": [
+      "gravity",
+      "fear",
+      "repentance"
+    ],
     "act": 5
   },
   {
@@ -1426,7 +1956,11 @@
     "title": "The Signs of the Lord's Coming",
     "theme": "The Last Things",
     "lens": "Awakening",
-    "emotions": ["gravity", "hope", "fear"],
+    "emotions": [
+      "gravity",
+      "hope",
+      "fear"
+    ],
     "act": 6
   },
   {
@@ -1437,7 +1971,11 @@
     "title": "The Coming and Persecution of Antichrist",
     "theme": "The Last Things",
     "lens": "Awakening",
-    "emotions": ["fear", "courage", "trust"],
+    "emotions": [
+      "fear",
+      "courage",
+      "trust"
+    ],
     "act": 6
   },
   {
@@ -1448,7 +1986,11 @@
     "title": "Remedies Against the Temptations of the Last Times",
     "theme": "The Last Things",
     "lens": "Receiving",
-    "emotions": ["courage", "trust", "hope"],
+    "emotions": [
+      "courage",
+      "trust",
+      "hope"
+    ],
     "act": 6
   },
   {
@@ -1459,7 +2001,11 @@
     "title": "Watching and Praying for the Lord's Coming",
     "theme": "The Last Things",
     "lens": "Awakening",
-    "emotions": ["hope", "longing", "trust"],
+    "emotions": [
+      "hope",
+      "longing",
+      "trust"
+    ],
     "act": 6
   },
   {
@@ -1470,7 +2016,11 @@
     "title": "The Coming of Christ the Judge",
     "theme": "The Last Things",
     "lens": "Awakening",
-    "emotions": ["gravity", "fear", "hope"],
+    "emotions": [
+      "gravity",
+      "fear",
+      "hope"
+    ],
     "act": 6
   },
   {
@@ -1481,7 +2031,11 @@
     "title": "The Consolation of the Elect and the Fig Tree",
     "theme": "The Last Things",
     "lens": "Receiving",
-    "emotions": ["comfort", "hope", "joy"],
+    "emotions": [
+      "comfort",
+      "hope",
+      "joy"
+    ],
     "act": 6
   },
   {
@@ -1492,7 +2046,11 @@
     "title": "The Day of the Lord Coming Suddenly",
     "theme": "The Last Things",
     "lens": "Awakening",
-    "emotions": ["gravity", "hope", "fear"],
+    "emotions": [
+      "gravity",
+      "hope",
+      "fear"
+    ],
     "act": 6
   },
   {
@@ -1503,7 +2061,11 @@
     "title": "The Watchful Householder",
     "theme": "The Last Things",
     "lens": "Awakening",
-    "emotions": ["courage", "trust", "hope"],
+    "emotions": [
+      "courage",
+      "trust",
+      "hope"
+    ],
     "act": 6
   },
   {
@@ -1514,7 +2076,11 @@
     "title": "Loins Girded and Lamps Burning",
     "theme": "The Last Things",
     "lens": "Awakening",
-    "emotions": ["hope", "longing", "courage"],
+    "emotions": [
+      "hope",
+      "longing",
+      "courage"
+    ],
     "act": 6
   },
   {
@@ -1525,7 +2091,11 @@
     "title": "The Ten Virgins",
     "theme": "The Last Things",
     "lens": "Awakening",
-    "emotions": ["longing", "hope", "gravity"],
+    "emotions": [
+      "longing",
+      "hope",
+      "gravity"
+    ],
     "act": 6
   },
   {
@@ -1536,7 +2106,11 @@
     "title": "The Parable of the Talents",
     "theme": "The Last Things",
     "lens": "Awakening",
-    "emotions": ["courage", "trust", "gravity"],
+    "emotions": [
+      "courage",
+      "trust",
+      "gravity"
+    ],
     "act": 6
   },
   {
@@ -1547,7 +2121,11 @@
     "title": "The Winnowing at the Last Judgement",
     "theme": "The Last Things",
     "lens": "Awakening",
-    "emotions": ["gravity", "fear", "hope"],
+    "emotions": [
+      "gravity",
+      "fear",
+      "hope"
+    ],
     "act": 6
   },
   {
@@ -1558,7 +2136,11 @@
     "title": "The Pasch and Its Meanings",
     "theme": "The Passion",
     "lens": "Beholding",
-    "emotions": ["gravity", "longing", "love"],
+    "emotions": [
+      "gravity",
+      "longing",
+      "love"
+    ],
     "act": 7
   },
   {
@@ -1569,7 +2151,11 @@
     "title": "The Betrayal by Judas",
     "theme": "The Passion",
     "lens": "Compassion",
-    "emotions": ["sorrow", "gravity", "fear"],
+    "emotions": [
+      "sorrow",
+      "gravity",
+      "fear"
+    ],
     "act": 7
   },
   {
@@ -1580,7 +2166,11 @@
     "title": "Meditation at the First Vespers of the Supper",
     "theme": "The Passion",
     "lens": "Beholding",
-    "emotions": ["love", "sorrow", "longing"],
+    "emotions": [
+      "love",
+      "sorrow",
+      "longing"
+    ],
     "act": 7
   },
   {
@@ -1591,7 +2181,11 @@
     "title": "The Washing of the Disciples' Feet",
     "theme": "The Passion",
     "lens": "Beholding",
-    "emotions": ["humility", "love", "gratitude"],
+    "emotions": [
+      "humility",
+      "love",
+      "gratitude"
+    ],
     "act": 7
   },
   {
@@ -1602,7 +2196,11 @@
     "title": "The Charitable Warning of the Traitor",
     "theme": "The Passion",
     "lens": "Compassion",
-    "emotions": ["sorrow", "love", "gravity"],
+    "emotions": [
+      "sorrow",
+      "love",
+      "gravity"
+    ],
     "act": 7
   },
   {
@@ -1613,7 +2211,11 @@
     "title": "The Institution of the Eucharist",
     "theme": "The Passion",
     "lens": "Receiving",
-    "emotions": ["love", "gratitude", "wonder"],
+    "emotions": [
+      "love",
+      "gratitude",
+      "wonder"
+    ],
     "act": 7
   },
   {
@@ -1624,7 +2226,11 @@
     "title": "The Lord's Discourse and Prayer at the Supper",
     "theme": "The Passion",
     "lens": "Receiving",
-    "emotions": ["love", "comfort", "longing"],
+    "emotions": [
+      "love",
+      "comfort",
+      "longing"
+    ],
     "act": 7
   },
   {
@@ -1635,7 +2241,11 @@
     "title": "On Meditating the Passion in General",
     "theme": "The Passion",
     "lens": "Compassion",
-    "emotions": ["sorrow", "love", "gravity"],
+    "emotions": [
+      "sorrow",
+      "love",
+      "gravity"
+    ],
     "act": 7
   },
   {
@@ -1646,7 +2256,11 @@
     "title": "The Agony in the Garden",
     "theme": "The Passion",
     "lens": "Compassion",
-    "emotions": ["sorrow", "fear", "trust"],
+    "emotions": [
+      "sorrow",
+      "fear",
+      "trust"
+    ],
     "act": 7
   },
   {
@@ -1657,7 +2271,11 @@
     "title": "The Lord Before the Council by Night",
     "theme": "The Passion",
     "lens": "Compassion",
-    "emotions": ["sorrow", "gravity", "courage"],
+    "emotions": [
+      "sorrow",
+      "gravity",
+      "courage"
+    ],
     "act": 7
   },
   {
@@ -1668,7 +2286,11 @@
     "title": "The Lord Before Pilate at Prime",
     "theme": "The Passion",
     "lens": "Compassion",
-    "emotions": ["sorrow", "gravity", "courage"],
+    "emotions": [
+      "sorrow",
+      "gravity",
+      "courage"
+    ],
     "act": 7
   },
   {
@@ -1679,7 +2301,11 @@
     "title": "The Scourging and Crowning with Thorns at Terce",
     "theme": "The Passion",
     "lens": "Compassion",
-    "emotions": ["sorrow", "love", "gravity"],
+    "emotions": [
+      "sorrow",
+      "love",
+      "gravity"
+    ],
     "act": 7
   },
   {
@@ -1690,7 +2316,11 @@
     "title": "The Crucifixion at the Sixth Hour",
     "theme": "The Passion",
     "lens": "Compassion",
-    "emotions": ["sorrow", "love", "gravity"],
+    "emotions": [
+      "sorrow",
+      "love",
+      "gravity"
+    ],
     "act": 7
   },
   {
@@ -1701,7 +2331,11 @@
     "title": "The Death of the Lord at the Ninth Hour",
     "theme": "The Passion",
     "lens": "Compassion",
-    "emotions": ["sorrow", "love", "gravity"],
+    "emotions": [
+      "sorrow",
+      "love",
+      "gravity"
+    ],
     "act": 7
   },
   {
@@ -1712,7 +2346,11 @@
     "title": "The Piercing and Deposition at Vespers",
     "theme": "The Passion",
     "lens": "Compassion",
-    "emotions": ["sorrow", "love", "comfort"],
+    "emotions": [
+      "sorrow",
+      "love",
+      "comfort"
+    ],
     "act": 7
   },
   {
@@ -1723,7 +2361,11 @@
     "title": "The Burial of the Lord at Compline",
     "theme": "The Passion",
     "lens": "Compassion",
-    "emotions": ["sorrow", "rest", "hope"],
+    "emotions": [
+      "sorrow",
+      "rest",
+      "hope"
+    ],
     "act": 7
   },
   {
@@ -1734,7 +2376,11 @@
     "title": "Epilogue of the Passion and the Praise of the Cross",
     "theme": "The Passion",
     "lens": "Beholding",
-    "emotions": ["love", "sorrow", "gratitude"],
+    "emotions": [
+      "love",
+      "sorrow",
+      "gratitude"
+    ],
     "act": 7
   },
   {
@@ -1745,7 +2391,11 @@
     "title": "Holy Saturday and the Descent to the Dead",
     "theme": "The Passion",
     "lens": "Beholding",
-    "emotions": ["rest", "hope", "longing"],
+    "emotions": [
+      "rest",
+      "hope",
+      "longing"
+    ],
     "act": 7
   },
   {
@@ -1756,7 +2406,11 @@
     "title": "The Resurrection of the Lord",
     "theme": "Resurrection",
     "lens": "Beholding",
-    "emotions": ["joy", "wonder", "hope"],
+    "emotions": [
+      "joy",
+      "wonder",
+      "hope"
+    ],
     "act": 8
   },
   {
@@ -1767,7 +2421,11 @@
     "title": "The Lord Appears to His Mother",
     "theme": "Resurrection",
     "lens": "Beholding",
-    "emotions": ["joy", "love", "comfort"],
+    "emotions": [
+      "joy",
+      "love",
+      "comfort"
+    ],
     "act": 8
   },
   {
@@ -1778,7 +2436,11 @@
     "title": "The Women and Disciples at the Tomb",
     "theme": "Resurrection",
     "lens": "Beholding",
-    "emotions": ["wonder", "hope", "longing"],
+    "emotions": [
+      "wonder",
+      "hope",
+      "longing"
+    ],
     "act": 8
   },
   {
@@ -1789,7 +2451,11 @@
     "title": "The Lord Appears to Mary Magdalene",
     "theme": "Resurrection",
     "lens": "Beholding",
-    "emotions": ["joy", "love", "wonder"],
+    "emotions": [
+      "joy",
+      "love",
+      "wonder"
+    ],
     "act": 8
   },
   {
@@ -1800,7 +2466,11 @@
     "title": "The Lord Appears to the Three Marys",
     "theme": "Resurrection",
     "lens": "Beholding",
-    "emotions": ["joy", "wonder", "comfort"],
+    "emotions": [
+      "joy",
+      "wonder",
+      "comfort"
+    ],
     "act": 8
   },
   {
@@ -1811,7 +2481,11 @@
     "title": "The Lie of the Guards",
     "theme": "Resurrection",
     "lens": "Beholding",
-    "emotions": ["gravity", "trust", "hope"],
+    "emotions": [
+      "gravity",
+      "trust",
+      "hope"
+    ],
     "act": 8
   },
   {
@@ -1822,7 +2496,11 @@
     "title": "The Lord Appears to Peter and the Holy Fathers",
     "theme": "Resurrection",
     "lens": "Beholding",
-    "emotions": ["joy", "comfort", "hope"],
+    "emotions": [
+      "joy",
+      "comfort",
+      "hope"
+    ],
     "act": 8
   },
   {
@@ -1833,7 +2511,11 @@
     "title": "The Road to Emmaus",
     "theme": "Resurrection",
     "lens": "Beholding",
-    "emotions": ["wonder", "joy", "comfort"],
+    "emotions": [
+      "wonder",
+      "joy",
+      "comfort"
+    ],
     "act": 8
   },
   {
@@ -1844,7 +2526,11 @@
     "title": "The Lord Appears to the Apostles, Thomas Absent",
     "theme": "Resurrection",
     "lens": "Receiving",
-    "emotions": ["joy", "comfort", "trust"],
+    "emotions": [
+      "joy",
+      "comfort",
+      "trust"
+    ],
     "act": 8
   },
   {
@@ -1855,7 +2541,11 @@
     "title": "The Lord Appears to Thomas",
     "theme": "Resurrection",
     "lens": "Receiving",
-    "emotions": ["wonder", "trust", "joy"],
+    "emotions": [
+      "wonder",
+      "trust",
+      "joy"
+    ],
     "act": 8
   },
   {
@@ -1866,7 +2556,11 @@
     "title": "The Lord Appears by the Sea of Tiberias",
     "theme": "Resurrection",
     "lens": "Following",
-    "emotions": ["joy", "love", "gratitude"],
+    "emotions": [
+      "joy",
+      "love",
+      "gratitude"
+    ],
     "act": 8
   },
   {
@@ -1877,7 +2571,11 @@
     "title": "The Lord Appears in Galilee to the Eleven and Five Hundred",
     "theme": "Resurrection",
     "lens": "Following",
-    "emotions": ["joy", "wonder", "courage"],
+    "emotions": [
+      "joy",
+      "wonder",
+      "courage"
+    ],
     "act": 8
   },
   {
@@ -1888,7 +2586,11 @@
     "title": "Epilogue of the Resurrection Appearances",
     "theme": "Resurrection",
     "lens": "Beholding",
-    "emotions": ["joy", "gratitude", "hope"],
+    "emotions": [
+      "joy",
+      "gratitude",
+      "hope"
+    ],
     "act": 8
   },
   {
@@ -1899,7 +2601,11 @@
     "title": "The Ascension of the Lord",
     "theme": "Consummation",
     "lens": "Beholding",
-    "emotions": ["joy", "wonder", "longing"],
+    "emotions": [
+      "joy",
+      "wonder",
+      "longing"
+    ],
     "act": 8
   },
   {
@@ -1910,7 +2616,11 @@
     "title": "The End and Profit of the Gospel and Faith",
     "theme": "Consummation",
     "lens": "Beholding",
-    "emotions": ["gratitude", "hope", "trust"],
+    "emotions": [
+      "gratitude",
+      "hope",
+      "trust"
+    ],
     "act": 8
   },
   {
@@ -1921,7 +2631,11 @@
     "title": "The Descent of the Holy Spirit at Pentecost",
     "theme": "Consummation",
     "lens": "Receiving",
-    "emotions": ["joy", "wonder", "courage"],
+    "emotions": [
+      "joy",
+      "wonder",
+      "courage"
+    ],
     "act": 8
   },
   {
@@ -1932,7 +2646,11 @@
     "title": "The Praise of God",
     "theme": "Consummation",
     "lens": "Beholding",
-    "emotions": ["joy", "gratitude", "love"],
+    "emotions": [
+      "joy",
+      "gratitude",
+      "love"
+    ],
     "act": 8
   },
   {
@@ -1943,7 +2661,11 @@
     "title": "The Assumption and Praise of the Blessed Virgin",
     "theme": "Consummation",
     "lens": "Beholding",
-    "emotions": ["joy", "love", "wonder"],
+    "emotions": [
+      "joy",
+      "love",
+      "wonder"
+    ],
     "act": 8
   },
   {
@@ -1954,7 +2676,11 @@
     "title": "The Final Judgement",
     "theme": "Consummation",
     "lens": "Awakening",
-    "emotions": ["gravity", "hope", "fear"],
+    "emotions": [
+      "gravity",
+      "hope",
+      "fear"
+    ],
     "act": 8
   },
   {
@@ -1965,7 +2691,11 @@
     "title": "The Pains of Hell and the Glory of Heaven",
     "theme": "Consummation",
     "lens": "Awakening",
-    "emotions": ["gravity", "hope", "longing"],
+    "emotions": [
+      "gravity",
+      "hope",
+      "longing"
+    ],
     "act": 8
   },
   {
@@ -1976,7 +2706,11 @@
     "title": "The Conclusion of the Book",
     "theme": "Consummation",
     "lens": "Beholding",
-    "emotions": ["gratitude", "rest", "hope"],
+    "emotions": [
+      "gratitude",
+      "rest",
+      "hope"
+    ],
     "act": 8
   }
 ]

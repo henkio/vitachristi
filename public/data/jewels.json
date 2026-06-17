@@ -45,6 +45,11 @@
     "from": "The Wound and the Word"
   },
   {
+    "latin": "Dilexit, et diligit sic vehementer et non diligitur, cum tamen ad talem et tantum ignem non solum calefieri, sed etiam ardere deberemus.",
+    "english": "He loved, and he loves, so vehemently, and yet is not loved in return — though at such and so great a fire we ought not only to be warmed, but even to burn.",
+    "from": "The Forty Days"
+  },
+  {
     "latin": "Magna securitas est nihil timere praeter Deum, et stultus timor est, quo plus timetur humana indignatio, quam divina.",
     "english": "It is a great security to fear nothing but God; and foolish is the fear by which human anger is dreaded more than the divine.",
     "from": "Fear Not Those Who Kill the Body"
@@ -200,6 +205,11 @@
     "from": "Matins: The First Interrogation"
   },
   {
+    "latin": "Et ideo, quam saepe locorum recreabatur visitationibus, et quem genuerat fideli spiritu, mentis complexabatur amplexibus!",
+    "english": "And so, how often was she refreshed by visiting those places, and embraced in the arms of her mind, with faithful spirit, the One she had borne!",
+    "from": "The Falling-Asleep of the Virgin"
+  },
+  {
     "latin": "Factus est servus, ut nos reges faceret; factus est advena et peregrinus, ut nos ad patriam et regnum suum perduceret.",
     "english": "He became a servant, that he might make us kings; he became a stranger and a pilgrim, that he might lead us to his homeland and his kingdom.",
     "from": "The Lord Goes Down to Jordan"
@@ -310,6 +320,16 @@
     "from": "The Forerunner Promised"
   },
   {
+    "latin": "Gira et regira, versa et reversa, et non invenies pacem et requiem, nisi in solo Jesu.",
+    "english": "Turn and turn again, search and search once more, and you will find no peace and no rest, except in Jesus alone.",
+    "from": "The Sealed Book"
+  },
+  {
+    "latin": "Sic doctor Evangelicus debet primo errores destruere, ut melius possit veritatem adstruere.",
+    "english": "So must the teacher of the Gospel first destroy errors, that he may the better build up the truth.",
+    "from": "The Confession of Peter"
+  },
+  {
     "latin": "Levate per spem capita vestra, id est mentes vestras a terrenis ad cælestia exspectatione gaudiosa erigite.",
     "english": "Lift up your heads by hope — that is, raise your minds from earthly things to heavenly with a joyful expectation.",
     "from": "Lift Up Your Heads"
@@ -378,6 +398,11 @@
     "latin": "Ecce verbum miræ dulcedinis et amoris, procedens ex intimis cordis medullis, et pertingens suo vigore usque ad intima nostra.",
     "english": "Behold a word of wondrous sweetness and love, proceeding from the inmost marrow of the heart, and reaching by its power into our inmost depths.",
     "from": "Bread in the Wilderness"
+  },
+  {
+    "latin": "Et erit judicium illud horribile ex omni parte: supra, erit Judex iratus; subtus, patens infernus; intus conscientia remordens; extra, mundus ardens.",
+    "english": "And that judgement will be horrible on every side: above, the angry Judge; below, hell lying open; within, conscience gnawing; without, the world burning.",
+    "from": "The Judge Returns"
   },
   {
     "latin": "O quam beatam diem, et quam beatam noctem duxerunt, audientes et videntes eum: quem multi videre et audire volentes, non viderunt neque audierunt!",
@@ -480,6 +505,16 @@
     "from": "On the Mountain in Galilee"
   },
   {
+    "latin": "Frater mi, comede panem tuum, quia Filius hominis a mortuis resurrexit.",
+    "english": "Brother, eat your bread, for the Son of Man is risen from the dead.",
+    "from": "He Sought, and Was Found"
+  },
+  {
+    "latin": "Stetit in medio discipulorum: sicut sol inter sidera, ut eos illuminaret; sicut lilium inter lilia, ut eos decoraret; sicut princeps inter milites, ut eos roboraret; sicut pater inter filios, ut eos concordaret.",
+    "english": "He stood in the midst of the disciples: as the sun among the stars, to give them light; as the lily among lilies, to adorn them; as the prince among his soldiers, to make them strong; as a father among his sons, to bring them to one heart.",
+    "from": "Peace Be With You"
+  },
+  {
     "latin": "Dominus Jesus discipulos consolando, fecit eis sermonem pulcherrimum, ignitis plenum carbonibus dulcedinis et amoris.",
     "english": "The Lord Jesus, consoling his disciples, made for them a most beautiful sermon, full of glowing coals of sweetness and of love.",
     "from": "Let Not Your Heart Be Troubled"
@@ -545,6 +580,11 @@
     "from": "Our Father"
   },
   {
+    "latin": "Ignis gehennæ lucebit miseris ad miseriæ augmentum, ut videant unde doleant; non ad consolationem, ut videant unde gaudeant.",
+    "english": "The fire of hell will shine upon the wretched only to increase their misery — that they may see whereby they grieve, not for any comfort, that they might see whereby they should rejoice.",
+    "from": "The Pains of Hell and the Glory of Heaven"
+  },
+  {
     "latin": "Item, dicitur cœna magna, imo sic maxima, ut ejus immensitas in cor hominis non possit ascendere.",
     "english": "Again, it is called a great supper — nay, so great that its immensity cannot rise up into the heart of man.",
     "from": "The Great Supper"
@@ -583,6 +623,11 @@
     "latin": "Temporalia perdere timuerunt, et æterna non cogitaverunt, et sic utraque amiserunt.",
     "english": "They feared to lose the things of time, and did not weigh the eternal; and so they lost them both.",
     "from": "The Plot Against the Lord"
+  },
+  {
+    "latin": "Ad laudandum igitur Conditorem tuum creata es, ut ejus laudibus vacans, et hic justitiæ merito in illum semper proficias, et in futuro beate vivas.",
+    "english": "You were created, then, to praise your Maker, so that, giving yourself to His praises, you may here ever advance toward Him by the merit of righteousness, and hereafter live in blessedness.",
+    "from": "Made to Praise"
   },
   {
     "latin": "Christus Mariæ Filius est candela accensa, propter tria quæ inveniuntur in ea, scilicet lumen, ignis, et cera; et in Christo sunt tria, scilicet caro, anima et deitas vera.",

@@ -1,5 +1,29 @@
 [
   {
+    "id": "the-confession-of-peter",
+    "part": "II",
+    "chapter": "I",
+    "title": "The Confession of Peter",
+    "subtitle": "At Caesarea Philippi, the Lord asks: \"Who do you say that I am?\"",
+    "theme": "Calling & Discipleship",
+    "lens": "Following",
+    "emotions": [
+      "trust",
+      "courage"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Matthew 16:13–16",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "whom blessed Peter confessed to be the true Son of God,",
+      "You too do I, unworthy, confess with my whole heart and mouth,"
+    ]
+  },
+  {
     "id": "the-eternal-generation-of-the-son",
     "part": "I",
     "chapter": "I",
@@ -3801,6 +3825,31 @@
     ]
   },
   {
+    "id": "the-lord-appears-to-peter-and-the-holy-f",
+    "part": "II",
+    "chapter": "LXXV",
+    "title": "He Sought, and Was Found",
+    "subtitle": "The risen Lord appears to Peter, to Joseph in his prison, and to James who would not eat until he saw Him",
+    "theme": "Resurrection",
+    "lens": "Beholding",
+    "emotions": [
+      "joy",
+      "comfort",
+      "hope"
+    ],
+    "journeys": [
+      "risen",
+      "daily"
+    ],
+    "gospelRef": "Luke 24:34; cf. 1 Corinthians 15:5–7",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, grant that I may be Peter by obeying,",
+      "and James by trampling down my vices,",
+      "and Joseph, going from virtue to virtue by increase,"
+    ]
+  },
+  {
     "id": "the-road-to-emmaus",
     "part": "II",
     "chapter": "LXXVI",
@@ -3821,6 +3870,31 @@
       "Lord Jesus, faithful friend, faithful companion, kind Lord,",
       "you could not bear to see your own so grieved and so astray.",
       "When I am weighed down by perplexity and weariness,"
+    ]
+  },
+  {
+    "id": "the-lord-appears-to-the-apostles-thomas-",
+    "part": "II",
+    "chapter": "LXXVII",
+    "title": "Peace Be With You",
+    "subtitle": "The risen Lord steps through closed doors and stands in the midst of his frightened disciples",
+    "theme": "Resurrection",
+    "lens": "Receiving",
+    "emotions": [
+      "joy",
+      "comfort",
+      "trust"
+    ],
+    "journeys": [
+      "risen",
+      "daily"
+    ],
+    "gospelRef": "Luke 24:33–36; John 20:19–20",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus, you who came in through the closed doors,",
+      "stand now in the midst of us.",
+      "You said to your own: Peace be with you —"
     ]
   },
   {
@@ -3897,6 +3971,31 @@
     ]
   },
   {
+    "id": "epilogue-of-the-resurrection-appearances",
+    "part": "II",
+    "chapter": "LXXXI",
+    "title": "The Forty Days",
+    "subtitle": "Christ lingers with his own, proving the Resurrection true, before the Ascension",
+    "theme": "Resurrection",
+    "lens": "Beholding",
+    "emotions": [
+      "joy",
+      "gratitude",
+      "hope"
+    ],
+    "journeys": [
+      "risen",
+      "daily"
+    ],
+    "gospelRef": "Acts 1:3",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "by your glorious Resurrection,",
+      "in which, living and immortal, you appeared to your disciples and faithful;"
+    ]
+  },
+  {
     "id": "pentecost",
     "part": "II",
     "chapter": "LXXXIV",
@@ -3918,6 +4017,133 @@
       "O Holy Spirit, the Spirit of truth,",
       "come now and descend, fill us and console us,",
       "strengthen us and instruct us,"
+    ]
+  },
+  {
+    "id": "the-praise-of-god",
+    "part": "II",
+    "chapter": "LXXXV",
+    "title": "Made to Praise",
+    "subtitle": "The soul, created from nothing, learns why it exists: to praise its Maker without end",
+    "theme": "Consummation",
+    "lens": "Beholding",
+    "emotions": [
+      "joy",
+      "gratitude",
+      "love"
+    ],
+    "journeys": [
+      "risen",
+      "daily"
+    ],
+    "gospelRef": "Genesis 1:26; Psalm 32:1; Sirach 15:9; Job 9:20",
+    "durationMin": 5,
+    "prayerPreview": [
+      "O Father of mercies,",
+      "I know, and truly I confess,",
+      "that it would better befit a wretched sinner to lie prostrate before You,"
+    ]
+  },
+  {
+    "id": "the-assumption-and-praise-of-the-blessed",
+    "part": "II",
+    "chapter": "LXXXVI",
+    "title": "The Falling-Asleep of the Virgin",
+    "subtitle": "Mary's last years on Mount Sion, her dormition, and her bodily Assumption",
+    "theme": "Consummation",
+    "lens": "Beholding",
+    "emotions": [
+      "joy",
+      "love",
+      "wonder"
+    ],
+    "journeys": [
+      "risen",
+      "daily"
+    ],
+    "gospelRef": "Acts 1:14",
+    "durationMin": 5,
+    "prayerPreview": [
+      "I beg you — if there is in you any heart of compassion —",
+      "consider with what love she was tormented,",
+      "with what longing this Virgin burned,"
+    ]
+  },
+  {
+    "id": "the-final-judgement",
+    "part": "II",
+    "chapter": "LXXXVII",
+    "title": "The Judge Returns",
+    "subtitle": "The Final Judgement in the Valley of Josaphat — when Christ appears, gentle to the just and terrible to the unjust",
+    "theme": "Consummation",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "hope",
+      "fear"
+    ],
+    "journeys": [
+      "risen",
+      "storm",
+      "daily"
+    ],
+    "gospelRef": "Matthew 25:35–41; Matthew 25:6; Revelation 6:16",
+    "durationMin": 6,
+    "prayerPreview": [
+      "Most kindly Jesus,",
+      "who through the boundless patience of your goodness",
+      "wait for my amendment:"
+    ]
+  },
+  {
+    "id": "the-pains-of-hell-and-the-glory-of-heave",
+    "part": "II",
+    "chapter": "LXXXVIII",
+    "title": "The Pains of Hell and the Glory of Heaven",
+    "subtitle": "After the Last Judgment: the eternal loss of God, and the joy no tongue can tell",
+    "theme": "Consummation",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "hope",
+      "longing"
+    ],
+    "journeys": [
+      "risen",
+      "daily"
+    ],
+    "gospelRef": "1 Corinthians 2:9; cf. Matthew 7:23",
+    "durationMin": 5,
+    "prayerPreview": [
+      "But let us by no means suffer this, O only-begotten Son of God,",
+      "nor let us undergo that intolerable and dreadful punishment.",
+      "Let us not be driven from the honor of that blessed glory,"
+    ]
+  },
+  {
+    "id": "the-conclusion-of-the-book",
+    "part": "II",
+    "chapter": "LXXXIX",
+    "title": "The Sealed Book",
+    "subtitle": "Ludolph closes his Life of Christ and seals it in the Name of Jesus",
+    "theme": "Consummation",
+    "lens": "Beholding",
+    "emotions": [
+      "gratitude",
+      "rest",
+      "hope"
+    ],
+    "journeys": [
+      "risen",
+      "storm",
+      "daily"
+    ],
+    "gospelRef": "Canticles 1:12-13 (with Song of Songs 2:16)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "O Jesus Christ, Son of the living God,",
+      "for these things, and for all that we devoutly believe of you",
+      "and ought to believe,"
     ]
   }
 ]
