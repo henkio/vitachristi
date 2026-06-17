@@ -2638,6 +2638,80 @@
     ]
   },
   {
+    "id": "the-two-blind-men-healed-beyond-jericho",
+    "part": "II",
+    "chapter": "XXIV",
+    "title": "The Two Blind Men Beyond Jericho",
+    "subtitle": "Two beggars at the roadside cry out, and the Light of light touches their eyes",
+    "theme": "Miracles",
+    "lens": "Receiving",
+    "emotions": [
+      "trust",
+      "wonder",
+      "gratitude"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 20:29–34; Mark 10:46–52",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Light of light, and fountain of brightness, Lord Jesus,",
+      "who, moved with mercy at the love of the two blind men crying out to Thee,",
+      "didst deign to touch their eyes and so enlighten them:"
+    ]
+  },
+  {
+    "id": "the-anointing-at-bethany",
+    "part": "II",
+    "chapter": "XXV",
+    "title": "The House of Obedience",
+    "subtitle": "Mary breaks the alabaster and pours costly nard over the head of Christ at Bethany",
+    "theme": "The Passion",
+    "lens": "Beholding",
+    "emotions": [
+      "love",
+      "sorrow",
+      "gratitude"
+    ],
+    "journeys": [
+      "passion",
+      "daily"
+    ],
+    "gospelRef": "Matthew 26:6–7; Mark 14:3; John 12:1–3",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who, about to suffer for the whole world, willed to come and abide in Bethany, that is, in the house of obedience,",
+      "and there to sup, and there to let your head and your feet be anointed:"
+    ]
+  },
+  {
+    "id": "the-lord-seated-upon-the-colt",
+    "part": "II",
+    "chapter": "XXVI",
+    "title": "The Lord Seated upon the Colt",
+    "subtitle": "Christ, the true Lamb, sets out for Jerusalem upon a borrowed beast",
+    "theme": "The Passion",
+    "lens": "Beholding",
+    "emotions": [
+      "joy",
+      "humility",
+      "hope"
+    ],
+    "journeys": [
+      "passion",
+      "daily"
+    ],
+    "gospelRef": "Matthew 21:1–3; Mark 11:1–3; Luke 19:29–31; John 12",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ, who came of Your own will to the Passion,",
+      "come also to me, a wretched one, by grace into my heart;",
+      "and who then restored me by the cross, restore me, fallen again, by that same blessed Passion."
+    ]
+  },
+  {
     "id": "the-entry-into-jerusalem-on-palm-sunday",
     "part": "II",
     "chapter": "XXVII",
@@ -2685,6 +2759,248 @@
       "Lord Jesus Christ,",
       "who by word and by example",
       "taught us to weep rather than to laugh,"
+    ]
+  },
+  {
+    "id": "the-second-cleansing-of-the-temple",
+    "part": "II",
+    "chapter": "XXIX",
+    "title": "The Cleansing of the Temple",
+    "subtitle": "The Lord enters His Father's house and drives out the buyers and sellers a second time",
+    "theme": "Conflict & Opposition",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "courage",
+      "repentance"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 21:12–13",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus, Lord of the temple,",
+      "who came straight to Your Father's house and drove out all that defiled it,",
+      "made for Yourself a scourge of little cords and overturned the tables of greed,"
+    ]
+  },
+  {
+    "id": "the-widow-s-mite-and-the-pharisee-and-pu",
+    "part": "II",
+    "chapter": "XXX",
+    "title": "The Widow's Two Coins",
+    "subtitle": "Christ watching the treasury, as a poor widow gives her whole living",
+    "theme": "Parables",
+    "lens": "Awakening",
+    "emotions": [
+      "humility",
+      "trust",
+      "love"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Mark 12:41–44; Luke 18:9–14",
+    "durationMin": 4,
+    "prayerPreview": [
+      "O God, be merciful to me, a sinner.",
+      "I am not as the proud, who trusting in their own justice",
+      "pray thus within themselves, as though not before You:"
+    ]
+  },
+  {
+    "id": "the-cursing-of-the-fig-tree-and-the-grai",
+    "part": "II",
+    "chapter": "XXXI",
+    "title": "The Withered Fig Tree",
+    "subtitle": "Christ comes hungering for fruit, and finds only leaves",
+    "theme": "Conflict & Opposition",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "longing",
+      "trust"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 21:18–19; John 12:20–23",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, grant me to have not only leaves — that is, words and the esteem of justice —",
+      "but the fruit of works, that I may never incur Your curse.",
+      "Grant that, as Your true servant, I may follow You according to my small measure,"
+    ]
+  },
+  {
+    "id": "the-parable-of-the-two-sons",
+    "part": "II",
+    "chapter": "XXXII",
+    "title": "The Vineyard Let Out to Tenants",
+    "subtitle": "The householder plants a vineyard, lets it to the husbandmen, and at last sends his Son",
+    "theme": "Parables",
+    "lens": "Awakening",
+    "emotions": [
+      "repentance",
+      "gravity",
+      "hope"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 21:33–43",
+    "durationMin": 5,
+    "prayerPreview": [
+      "The vineyard has been let out to us, O Lord,",
+      "and it is let out on this condition:",
+      "that we render the fruit to the Lord in his seasons,"
+    ]
+  },
+  {
+    "id": "the-wedding-feast-and-the-wedding-garmen",
+    "part": "II",
+    "chapter": "XXXIV",
+    "title": "The Wedding Garment",
+    "subtitle": "The King enters to see the guests, and finds one without the wedding garment",
+    "theme": "Parables",
+    "lens": "Awakening",
+    "emotions": [
+      "longing",
+      "gravity",
+      "hope"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 22:1–14",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ, King of heavenly glory,",
+      "who through Thy messengers, that is, through the sacred Scripture, through infirmities, through the peril of living, through the turning of fortune, and through Thy free will, hast called us to Thy marriage:",
+      "give us the wedding garment of charity,"
+    ]
+  },
+  {
+    "id": "the-tribute-to-caesar-and-the-question-o",
+    "part": "II",
+    "chapter": "XXXV",
+    "title": "The Image on the Coin",
+    "subtitle": "The flatterers encircle Christ with the question of the tribute to Caesar",
+    "theme": "Conflict & Opposition",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "wonder",
+      "trust"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 22:15–22; Luke 20:20–26",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "teach me to understand and to beware the cunning of seducers;",
+      "and to keep always the truth of life, of doctrine, and of justice."
+    ]
+  },
+  {
+    "id": "the-greatest-commandment",
+    "part": "II",
+    "chapter": "XXXVI",
+    "title": "The Greatest Commandment",
+    "subtitle": "The lawyer's testing question, and the Lord's answer: Love",
+    "theme": "Conflict & Opposition",
+    "lens": "Awakening",
+    "emotions": [
+      "love",
+      "longing",
+      "humility"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 22:34–40",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord, he loves thee less who loves anything together with thee, which he loves not for thy sake.",
+      "Thou alone, without any rival, dost will to possess my heart.",
+      "Grant me to love thee with my whole heart, that it be inclined to no thing more than to thee."
+    ]
+  },
+  {
+    "id": "the-scribes-and-pharisees-in-the-seat-of",
+    "part": "II",
+    "chapter": "XXXVII",
+    "title": "In the Seat of Moses",
+    "subtitle": "Christ warns the crowds: hear the teaching, do not imitate the life",
+    "theme": "Conflict & Opposition",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "humility",
+      "repentance"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 23:1–4",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, in your mercy, take from me the failure of good works,",
+      "that I may deserve not only to think and to speak good things, but also to do them, and to fulfill them in deeds.",
+      "Remove from me austerity and cruelty,"
+    ]
+  },
+  {
+    "id": "the-woes-of-eternal-judgement",
+    "part": "II",
+    "chapter": "XXXVIII",
+    "title": "The Eight Woes",
+    "subtitle": "Christ pronounces eternal woe upon the hypocrites who shut heaven against men",
+    "theme": "Conflict & Opposition",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "fear",
+      "repentance"
+    ],
+    "journeys": [
+      "storm",
+      "daily"
+    ],
+    "gospelRef": "Matthew 23:13–15",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who give blessings to those who obey your Law and your precepts,",
+      "and maledictions to the disobedient:"
+    ]
+  },
+  {
+    "id": "the-signs-of-the-lord-s-coming",
+    "part": "II",
+    "chapter": "XXXIX",
+    "title": "The Signs Before the End",
+    "subtitle": "On the Mount of Olives, facing the doomed Temple, the Lord foretells the signs of His coming",
+    "theme": "The Last Things",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "hope",
+      "fear"
+    ],
+    "journeys": [
+      "storm",
+      "daily"
+    ],
+    "gospelRef": "Matthew 24:1–8; Mark 13; Luke 21",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, Judge of all who art to come,",
+      "grant me constancy in the truth of the faith,",
+      "that I be not seduced by feigned and false men,"
     ]
   },
   {
@@ -3460,6 +3776,31 @@
     ]
   },
   {
+    "id": "the-lie-of-the-guards",
+    "part": "II",
+    "chapter": "LXXIV",
+    "title": "The Lie of the Guards",
+    "subtitle": "The chief priests buy silence, and the soldiers swear to a theft they slept through",
+    "theme": "Resurrection",
+    "lens": "Beholding",
+    "emotions": [
+      "gravity",
+      "trust",
+      "hope"
+    ],
+    "journeys": [
+      "risen",
+      "daily"
+    ],
+    "gospelRef": "Matthew 28:11–15",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "to blacken the fame of Your Resurrection the Jews gave a large sum of money to the soldiers, and corrupted them to pervert the truth.",
+      "Grant me that I be not corrupted by money, nor corrupt others,"
+    ]
+  },
+  {
     "id": "the-road-to-emmaus",
     "part": "II",
     "chapter": "LXXVI",
@@ -3503,6 +3844,31 @@
       "My Lord and my God.",
       "Thou art my Lord, who redeemed me with Thy blood and made me Thine own;",
       "Thou art my God, who created me and formed me from the slime of the earth."
+    ]
+  },
+  {
+    "id": "the-lord-appears-by-the-sea-of-tiberias",
+    "part": "II",
+    "chapter": "LXXIX",
+    "title": "The Lord on the Shore",
+    "subtitle": "The risen Christ appears to seven disciples at the Sea of Tiberias",
+    "theme": "Resurrection",
+    "lens": "Following",
+    "emotions": [
+      "joy",
+      "love",
+      "gratitude"
+    ],
+    "journeys": [
+      "risen",
+      "daily"
+    ],
+    "gospelRef": "John 21:1–7",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, grant me, a wretched man, to set before you the food you ask,",
+      "by obeying your commandments;",
+      "for you are in a manner refreshed by our obedience, and in it you take the greatest delight."
     ]
   },
   {

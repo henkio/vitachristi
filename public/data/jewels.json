@@ -190,6 +190,11 @@
     "from": "The Word Made Flesh in Her"
   },
   {
+    "latin": "Passurus Dominus pro omni mundo, et universas nationes suo sanguine redempturus, venit et moratur in Bethania, id est in domo obedientiæ.",
+    "english": "The Lord, about to suffer for the whole world, and to redeem all nations by his blood, comes and abides in Bethany, that is, in the house of obedience.",
+    "from": "The House of Obedience"
+  },
+  {
     "latin": "O unicum bonum meum! O singulare gaudium meum! Quid faciam cum te sic videam?",
     "english": "O my one good! O my one and only joy! What shall I do, when I see You like this?",
     "from": "Matins: The First Interrogation"
@@ -315,6 +320,11 @@
     "from": "No Place to Lay His Head"
   },
   {
+    "latin": "Si vis ergo fructus justitiæ ad finem tenere, recede de via, et plantare in loco secreto, ut nec mundus tecum aliquid habeat commune, nec tu cum mundo.",
+    "english": "If, then, you would hold the fruit of justice to the end, withdraw from the road, and be planted in a hidden place, that the world may have nothing in common with you, nor you with the world.",
+    "from": "The Withered Fig Tree"
+  },
+  {
     "latin": "Noe, etsi tacebat voce, opere loquebatur; si et lingua silebat, fabricatione clamabat.",
     "english": "Noah, though he was silent with his voice, spoke by his work; though his tongue was still, by the building he cried out.",
     "from": "The Day That Comes Without Warning"
@@ -400,6 +410,11 @@
     "from": "The Door of the Sheepfold"
   },
   {
+    "latin": "Tunc est enim optimus homo, cum tota vita sua pergit in incommutabile bonum.",
+    "english": "For a man is then at his best, when with his whole life he presses on toward the unchangeable Good.",
+    "from": "The Greatest Commandment"
+  },
+  {
     "latin": "Quæritis me propter aliud; quærite me propter me, non propter aliud, qui sum cibus permanens in vitam æternam.",
     "english": "You seek Me for the sake of something else; seek Me for My own sake, not for anything else — I who am the food that endures unto life everlasting.",
     "from": "Seek Jesus for His Own Sake"
@@ -450,6 +465,16 @@
     "from": "The One Bread in the Boat"
   },
   {
+    "latin": "Simplex enim aequitas, et indocta hominum rusticitas saepe veritatem rei sine fraude manifestat; at contra versuta malignitas falsitatem verisimilibus verbis pro vero commendare decertat.",
+    "english": "Simple honesty and the unschooled plainness of men often make the truth of a thing known without deceit; but cunning malice, on the contrary, strains to commend falsehood as truth with plausible words.",
+    "from": "The Lie of the Guards"
+  },
+  {
+    "latin": "Petrus quidem moras navis exspectare non potuit, sed amoris immensitate cogente, in mare se praecipitavit, ut velocius et magis festinanter ad Dominum suum venire posset.",
+    "english": "Peter could not wait for the slowness of the boat, but, driven by the immensity of love, he hurled himself into the sea, that he might come more swiftly and in greater haste to his Lord.",
+    "from": "The Lord on the Shore"
+  },
+  {
     "latin": "Dubitatio quidem discipulorum, nostræ fidei fuit confirmatio: quippe quo amplius dubitaverunt, eo sollicitius inquisierunt, et quo verius probaverunt, eo firmius crediderunt.",
     "english": "The doubt of the disciples was indeed the confirmation of our faith: for the more they doubted, the more anxiously they inquired; and the more truly they proved, the more firmly they believed.",
     "from": "On the Mountain in Galilee"
@@ -463,6 +488,11 @@
     "latin": "Fons enim pietatis erat, et ideo lacrymas continere non poterat, nec ædificia planxit parietum, sed subversionem animarum.",
     "english": "For he was the fountain of mercy, and therefore he could not hold back his tears; nor did he weep for the walls of the buildings, but for the overthrow of souls.",
     "from": "The Lord's Weeping over Jerusalem"
+  },
+  {
+    "latin": "Ipse vero aliter disposuerat, qui universorum salutem sitiebat.",
+    "english": "But He had ordained otherwise, He who thirsted for the salvation of all.",
+    "from": "The Lord Seated upon the Colt"
   },
   {
     "latin": "Et, secundum Ambrosium, humeri Christi crucis brachia sunt: illic mea peccata deposui, in illa patibuli nobilis cruce quievi.",
@@ -523,6 +553,11 @@
     "latin": "Pauca sunt quæ in hoc seculo nobis præstantur, multa quæ in illo servantur.",
     "english": "Few are the things bestowed on us in this world; many are the things kept for us in that one.",
     "from": "The Talents Entrusted"
+  },
+  {
+    "latin": "Qui ubique præsens est, diligentibus præsentior, et negligentibus absentior est.",
+    "english": "He who is everywhere present is more present to those who love him, and more absent to those who neglect him.",
+    "from": "The Vineyard Let Out to Tenants"
   },
   {
     "latin": "Exiit autem qui ubique est, non localiter sed Incarnatione; et per amictum carnis propinquior nobis factus est.",
@@ -605,14 +640,29 @@
     "from": "The Closed Door"
   },
   {
+    "latin": "Non cathedra facit sacerdotem, sed sacerdos cathedram; non locus sanctificat hominem, sed homo locum.",
+    "english": "The chair does not make the priest, but the priest the chair; the place does not sanctify the man, but the man the place.",
+    "from": "In the Seat of Moses"
+  },
+  {
     "latin": "Ad transeundum istum mundum vidit Christus, id est approbavit duas naves.",
     "english": "To cross over this world, Christ saw — that is, approved — two boats.",
     "from": "The Boat of the Obedient"
   },
   {
+    "latin": "Sicut enim templum est in civitate, ita vita sacerdotum in plebe.",
+    "english": "For as the temple stands in the city, so stands the life of the priests among the people.",
+    "from": "The Cleansing of the Temple"
+  },
+  {
     "latin": "Vere enim nullum viderunt, quia corporali aspectu viderunt, non spirituali affectu.",
     "english": "For truly they saw nothing, because they saw with the bodily eye, but not with spiritual affection.",
     "from": "The Sign of Jonah"
+  },
+  {
+    "latin": "Aufertur ergo umbra, et palmam tenet veritas per orbem declarata.",
+    "english": "The shadow, then, is taken away, and truth, declared throughout the world, holds the palm of victory.",
+    "from": "The Signs Before the End"
   },
   {
     "latin": "Quasi enim homo navem ascendit, sed quasi Deus mare conturbat; quasi homo in navi dormit, sed quasi Deus ventis et mari imperat, et eorum furorem verbo coercet.",
@@ -645,6 +695,11 @@
     "from": "The Light on Tabor"
   },
   {
+    "latin": "Sicut Cæsar exigit impressionem suæ imaginis, sic et Deus animam lumine vultus sui insignitam.",
+    "english": "As Caesar demands the stamp of his own image, so also God demands the soul marked with the light of his countenance.",
+    "from": "The Image on the Coin"
+  },
+  {
     "latin": "Sic est in terra animæ, quia tota fortitudo ejus consistit in ingressu, scilicet in occasionibus peccatorum, et propter hoc necessaria est bona custodia circa ipsum.",
     "english": "So it is in the land of the soul: for its whole strength stands in the entrance — that is, in the occasions of sins — and for this a good watch about it is necessary.",
     "from": "The Guarded Gateway"
@@ -653,6 +708,11 @@
     "latin": "Felix tactus, ad quem tanta sequitur virtus!",
     "english": "O happy touch, upon which so great a power follows!",
     "from": "Son of David, Have Mercy"
+  },
+  {
+    "latin": "Sicut enim rosa antequam videatur sentitur, et antequam inveniatur tenetur in odoribus suis; sic et Domino transeunte, de longe duo cæci, antequam eum viderent, divinitatem ejus fragrantia senserunt.",
+    "english": "For just as a rose is sensed before it is seen, and before it is found is held fast in its own fragrance; so too, as the Lord passed by, the two blind men from afar, before they saw Him, perceived His divinity by its fragrance.",
+    "from": "The Two Blind Men Beyond Jericho"
   },
   {
     "latin": "Tam validus denique es ad justificandum, quam multus ad ignoscendum.",
@@ -670,9 +730,24 @@
     "from": "The Watchful Householder"
   },
   {
+    "latin": "O miserrimus mundus, et miseri qui eum sequuntur! Semper enim mundialia opera homines excluserunt a vita.",
+    "english": "O most wretched world, and wretched they who follow it! For worldly works have always shut men out from life.",
+    "from": "The Wedding Garment"
+  },
+  {
+    "latin": "Non quantum, sed ex quanto dederis, considerat Deus.",
+    "english": "God considers not how much, but out of how much, you give.",
+    "from": "The Widow's Two Coins"
+  },
+  {
     "latin": "De die sunt simul in pascuis oves et hædi, sed in vespere pastor eos segregat.",
     "english": "By day the sheep and the goats are together in the pastures, but in the evening the shepherd separates them.",
     "from": "The Winnowing of the Threshing-Floor"
+  },
+  {
+    "latin": "Simulata æquitas non est æquitas, sed duplex iniquitas.",
+    "english": "Feigned righteousness is not righteousness, but a double iniquity.",
+    "from": "The Eight Woes"
   },
   {
     "latin": "Venit enim non perdere quod invenerit, sed quærere quod perierat.",
