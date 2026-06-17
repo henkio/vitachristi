@@ -18,11 +18,12 @@ echo "  build queued"
 
 echo "→ wait for build, then purge Cloudflare cache"
 # find a CF token that can purge
-purge(){ grep -iA3 'Cloudflare' "$POLO/Passwords.txt" | grep -oiE '[A-Za-z0-9_-]{37,}' | sort -u | while read -r T; do
-  curl -s -m15 -X POST "https://api.cloudflare.com/client/v4/zones/$ZONE/purge_cache" \
-    -H "Authorization: Bearer $T" -H "Content-Type: application/json" \
-    -d '{"purge_everything":true}' | grep -q '"success":true' && { echo "  purged"; return 0; }
-done; return 1; }
+purge(){ local T
+  for T in $(grep -iA3 'Cloudflare' "$POLO/Passwords.txt" | grep -oiE '[A-Za-z0-9_-]{37,}' | sort -u); do
+    if curl -s -m15 -X POST "https://api.cloudflare.com/client/v4/zones/$ZONE/purge_cache" \
+      -H "Authorization: Bearer $T" -H "Content-Type: application/json" \
+      -d '{"purge_everything":true}' | grep -q '"success":true'; then echo "  purged"; return 0; fi
+  done; return 1; }
 
 # wait until the new build serves, then purge
 for i in $(seq 1 40); do sleep 15
