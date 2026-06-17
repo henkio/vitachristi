@@ -185,7 +185,7 @@ const Player = (() => {
       <div class="session-end">
         <div class="cross">✝</div>
         <h2>Amen.</h2>
-        <p>Ludolph wrote this for you, six hundred years ago.</p>
+        <p>Stay with him a moment, before you go.</p>
         <div class="btn-row">
           <button class="btn" data-role="again">Pray again</button>
           <button class="btn ghost" data-role="done">Return</button>

@@ -6,7 +6,7 @@ const App = (() => {
 
   const JOURNEYS = [
     { id:'passion',    title:'The Passion',        sub:'Holy Week, hour by hour',  passion:true,
-      desc:'Walk with Christ from Gethsemane to the tomb — meditated on the canonical hours of the day, exactly as Ludolph ordered them.' },
+      desc:'Walk with Christ from Gethsemane to the tomb, meditated hour by hour through the canonical hours of the day.' },
     { id:'risen',      title:'He Is Risen',         sub:'From the empty tomb to Pentecost',
       desc:'The appearances of the risen Lord: to His Mother, to Magdalene, on the road to Emmaus, to Thomas — and the fire of Pentecost.' },
     { id:'storm',      title:'Rest in the Storm',   sub:'For the anxious heart',
@@ -56,8 +56,7 @@ const App = (() => {
   }
   const footer = () => `<div class="foot-site"><div class="wrap">
       <span class="brand">Vita <span class="x">Christi</span></span>
-      Every word drawn from the <em>Vita Jesu Christi</em> of Ludolph of Saxony, 1374.<br>
-      Not a meditation app. A way to meet Jesus.
+      A way to meet Jesus.
     </div></div>`;
 
   function sessionCard(s){
@@ -109,10 +108,10 @@ const App = (() => {
     <div class="wrap">
       <div class="hero">
         <div class="cross">✝</div>
-        <div class="kicker">A 650-year-old book, still alive</div>
+        <div class="kicker">The life of Christ, as prayer</div>
         <h1>A way to meet Jesus.</h1>
         <div class="latin">Ac si præsens esses.</div>
-        <p class="lead">Six hundred years ago a Carthusian monk wrote down the whole life of Christ — not to be read, but to be entered. He asks one thing of you: stand inside each scene as if you were there. His words are direct, unhurried, unsoftened — and still, six centuries on, alive.</p>
+        <p class="lead">Stand inside the Gospel — at the manger, in the garden, beneath the cross — as if you were there. Read it slowly, picture the scene, and speak to him. One moment a day, and the life of Christ becomes a place you can enter.</p>
         <div class="btn-row">
           ${todayPick()?`<a class="btn solid" href="#/session/${todayPick().id}">Today's meditation</a>`:''}
           <a class="btn ghost" href="#/journeys">Explore the journeys</a>
@@ -132,16 +131,16 @@ const App = (() => {
       <div class="divider"></div>
 
       <div class="section">
-        <div class="kicker" style="text-align:center;display:block;margin-bottom:8px">How it works</div>
-        <h2 style="text-align:center;font-size:2rem;margin-bottom:8px">Ludolph's five movements</h2>
-        <p style="text-align:center;color:var(--ink-soft);max-width:520px;margin:0 auto 26px">Ludolph invites you not only to read about Christ, but to be present to him. Each session moves the same way he wrote it, six centuries ago — and takes about ten minutes.</p>
-        ${[['I','Be still','“Speak with the sublime God with attentive mind and quiet heart.”'],
-           ['II','The Gospel','The bare word of Scripture, slowly, one line at a time.'],
-           ['III','Behold','“Attend to each thing as if you were present.” The scene built around you.'],
-           ['IV','Consider','Ludolph’s own meditation — raw, visceral, unsoftened.'],
-           ['V','Pray','His own prayer, that has been prayed for 650 years.']]
+        <div class="kicker" style="text-align:center;display:block;margin-bottom:8px">How you pray here</div>
+        <h2 style="text-align:center;font-size:2rem;margin-bottom:8px">One scene, five steps</h2>
+        <p style="text-align:center;color:var(--ink-soft);max-width:520px;margin:0 auto 26px">Each prayer takes about ten minutes and moves the same quiet way — come, listen, look, ponder, pray.</p>
+        ${[['I','Be still','Come out of the noise, and grow quiet before God.'],
+           ['II','The Gospel','The Gospel itself, slowly, one line at a time.'],
+           ['III','Behold','Picture the scene, and stand in it as if you were there.'],
+           ['IV','Consider','Let the scene speak — what it means, and what it asks of you.'],
+           ['V','Pray','Close with a prayer, and carry him with you into the day.']]
           .map(f=>`<div class="feature"><div class="num">${f[0]}</div><div><h3>${f[1]}</h3><p>${f[2]}</p></div></div>`).join('')}
-        <div style="text-align:center;margin-top:30px"><a class="btn ghost" href="#/method">Read his own method →</a></div>
+        <div style="text-align:center;margin-top:30px"><a class="btn ghost" href="#/method">The way of this prayer →</a></div>
       </div>
 
       ${picks.length?`<div class="divider"></div><div class="section">
@@ -235,7 +234,7 @@ const App = (() => {
     return nav('prayers') + `<div class="wrap section">
       <div class="kicker">From the Vita Christi</div>
       <h1 style="font-size:2.6rem;margin:6px 0 8px">Prayers</h1>
-      <p style="color:var(--ink-soft);max-width:560px;margin-bottom:24px">Ludolph ends every chapter with a prayer he hands the reader: <em>“Say this, or something like it.”</em> Begin with today's — then wander by theme. No need to read them all.</p>
+      <p style="color:var(--ink-soft);max-width:560px;margin-bottom:24px">Each scene closes with a prayer, handed to you: <em>“Say this, or something like it.”</em> Begin with today's — then wander by theme. No need to read them all.</p>
 
       <div class="kicker" style="display:block;margin-bottom:10px">Today's prayer</div>
       ${prayerCard(featured)}
@@ -301,15 +300,15 @@ const App = (() => {
     return nav('pray') + `<div class="wrap section">
       <div class="kicker">Ways to pray</div>
       <h1 style="font-size:2.6rem;margin:6px 0 8px">Pray</h1>
-      <p style="color:var(--ink-soft);max-width:560px;margin-bottom:30px">Beyond the full meditations, here are shorter, older ways — each drawn from the tradition Ludolph carried.</p>
+      <p style="color:var(--ink-soft);max-width:560px;margin-bottom:30px">Beyond the full meditations, a few shorter, older ways to come close to him.</p>
       <div class="ways">
         <a class="card way" href="#/pray/breath"><div class="ic">◯</div><h3>The Jesus Prayer</h3><p>One line, paced to your breath: “Lord Jesus Christ, Son of God, have mercy on me.” The prayer of the desert fathers.</p></a>
-        <a class="card way passion" href="#/pray/wounds"><div class="ic">✝</div><h3>The Wounds</h3><p>Ludolph's counting devotion — fifteen prayers a day, and in a year you honour every wound of the Passion.</p></a>
+        <a class="card way passion" href="#/pray/wounds"><div class="ic">✝</div><h3>The Wounds</h3><p>An old counting devotion — fifteen prayers a day, and in a year you honour every wound of the Passion.</p></a>
         <a class="card way" href="#/pray/gaze"><div class="ic">✦</div><h3>Gaze</h3><p>One line of Latin, held in silence. No reading, no thinking. Only beholding.</p></a>
         <a class="card way" href="#/pray/lectio"><div class="ic">☩</div><h3>Lectio</h3><p>Read one Gospel passage three times, slowly, until a single word shines and stays.</p></a>
-        <a class="card way" href="#/voices"><div class="ic">☵</div><h3>Voices</h3><p>Stand inside a scene as a witness — Mary, a shepherd, Magdalene at the tomb. The detail is Ludolph's; the eyes are yours.</p></a>
+        <a class="card way" href="#/voices"><div class="ic">☵</div><h3>Voices</h3><p>Stand inside a scene as a witness — Mary, a shepherd, Magdalene at the tomb. Every detail from the Gospel; the eyes are yours.</p></a>
       </div>
-      <div style="margin-top:32px"><a class="btn ghost" href="#/prayers">Read Ludolph's prayers →</a></div>
+      <div style="margin-top:32px"><a class="btn ghost" href="#/prayers">The prayers →</a></div>
     </div>` + footer();
   }
 
@@ -343,7 +342,7 @@ const App = (() => {
     return nav('') + `<div class="wrap section">
       <div class="kicker">Through the eyes of a witness</div>
       <h1 style="font-size:2.6rem;margin:6px 0 8px">Voices</h1>
-      <p style="color:var(--ink-soft);max-width:580px;margin-bottom:14px">Ludolph bids you enter each scene “as if you saw it with your own eyes.” Here you stand inside it — as Mary, as a shepherd, as Magdalene at the tomb. Every detail is his; the eyes are yours.</p>
+      <p style="color:var(--ink-soft);max-width:580px;margin-bottom:14px">Stand inside the scene as one who was there — as Mary, as a shepherd, as Magdalene at the tomb. See it with their eyes, and let it draw you closer to him.</p>
       ${voices.length?`<div class="grid two">${voices.map(v=>`
         <a class="card ${v.theme==='The Passion'?'passion':''}" href="#/session/${v.id}">
           <div class="tag">In the voice of ${v.character}</div>
