@@ -1,38 +1,209 @@
 [
-  { "id":"holy-week", "title":"Holy Week", "sub":"Ten days through the Passion", "emotion":"sorrow", "passion":true,
-    "desc":"Walk the last days with Christ, hour by hour, as Ludolph ordered them on the canonical hours — from the upper room to the empty tomb.",
-    "days":["washing-of-feet","gethsemane","the-arrest","before-the-council","before-pilate","the-dying-christ","the-deposition","the-burial","holy-saturday","the-resurrection"] },
-  { "id":"anxious-heart", "title":"For the Anxious Heart", "sub":"When fear rises", "emotion":"fear",
-    "desc":"For panic, dread, and the nights you cannot quiet. Christ in the storm, Christ lifting Peter, Christ sorrowful in the garden — and teaching you to pray.",
-    "days":["the-storm-stilled","peter-sinks","gethsemane","the-our-father","raising-of-lazarus"] },
-  { "id":"grief", "title":"For Grief", "sub":"When you have lost someone", "emotion":"sorrow",
-    "desc":"For mourning. The widow's only son, the friend in the tomb, the burial of the Lord — and the first morning of resurrection.",
-    "days":["widow-of-nain","raising-of-lazarus","the-burial","holy-saturday","risen-to-his-mother"] },
-  { "id":"dryness", "title":"When You Feel Nothing", "sub":"For the dry and distracted", "emotion":"rest", "passion":true,
-    "desc":"Ludolph's own counsel: when the heart is cold and will not weep, stay anyway, look anyway. The retreat no wellness app would dare to offer.",
-    "days":["passion-meditation","gethsemane","the-desert","praise-of-the-cross"] },
-  { "id":"the-descent", "title":"The Way of Humility", "sub":"The God who goes low", "emotion":"humility",
-    "desc":"From the angel's word to the washing of feet to silence before Pilate — the descent of God, that you might learn to go down with Him.",
-    "days":["the-annunciation","the-nativity","the-epiphany","washing-of-feet","before-pilate"] },
-  { "id":"temptation", "title":"Facing Temptation", "sub":"The desert and the garden", "emotion":"courage",
-    "desc":"Christ fasting and tempted, Christ sorrowful unto death, Peter who fell — that you might learn to stand.",
-    "days":["the-desert","gethsemane","passion-meditation","peter-sinks"] },
-  { "id":"wonder", "title":"When God Drew Near", "sub":"For wonder and joy", "emotion":"wonder",
-    "desc":"The angel, the manger, the Magi, the wine at Cana, the boy in the Temple — stand still before the strangeness of God made small.",
-    "days":["the-annunciation","the-nativity","the-epiphany","wedding-at-cana","boy-jesus-temple"] },
-  { "id":"he-is-risen", "title":"He Is Risen", "sub":"The forty days", "emotion":"joy",
-    "desc":"From the empty tomb to the fire of Pentecost — the Lord appears to His Mother, to Magdalene, on the road, to Thomas.",
-    "days":["the-resurrection","risen-to-his-mother","risen-to-magdalene","the-road-to-emmaus","doubting-thomas","pentecost"] },
-  { "id":"wounds-of-love", "title":"The Wounds of Love", "sub":"For gratitude", "emotion":"gratitude", "passion":true,
-    "desc":"Why did He suffer? For love. The cross, the dying Christ, the wine of joy, the love of Magdalene, the fire of the Spirit.",
-    "days":["praise-of-the-cross","the-dying-christ","wedding-at-cana","risen-to-magdalene","pentecost"] },
-  { "id":"rest", "title":"Rest & Trust", "sub":"To quiet the soul", "emotion":"rest",
-    "desc":"The Our Father, the stilled sea, the blessed poor, the body laid to rest — learning to hand everything over.",
-    "days":["the-our-father","the-storm-stilled","the-beatitudes","the-deposition","the-burial"] },
-  { "id":"courage", "title":"Courage for the Fearful", "sub":"To strengthen the heart", "emotion":"courage",
-    "desc":"The desert won, Peter raised from the waves, Christ silent before power, the burial, and the Spirit who makes cowards into witnesses.",
-    "days":["the-desert","peter-sinks","before-pilate","holy-saturday","pentecost"] },
-  { "id":"longing", "title":"Longing for God", "sub":"For the restless and seeking", "emotion":"longing",
-    "desc":"Magdalene weeping at the tomb, the burning hearts on the road, the angel's annunciation, the prayer He taught — for those who ache for Him.",
-    "days":["risen-to-magdalene","the-road-to-emmaus","the-annunciation","the-our-father","pentecost"] }
+  {
+    "id": "holy-week",
+    "title": "Holy Week",
+    "sub": "Ten days through the Passion",
+    "emotion": "sorrow",
+    "passion": true,
+    "desc": "Walk the last days with Christ, hour by hour, as Ludolph ordered them on the canonical hours — from the upper room to the empty tomb.",
+    "days": [
+      "washing-of-feet",
+      "gethsemane",
+      "the-arrest",
+      "before-the-council",
+      "before-pilate",
+      "the-dying-christ",
+      "the-deposition",
+      "the-burial",
+      "holy-saturday",
+      "the-resurrection"
+    ]
+  },
+  {
+    "id": "anxious-heart",
+    "title": "For the Anxious Heart",
+    "sub": "When fear rises",
+    "emotion": "fear",
+    "desc": "For panic, dread, and the nights you cannot quiet. Christ in the storm, Christ lifting Peter, Christ sorrowful in the garden — and teaching you to pray.",
+    "days": [
+      "the-storm-stilled",
+      "peter-sinks",
+      "gethsemane",
+      "the-our-father",
+      "raising-of-lazarus",
+      "the-flight-into-egypt-and-the-holy-innoc",
+      "the-gerasene-demoniacs",
+      "the-sign-sought-from-heaven-and-the-uncl"
+    ]
+  },
+  {
+    "id": "grief",
+    "title": "For Grief",
+    "sub": "When you have lost someone",
+    "emotion": "sorrow",
+    "desc": "For mourning. The widow's only son, the friend in the tomb, the burial of the Lord — and the first morning of resurrection.",
+    "days": [
+      "widow-of-nain",
+      "raising-of-lazarus",
+      "the-burial",
+      "holy-saturday",
+      "risen-to-his-mother",
+      "joseph-resolves-to-send-mary-away",
+      "the-flight-into-egypt-and-the-holy-innoc",
+      "boy-jesus-temple"
+    ]
+  },
+  {
+    "id": "dryness",
+    "title": "When You Feel Nothing",
+    "sub": "For the dry and distracted",
+    "emotion": "rest",
+    "passion": true,
+    "desc": "Ludolph's own counsel: when the heart is cold and will not weep, stay anyway, look anyway. Even a dry, distracted prayer is precious to God.",
+    "days": [
+      "passion-meditation",
+      "gethsemane",
+      "the-desert",
+      "praise-of-the-cross",
+      "the-hidden-years-of-the-lord",
+      "the-our-father",
+      "the-storm-stilled",
+      "consolation-amid-the-burden-of-precepts"
+    ]
+  },
+  {
+    "id": "the-descent",
+    "title": "The Way of Humility",
+    "sub": "The God who goes low",
+    "emotion": "humility",
+    "desc": "From the angel's word to the washing of feet to silence before Pilate — the descent of God, that you might learn to go down with Him.",
+    "days": [
+      "the-annunciation",
+      "the-nativity",
+      "the-epiphany",
+      "washing-of-feet",
+      "before-pilate",
+      "the-eternal-generation-of-the-son",
+      "the-betrothal-of-mary",
+      "joseph-resolves-to-send-mary-away"
+    ]
+  },
+  {
+    "id": "temptation",
+    "title": "Facing Temptation",
+    "sub": "The desert and the garden",
+    "emotion": "courage",
+    "desc": "Christ fasting and tempted, Christ sorrowful unto death, Peter who fell — that you might learn to stand.",
+    "days": [
+      "the-desert",
+      "gethsemane",
+      "passion-meditation",
+      "peter-sinks",
+      "the-confession-of-peter",
+      "the-cleansing-of-the-temple-and-nicodemu",
+      "the-imprisonment-of-john-the-baptist",
+      "the-beginning-of-the-public-preaching"
+    ]
+  },
+  {
+    "id": "wonder",
+    "title": "When God Drew Near",
+    "sub": "For wonder and joy",
+    "emotion": "wonder",
+    "desc": "The angel, the manger, the Magi, the wine at Cana, the boy in the Temple — stand still before the strangeness of God made small.",
+    "days": [
+      "the-annunciation",
+      "the-nativity",
+      "the-epiphany",
+      "wedding-at-cana",
+      "boy-jesus-temple",
+      "the-eternal-generation-of-the-son",
+      "the-remedy-for-mankind-and-the-birth-of-",
+      "the-conception-of-the-forerunner"
+    ]
+  },
+  {
+    "id": "he-is-risen",
+    "title": "He Is Risen",
+    "sub": "The forty days",
+    "emotion": "joy",
+    "desc": "From the empty tomb to the fire of Pentecost — the Lord appears to His Mother, to Magdalene, on the road, to Thomas.",
+    "days": [
+      "the-resurrection",
+      "risen-to-his-mother",
+      "risen-to-magdalene",
+      "the-road-to-emmaus",
+      "doubting-thomas",
+      "pentecost"
+    ]
+  },
+  {
+    "id": "wounds-of-love",
+    "title": "The Wounds of Love",
+    "sub": "For gratitude",
+    "emotion": "gratitude",
+    "passion": true,
+    "desc": "Why did He suffer? For love. The cross, the dying Christ, the wine of joy, the love of Magdalene, the fire of the Spirit.",
+    "days": [
+      "praise-of-the-cross",
+      "the-dying-christ",
+      "wedding-at-cana",
+      "risen-to-magdalene",
+      "pentecost",
+      "the-remedy-for-mankind-and-the-birth-of-",
+      "the-birth-and-circumcision-of-the-foreru",
+      "the-demoniac-and-peter-s-mother-in-law"
+    ]
+  },
+  {
+    "id": "rest",
+    "title": "Rest & Trust",
+    "sub": "To quiet the soul",
+    "emotion": "rest",
+    "desc": "The Our Father, the stilled sea, the blessed poor, the body laid to rest — learning to hand everything over.",
+    "days": [
+      "the-our-father",
+      "the-storm-stilled",
+      "the-beatitudes",
+      "the-deposition",
+      "the-burial",
+      "the-hidden-years-of-the-lord",
+      "consolation-amid-the-burden-of-precepts",
+      "martha-s-service-and-mary-s-repose"
+    ]
+  },
+  {
+    "id": "courage",
+    "title": "Courage for the Fearful",
+    "sub": "To strengthen the heart",
+    "emotion": "courage",
+    "desc": "The desert won, Peter raised from the waves, Christ silent before power, the burial, and the Spirit who makes cowards into witnesses.",
+    "days": [
+      "the-desert",
+      "peter-sinks",
+      "before-pilate",
+      "holy-saturday",
+      "pentecost",
+      "the-confession-of-peter",
+      "the-cleansing-of-the-temple-and-nicodemu",
+      "the-imprisonment-of-john-the-baptist"
+    ]
+  },
+  {
+    "id": "longing",
+    "title": "Longing for God",
+    "sub": "For the restless and seeking",
+    "emotion": "longing",
+    "desc": "Magdalene weeping at the tomb, the burning hearts on the road, the angel's annunciation, the prayer He taught — for those who ache for Him.",
+    "days": [
+      "risen-to-magdalene",
+      "the-road-to-emmaus",
+      "the-annunciation",
+      "the-our-father",
+      "pentecost",
+      "the-beatitudes",
+      "treasure-in-heaven-not-on-earth",
+      "the-cost-of-following-christ"
+    ]
+  }
 ]

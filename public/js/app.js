@@ -57,7 +57,7 @@ const App = (() => {
   const footer = () => `<div class="foot-site"><div class="wrap">
       <span class="brand">Vita <span class="x">Christi</span></span>
       Every word drawn from the <em>Vita Jesu Christi</em> of Ludolph of Saxony, 1374.<br>
-      Not a meditation app. A way to meet a Person.
+      Not a meditation app. A way to meet Jesus.
     </div></div>`;
 
   function sessionCard(s){
@@ -70,6 +70,36 @@ const App = (() => {
     </a>`;
   }
 
+  // ---------- daily + recent + saved (localStorage) ----------
+  function dayIndex(){ return Math.floor(Date.now()/86400000); }
+  function todayPick(){
+    if(!sessions.length) return null;
+    return sessions[dayIndex() % sessions.length];
+  }
+  function recordRecent(id){
+    if(id && id.startsWith('voice-')) return;
+    let r = getRecent().filter(x=>x!==id); r.unshift(id);
+    localStorage.setItem('vc-recent', JSON.stringify(r.slice(0,8)));
+  }
+  function getRecent(){ try{ return JSON.parse(localStorage.getItem('vc-recent')||'[]'); }catch(e){ return []; } }
+  function getSaved(){ try{ return JSON.parse(localStorage.getItem('vc-saved')||'[]'); }catch(e){ return []; } }
+  function toggleSaved(id){
+    let s=getSaved(); s = s.includes(id)? s.filter(x=>x!==id) : [id,...s];
+    localStorage.setItem('vc-saved', JSON.stringify(s.slice(0,50))); return s.includes(id);
+  }
+  function continueHTML(){
+    const recent = getRecent().map(id=>sessionsById[id]).filter(Boolean);
+    const saved = getSaved().map(id=>sessionsById[id]).filter(Boolean);
+    if(!recent.length && !saved.length) return '';
+    const list = (recent.length?recent:saved).slice(0,2);
+    return `<div class="section">
+      <div class="kicker" style="display:block;margin-bottom:14px">${recent.length?'Continue':'Saved'}</div>
+      <div class="grid two">${list.map(sessionCard).join('')}</div>
+      ${saved.length?`<div style="margin-top:14px"><a class="btn ghost" href="#/saved">Your saved meditations (${saved.length})</a></div>`:''}
+    </div>
+    <div class="divider"></div>`;
+  }
+
   // ---------- views ----------
   function home(){
     const featured = sessionsById['gethsemane'] || sessions[0];
@@ -79,21 +109,32 @@ const App = (() => {
     <div class="wrap">
       <div class="hero">
         <div class="cross">✝</div>
-        <div class="kicker">A 650-year-old way of prayer</div>
-        <h1>Meet Him.</h1>
+        <div class="kicker">A 650-year-old book, still alive</div>
+        <h1>A way to meet Jesus.</h1>
         <div class="latin">Ac si præsens esses.</div>
-        <p class="lead">Not mindfulness. Not emptying your mind. The opposite — to stand inside the life of Christ as if you were there, and let it change you. Every word is Ludolph of Saxony's, the book that converted Ignatius of Loyola.</p>
+        <p class="lead">Six hundred years ago, a Carthusian monk gathered the whole life of Christ and wrote a quiet way to pray it — to stand inside each scene as if you were there. What he wrote in his monastery is, in the spirit, simply a deeply valuable book. It still speaks today.</p>
         <div class="btn-row">
-          ${featured?`<a class="btn solid" href="#/session/${featured.id}">Begin with Gethsemane</a>`:''}
+          ${todayPick()?`<a class="btn solid" href="#/session/${todayPick().id}">Today's meditation</a>`:''}
           <a class="btn ghost" href="#/journeys">Explore the journeys</a>
         </div>
+      </div>
+      <div class="divider"></div>
+
+      ${continueHTML()}
+
+      <div class="section" style="text-align:center">
+        <div class="kicker" style="display:block;margin-bottom:14px">The man who wrote it</div>
+        <h2 style="font-size:2rem;margin-bottom:12px">Ludolph of Saxony</h2>
+        <p style="color:var(--ink-soft);max-width:600px;margin:0 auto 14px">In a silent cell, before 1378, a Carthusian monk drew the whole life of Christ together from the four Gospels and the Church Fathers — not to be read, but to be entered. His <em>Vita Jesu Christi</em> became one of Europe's first printed bestsellers, and its way of praying shaped Ignatius of Loyola, Teresa of Ávila, and Francis de Sales.</p>
+        <p style="color:var(--ink-soft);max-width:600px;margin:0 auto 22px">It is, simply, a treasure: what a monk set down six centuries ago is, in the spirit, as valuable for us today as it was for them.</p>
+        <a class="btn ghost" href="#/about">More about Ludolph</a>
       </div>
       <div class="divider"></div>
 
       <div class="section">
         <div class="kicker" style="text-align:center;display:block;margin-bottom:8px">How it works</div>
         <h2 style="text-align:center;font-size:2rem;margin-bottom:8px">Ludolph's five movements</h2>
-        <p style="text-align:center;color:var(--ink-soft);max-width:520px;margin:0 auto 26px">He does not ask you to read about Christ. He asks you to be present. Each session moves the same way he wrote it, six centuries ago.</p>
+        <p style="text-align:center;color:var(--ink-soft);max-width:520px;margin:0 auto 26px">Ludolph invites you not only to read about Christ, but to be present to him. Each session moves the same way he wrote it, six centuries ago — and takes about ten minutes.</p>
         ${[['I','Be still','“Speak with the sublime God with attentive mind and quiet heart.”'],
            ['II','The Gospel','The bare word of Scripture, slowly, one line at a time.'],
            ['III','Behold','“Attend to each thing as if you were present.” The scene built around you.'],
@@ -122,7 +163,7 @@ const App = (() => {
       <div class="divider"></div>
       <div class="section" style="text-align:center">
         <h2 style="font-size:2rem;margin-bottom:10px">The whole life of Christ</h2>
-        <p style="color:var(--ink-soft);max-width:520px;margin:0 auto 24px">One hundred and eighty-one scenes, from before time to the Last Judgment. Find a session by where you are — by feeling, by feast, by the moment you need.</p>
+        <p style="color:var(--ink-soft);max-width:520px;margin:0 auto 24px">The complete life, from before time to the Last Judgment, scene by scene. Find one by where you are — by feeling, by season, by the moment you need.</p>
         <a class="btn" href="#/timeline">Walk the timeline</a>
       </div>
     </div>` + footer();
@@ -182,13 +223,32 @@ const App = (() => {
     return html + `</div>` + footer();
   }
 
-  function prayersView(){
-    const items = prayers.length?prayers:sessions.map(s=>({ref:s.title, text:(s.prayerPreview||'')})).filter(p=>p.text);
+  function prayerCard(p){
+    return `<div class="prayer-card"><div class="ref">${p.ref||''}</div><p>${(Array.isArray(p.text)?p.text.join('<br>'):p.text)}</p></div>`;
+  }
+  function prayersView(theme){
+    if(!prayers.length) return nav('prayers')+`<div class="wrap section"><h1>Prayers</h1><p style="color:var(--muted)">Loading…</p></div>`+footer();
+    const themes = [...new Set(prayers.map(p=>p.theme).filter(Boolean))];
+    const featured = prayers[dayIndex() % prayers.length];
+    theme = theme && decodeURIComponent(theme);
+    const filtered = theme ? prayers.filter(p=>p.theme===theme) : prayers.slice(0,6);
     return nav('prayers') + `<div class="wrap section">
       <div class="kicker">From the Vita Christi</div>
       <h1 style="font-size:2.6rem;margin:6px 0 8px">Prayers</h1>
-      <p style="color:var(--ink-soft);max-width:560px;margin-bottom:30px">Ludolph ends every chapter with a prayer he hands directly to the reader: <em>“Say this, or something like it.”</em> Here they are, to pray on their own.</p>
-      ${items.map(p=>`<div class="prayer-card"><div class="ref">${p.ref||''}</div><p>${(Array.isArray(p.text)?p.text.join('<br>'):p.text)}</p></div>`).join('')}
+      <p style="color:var(--ink-soft);max-width:560px;margin-bottom:24px">Ludolph ends every chapter with a prayer he hands the reader: <em>“Say this, or something like it.”</em> Begin with today's — then wander by theme. No need to read them all.</p>
+
+      <div class="kicker" style="display:block;margin-bottom:10px">Today's prayer</div>
+      ${prayerCard(featured)}
+
+      <div style="margin:26px 0 16px">
+        <div class="kicker" style="display:block;margin-bottom:10px">Browse by theme</div>
+        <div class="emos">
+          <a class="emo ${!theme?'on':''}" href="#/prayers">a few</a>
+          ${themes.map(t=>`<a class="emo ${theme===t?'on':''}" href="#/prayers/${encodeURIComponent(t)}">${t}</a>`).join('')}
+        </div>
+      </div>
+      ${filtered.map(prayerCard).join('')}
+      ${!theme?`<p style="color:var(--muted);font-size:.88rem;margin-top:10px">Showing a handful of ${prayers.length}. Pick a theme above for more.</p>`:''}
     </div>` + footer();
   }
 
@@ -341,7 +401,18 @@ const App = (() => {
       const full = await fetch('sessions/'+id+'.json').then(r=>r.ok?r.json():null).catch(()=>null);
       if (full) s = Object.assign({}, s, full);
     }
-    if (s) Player.open(s);
+    if (s){ recordRecent(id); Player.open(s); }
+  }
+
+  function savedView(){
+    const saved = getSaved().map(id=>sessionsById[id]).filter(Boolean);
+    return nav('') + `<div class="wrap section">
+      <a href="#/" style="color:var(--muted);font-size:.85rem">← Home</a>
+      <div class="kicker" style="margin-top:18px">Kept close</div>
+      <h1 style="font-size:2.6rem;margin:6px 0 18px">Saved</h1>
+      ${saved.length?`<div class="grid two">${saved.map(sessionCard).join('')}</div>`
+        :`<p style="color:var(--ink-soft)">Nothing saved yet. Tap the star on any meditation to keep it here.</p>`}
+    </div>` + footer();
   }
 
   function route(){
@@ -360,9 +431,10 @@ const App = (() => {
       case 'pray': html=prayView(); break;
       case 'feeling': html=feelingsView(parts[1]); break;
       case 'timeline': html=timeline(); break;
-      case 'prayers': html=prayersView(); break;
+      case 'prayers': html=prayersView(parts[1]); break;
       case 'method': html=method(); break;
       case 'voices': html=voicesView(); break;
+      case 'saved': html=savedView(); break;
       case 'about': html=about(); break;
       default: html=notFound();
     }

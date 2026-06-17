@@ -41,6 +41,7 @@ const Narrator = (() => {
       if (!txt) { i++; return next(); }
       const u = new SpeechSynthesisUtterance(txt);
       if (v) u.voice = v;
+      u.lang = (v && v.lang) || 'en-US';   // force English pronunciation even if a non-English voice is default
       u.rate = rate; u.pitch = 0.96; u.volume = 1;
       u.onend = () => { i++; next(); };
       u.onerror = () => { i++; next(); };

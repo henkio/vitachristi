@@ -120,7 +120,15 @@ h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;letter-spacin
 
 .emos{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
 .emo{font-size:.72rem;letter-spacing:.08em;text-transform:lowercase;color:var(--ink-soft);
-  border:1px solid var(--line);border-radius:999px;padding:3px 11px;opacity:.9}
+  border:1px solid var(--line);border-radius:999px;padding:3px 11px;opacity:.9;transition:all .2s}
+a.emo:hover{border-color:var(--gold);color:var(--gold-bright)}
+.emo.on{background:var(--gold);border-color:var(--gold);color:#1a1408;opacity:1}
+
+/* save (star) button in player intro */
+.player-save{background:none;border:1px solid var(--line-strong);color:var(--muted);border-radius:999px;
+  padding:7px 16px;font-family:var(--body);font-size:.85rem;cursor:pointer;transition:all .25s;margin-top:16px}
+.player-save:hover{border-color:var(--gold);color:var(--gold-bright)}
+.player-save.on{background:var(--gold);color:#1a1408;border-color:var(--gold)}
 
 /* ---------- feature row ---------- */
 .feature{display:flex;gap:18px;align-items:flex-start;padding:22px 0;border-top:1px solid var(--line)}

@@ -9,8 +9,15 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Spectral:ital,wght@0,300;0,400;0,500;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/app.css">
-  <meta property="og:title" content="Vita Christi — Meet Him">
-  <meta property="og:description" content="A 650-year-old way of prayer. Stand inside the life of Christ as if you were there.">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.svg">
+  <meta name="theme-color" content="#0c0a08">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Vita Christi">
+  <meta property="og:title" content="Vita Christi — A way to meet Jesus">
+  <meta property="og:description" content="A 650-year-old book, still alive. Stand inside the life of Christ as if you were there.">
   <meta property="og:type" content="website">
 </head>
 <body>
@@ -20,5 +27,6 @@
   <script src="js/player.js"></script>
   <script src="js/practices.js"></script>
   <script src="js/app.js"></script>
+  <script>if('serviceWorker' in navigator){window.addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{}));}</script>
 </body>
 </html>

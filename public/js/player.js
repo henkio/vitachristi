@@ -128,9 +128,16 @@ const Player = (() => {
         <div class="ref">${s.gospelRef||''} &nbsp;·&nbsp; ${s.durationMin||4} min</div>
         <button class="btn solid" data-role="begin">Begin</button>
         <div style="margin-top:18px"><span class="emos" style="justify-content:center">${(s.emotions||[]).map(e=>`<span class="emo">${e}</span>`).join('')}</span></div>
+        ${s.type==='voice'?'':`<div><button class="player-save ${isSaved(s.id)?'on':''}" data-role="save">${isSaved(s.id)?'★ Saved':'☆ Save'}</button></div>`}
       </div>`;
     inner.querySelector('[data-role=begin]').addEventListener('click', e=>{e.stopPropagation();goto(0);});
+    const sv = inner.querySelector('[data-role=save]');
+    if(sv) sv.addEventListener('click', e=>{ e.stopPropagation(); const on=toggleSaved(s.id); sv.classList.toggle('on',on); sv.textContent = on?'★ Saved':'☆ Save'; });
   }
+
+  function getSaved(){ try{ return JSON.parse(localStorage.getItem('vc-saved')||'[]'); }catch(e){ return []; } }
+  function isSaved(id){ return getSaved().includes(id); }
+  function toggleSaved(id){ let s=getSaved(); s = s.includes(id)? s.filter(x=>x!==id):[id,...s]; localStorage.setItem('vc-saved',JSON.stringify(s.slice(0,50))); return s.includes(id); }
 
   function goto(i){
     if (idx === -1 && i === 0) { try { Ambient.start(session.theme); } catch(e){} }

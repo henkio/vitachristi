@@ -1,0 +1,14 @@
+{
+  "name": "Vita Christi — A way to meet Jesus",
+  "short_name": "Vita Christi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c0a08",
+  "theme_color": "#0c0a08",
+  "description": "An immersive contemplation of the life of Christ, drawn from the Vita Jesu Christi of Ludolph of Saxony (1374).",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
