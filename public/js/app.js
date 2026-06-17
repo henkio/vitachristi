@@ -151,6 +151,14 @@ const App = (() => {
 
       <div class="divider"></div>
       <div class="section" style="text-align:center">
+        <div class="kicker" style="display:block;margin-bottom:14px">Stand inside the scene</div>
+        <h2 style="font-size:2rem;margin-bottom:10px">See it through their eyes</h2>
+        <p style="color:var(--ink-soft);max-width:520px;margin:0 auto 22px">Enter a scene as one who was there — Mary at the cross, Magdalene at the tomb, a shepherd in the field. Every detail from the Gospel; the eyes are yours.</p>
+        <a class="btn ghost" href="#/voices">Enter through a witness</a>
+      </div>
+
+      <div class="divider"></div>
+      <div class="section" style="text-align:center">
         <div class="kicker" style="display:block;margin-bottom:14px">Come as you are</div>
         <h2 style="font-size:2rem;margin-bottom:8px">Begin with a feeling</h2>
         <p style="color:var(--ink-soft);max-width:480px;margin:0 auto 22px">Choose what you carry today. A retreat will meet you there.</p>
@@ -204,10 +212,14 @@ const App = (() => {
   function timeline(){
     const byAct = {};
     register.forEach(r=>{(byAct[r.act]=byAct[r.act]||[]).push(r);});
+    const liveCount = register.filter(r=>r.live).length;
+    const complete = register.length>0 && liveCount>=register.length;
     let html = nav('timeline') + `<div class="wrap section">
       <div class="kicker">The complete life of Christ</div>
       <h1 style="font-size:2.6rem;margin:6px 0 8px">The Life</h1>
-      <p style="color:var(--ink-soft);max-width:580px;margin-bottom:10px">All ${register.length} chapters of the <em>Vita Christi</em>, in order. The lit ones are ready to pray; the rest are being translated.</p>`;
+      <p style="color:var(--ink-soft);max-width:580px;margin-bottom:10px">${complete
+        ? `All ${register.length} chapters of the <em>Vita Christi</em>, in order — the whole life of Christ, from before time to the Last Judgment. Every one is ready to pray.`
+        : `All ${register.length} chapters of the <em>Vita Christi</em>, in order. The lit ones are ready to pray; the rest are being translated.`}</p>`;
     Object.keys(byAct).sort((a,b)=>a-b).forEach(act=>{
       html += `<div class="act"><div class="act-head"><span class="n">${act}</span><h2>${ACTS[act]||''}</h2></div>`;
       byAct[act].forEach(r=>{

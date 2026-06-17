@@ -1,6 +1,6 @@
 /* Immersive session player — Ludolph's five movements, revealed slowly. */
 const Player = (() => {
-  let el, screens = [], idx = 0, session = null;
+  let el, screens = [], idx = 0, session = null, reading = false;
 
   const MOVEMENTS = [
     { key:'stillness', name:'Be Still' },
@@ -114,7 +114,7 @@ const Player = (() => {
   }
 
   function showIntro(s){
-    idx = -1;
+    idx = -1; reading = false;
     const inner = el.querySelector('[data-role=inner]');
     const isVoice = s.type==='voice';
     el.querySelector('[data-role=mlabel]').textContent = isVoice ? 'A Voice' : `Part ${s.part} · Chapter ${s.chapter}`;
@@ -129,10 +129,13 @@ const Player = (() => {
         <button class="btn solid" data-role="begin">Begin</button>
         <div style="margin-top:18px"><span class="emos" style="justify-content:center">${(s.emotions||[]).map(e=>`<span class="emo">${e}</span>`).join('')}</span></div>
         ${s.type==='voice'?'':`<div><button class="player-save ${isSaved(s.id)?'on':''}" data-role="save">${isSaved(s.id)?'★ Saved':'☆ Save'}</button></div>`}
+        ${s.type==='voice'?'':`<div class="intro-read"><button class="text-link" data-role="read">Read the whole chapter →</button><span class="intro-read-note">The full text, if you'd rather read than pray.</span></div>`}
       </div>`;
     inner.querySelector('[data-role=begin]').addEventListener('click', e=>{e.stopPropagation();goto(0);});
     const sv = inner.querySelector('[data-role=save]');
     if(sv) sv.addEventListener('click', e=>{ e.stopPropagation(); const on=toggleSaved(s.id); sv.classList.toggle('on',on); sv.textContent = on?'★ Saved':'☆ Save'; });
+    const rd = inner.querySelector('[data-role=read]');
+    if(rd) rd.addEventListener('click', e=>{ e.stopPropagation(); showReader(); });
   }
 
   function getSaved(){ try{ return JSON.parse(localStorage.getItem('vc-saved')||'[]'); }catch(e){ return []; } }
@@ -141,6 +144,7 @@ const Player = (() => {
 
   function goto(i){
     if (idx === -1 && i === 0) { try { Ambient.start(session.theme); } catch(e){} }
+    reading = false;
     idx = i;
     el.querySelector('[data-role=hint]').style.visibility = 'visible';
     renderProgress();
@@ -170,6 +174,7 @@ const Player = (() => {
   }
 
   function next(){
+    if (reading) return;    // reading the full chapter — taps don't advance
     if (idx === -1) return; // intro handled by Begin button
     Narrator.cancel();
     if (idx < screens.length-1){ goto(idx+1); }
@@ -177,22 +182,77 @@ const Player = (() => {
   }
 
   function showEnd(){
+    reading = false;
     el.querySelector('[data-role=mlabel]').textContent='';
     el.querySelector('[data-role=hint]').style.visibility='hidden';
     el.querySelectorAll('.progress .seg').forEach(s=>s.classList.add('done'));
+    const j = session.latinJewel || {};
+    const carry = j.latin ? `<div class="carry">
+        <div class="carry-name">Carry this with you</div>
+        <p class="carry-latin">${j.latin}</p>
+        <p class="carry-en">${j.english||''}</p>
+      </div>` : '';
+    const deeper = session.type==='voice' ? '' :
+      `<div class="end-deeper"><button class="text-link" data-role="read">Stay, and read the whole chapter →</button></div>`;
     const inner = el.querySelector('[data-role=inner]');
     inner.innerHTML = `
       <div class="session-end">
         <div class="cross">✝</div>
         <h2>Amen.</h2>
         <p>Stay with him a moment, before you go.</p>
+        ${carry}
         <div class="btn-row">
           <button class="btn" data-role="again">Pray again</button>
           <button class="btn ghost" data-role="done">Return</button>
         </div>
+        ${deeper}
       </div>`;
     inner.querySelector('[data-role=again]').addEventListener('click',e=>{e.stopPropagation();goto(0);});
     inner.querySelector('[data-role=done]').addEventListener('click',e=>{e.stopPropagation();close();});
+    const rd = inner.querySelector('[data-role=read]');
+    if(rd) rd.addEventListener('click', e=>{ e.stopPropagation(); showReader(); });
+  }
+
+  // ---------- reading mode: the whole chapter, as quiet prose ----------
+  function readerHTML(s){
+    const m = s.movements || {};
+    const block = (name, arr, cls) => (arr && arr.length)
+      ? `<div class="rd-move"><div class="rd-name">${name}</div>${arr.map(t=>`<p class="${cls||''}">${t}</p>`).join('')}</div>` : '';
+    let body = '';
+    body += block('Be Still', m.stillness);
+    if (s.gospelRef || (m.gospel && m.gospel.length))
+      body += `<div class="rd-move"><div class="rd-name">The Gospel</div>${s.gospelRef?`<p class="rd-ref">${s.gospelRef}</p>`:''}${(m.gospel||[]).map(t=>`<p class="rd-gospel">${t}</p>`).join('')}</div>`;
+    body += block('Behold', m.behold);
+    body += block('Consider', m.consider);
+    if (s.latinJewel && s.latinJewel.latin)
+      body += `<div class="rd-jewel"><p class="rd-latin">${s.latinJewel.latin}</p><p class="rd-en">${s.latinJewel.english||''}</p></div>`;
+    body += block('Pray', m.prayer, 'rd-prayer');
+    return `<div class="reader" data-role="reader">
+      <div class="rd-head">
+        <div class="tag">${s.theme||''}${s.lens?' · '+s.lens:''}</div>
+        <h1>${s.title}</h1>
+        <div class="sub">${s.subtitle||''}</div>
+      </div>
+      ${body}
+      <div class="rd-source">Drawn from Ludolph of Saxony, <em>Vita Jesu Christi</em> — Part ${s.part}, Chapter ${s.chapter}. The words are his; nothing is added.</div>
+      <div class="rd-actions">
+        <button class="btn" data-role="rd-begin">Pray this scene</button>
+        <button class="btn ghost" data-role="rd-back">← Back</button>
+      </div>
+    </div>`;
+  }
+
+  function showReader(){
+    reading = true;
+    Narrator.cancel();
+    el.querySelector('[data-role=mlabel]').textContent = 'The whole chapter';
+    el.querySelector('[data-role=progress]').innerHTML = '';
+    el.querySelector('[data-role=hint]').style.visibility = 'hidden';
+    const inner = el.querySelector('[data-role=inner]');
+    inner.innerHTML = readerHTML(session);
+    const stage = el.querySelector('.stage'); if (stage) stage.scrollTop = 0;
+    inner.querySelector('[data-role=rd-back]').addEventListener('click', e=>{ e.stopPropagation(); showIntro(session); });
+    inner.querySelector('[data-role=rd-begin]').addEventListener('click', e=>{ e.stopPropagation(); goto(0); });
   }
 
   function open(s){
