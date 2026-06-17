@@ -112,7 +112,7 @@ const App = (() => {
         <div class="kicker">A 650-year-old book, still alive</div>
         <h1>A way to meet Jesus.</h1>
         <div class="latin">Ac si præsens esses.</div>
-        <p class="lead">Six hundred years ago, a Carthusian monk gathered the whole life of Christ and wrote a quiet way to pray it — to stand inside each scene as if you were there. What he wrote in his monastery is, in the spirit, simply a deeply valuable book. It still speaks today.</p>
+        <p class="lead">Six hundred years ago a Carthusian monk wrote down the whole life of Christ — not to be read, but to be entered. He asks one thing of you: stand inside each scene as if you were there. His words are direct, unhurried, unsoftened — and still, six centuries on, alive.</p>
         <div class="btn-row">
           ${todayPick()?`<a class="btn solid" href="#/session/${todayPick().id}">Today's meditation</a>`:''}
           <a class="btn ghost" href="#/journeys">Explore the journeys</a>

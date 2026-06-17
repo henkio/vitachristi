@@ -3974,8 +3974,8 @@
     "id": "risen-to-magdalene",
     "part": "II",
     "chapter": "LXXII",
-    "title": "All Hail",
-    "subtitle": "The risen Lord meets the women returning from the tomb, and they hold His feet",
+    "title": "Mary, and the Voice That Knew Her",
+    "subtitle": "The risen Lord speaks one word — her name — and turns her grief into joy",
     "theme": "Resurrection",
     "lens": "Beholding",
     "emotions": [
@@ -3986,12 +3986,36 @@
     "journeys": [
       "risen"
     ],
-    "gospelRef": "Matthew 28:9–10; John 20:18",
+    "gospelRef": "John 20:14–18",
+    "durationMin": 5,
+    "prayerPreview": [
+      "But, O sweet Jesus, why do you so keep off from your sacred and most longed-for feet one who loves you?",
+      "Do not touch me, you say. Why, O Lord?",
+      "And why may I not touch those longed-for footprints of yours,"
+    ]
+  },
+  {
+    "id": "the-three-marys",
+    "part": "II",
+    "chapter": "LXXIII",
+    "title": "All Hail",
+    "subtitle": "The risen Lord meets the three Marys on the road, and they hold his feet",
+    "theme": "Resurrection",
+    "lens": "Beholding",
+    "emotions": [
+      "joy",
+      "wonder",
+      "love"
+    ],
+    "journeys": [
+      "risen"
+    ],
+    "gospelRef": "Matthew 28:9–10",
     "durationMin": 5,
     "prayerPreview": [
       "O Jesus, our redemption, our love and our longing,",
-      "who to the devout women seeking You, desiring You,",
-      "and returning from Your tomb,"
+      "who, rising from the dead, willed in your mercy to meet and appear",
+      "to the devout women seeking you, desiring you, returning from your tomb:"
     ]
   },
   {
