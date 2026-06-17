@@ -111,6 +111,7 @@ const App = (() => {
         <div class="kicker">The life of Christ, as prayer</div>
         <h1>A way to meet Jesus.</h1>
         <div class="latin">Ac si præsens esses.</div>
+        <div style="color:var(--muted);font-size:.95rem;font-style:italic;margin-top:2px">“As if you were there.”</div>
         <p class="lead">Stand inside the Gospel — at the manger, in the garden, beneath the cross — as if you were there. Read it slowly, picture the scene, and speak to him. One moment a day, and the life of Christ becomes a place you can enter.</p>
         <div class="btn-row">
           ${todayPick()?`<a class="btn solid" href="#/session/${todayPick().id}">Today's meditation</a>`:''}
