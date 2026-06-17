@@ -65,6 +65,11 @@
     "from": "The Agony in the Garden"
   },
   {
+    "latin": "Zelus domus tuæ comedit me.",
+    "english": "The zeal of your house has consumed me.",
+    "from": "The Whip of Cords"
+  },
+  {
     "latin": "Ignem veni mittere in terram, et quid volo, nisi ut accendatur?",
     "english": "I came to cast fire upon the earth, and what do I will, but that it be kindled?",
     "from": "Fire Cast Upon the Earth"
@@ -205,6 +210,11 @@
     "from": "Matins: The First Interrogation"
   },
   {
+    "latin": "Dilexit, et diligit sic vehementer et non diligitur, cum tamen ad talem et tantum ignem non solum calefieri, sed etiam ardere deberemus.",
+    "english": "He loved, and He loves, so vehemently, and is not loved in return — when at so great a fire we ought not only to grow warm, but even to burn.",
+    "from": "The Lord Ascends into Heaven"
+  },
+  {
     "latin": "Et ideo, quam saepe locorum recreabatur visitationibus, et quem genuerat fideli spiritu, mentis complexabatur amplexibus!",
     "english": "And so, how often was she refreshed by visiting those places, and embraced in the arms of her mind, with faithful spirit, the One she had borne!",
     "from": "The Falling-Asleep of the Virgin"
@@ -238,6 +248,11 @@
     "latin": "Infelix mercator Judas, qui tantum dedit pro tanto, Deum pro nummo, verum pro vano, æternum pro transitorio!",
     "english": "Wretched merchant Judas, who gave so much for so little: God for a coin, the true for the empty, the eternal for the passing!",
     "from": "The Price of a Friend"
+  },
+  {
+    "latin": "Nam sicut flos non violat arborem, sed ornat; sic Dei Filius non violavit Virginem, sed magis donis et gratiis adornavit.",
+    "english": "For as the flower does not violate the tree, but adorns it, so the Son of God did not violate the Virgin, but the more adorned her with gifts and graces.",
+    "from": "The Flowering Rod"
   },
   {
     "latin": "Non clamor, sed amor sonat in aure Dei.",
@@ -340,6 +355,11 @@
     "from": "No Place to Lay His Head"
   },
   {
+    "latin": "Ubi prius erat area damnatorum, ibi erigerentur vexilla Martyrum, et ubi abundavit peccatum, superabundaret gratia Dei.",
+    "english": "Where before was the field of the condemned, there the banners of the Martyrs would be raised; and where sin abounded, the grace of God would more abound.",
+    "from": "The Place of the Skull"
+  },
+  {
     "latin": "Si vis ergo fructus justitiæ ad finem tenere, recede de via, et plantare in loco secreto, ut nec mundus tecum aliquid habeat commune, nec tu cum mundo.",
     "english": "If, then, you would hold the fruit of justice to the end, withdraw from the road, and be planted in a hidden place, that the world may have nothing in common with you, nor you with the world.",
     "from": "The Withered Fig Tree"
@@ -373,6 +393,11 @@
     "latin": "Quis ita dormit quando voluerit, sicut Jesus mortuus est, quando voluit?",
     "english": "Who so falls asleep when he wills, as Jesus died when He willed?",
     "from": "Into Your Hands"
+  },
+  {
+    "latin": "Si male et contra veritatem locutus sum, demonstra et testimonium perhibe de malo; si autem bene, quid me cædis injuste?",
+    "english": "If I have spoken wrongly and against the truth, show it and bear witness to the wrong; but if rightly, why do you strike me unjustly?",
+    "from": "The Struck Cheek"
   },
   {
     "latin": "Quod ergo Rex esse voluit Israel, dignatio est non promotio, miserationis indicium, non potestatis augmentum; qui enim appellatus est in terra Rex Judæorum, in cœlis est Dominus Angelorum.",
@@ -615,6 +640,11 @@
     "from": "Behold and Do"
   },
   {
+    "latin": "Cujus enim vel saxeum pectus, illæ hujus peccatricis mulieris lacrymæ, ad exemplum pœnitendi non emolliant?",
+    "english": "Whose breast, though it were of stone, would the tears of this sinful woman not soften, as a pattern of penance?",
+    "from": "The Tears of the Magdalene"
+  },
+  {
     "latin": "Nemo enim bonus, nisi solus et unus Deus.",
     "english": "For no one is good, except the one and only God.",
     "from": "What Do I Still Lack?"
@@ -668,6 +698,11 @@
     "latin": "Nam ideo nudi accedimus ad lavacrum, ut nudi ad cœli januam properemus.",
     "english": "For we come naked to the font, that naked we may hasten to the gate of heaven.",
     "from": "The Eye of the Needle"
+  },
+  {
+    "latin": "Non oportebat eum horrea dilatare, bene erant horrea parata, scilicet pauperum esurientium ventres.",
+    "english": "He had no need to enlarge his barns; good barns already stood prepared for him — namely, the bellies of the hungry poor.",
+    "from": "The Rich Fool and His Barns"
   },
   {
     "latin": "Divitibus sunt nomina in culmine mundi, sed pauperibus sunt nomina in aula Dei.",
@@ -745,6 +780,11 @@
     "from": "The Image on the Coin"
   },
   {
+    "latin": "Si tetigero tantum vestimentum ejus, salva ab infirmitate mea ero.",
+    "english": "If I shall touch only His garment, I shall be healed of my infirmity.",
+    "from": "Only Touch the Hem"
+  },
+  {
     "latin": "Sic est in terra animæ, quia tota fortitudo ejus consistit in ingressu, scilicet in occasionibus peccatorum, et propter hoc necessaria est bona custodia circa ipsum.",
     "english": "So it is in the land of the soul: for its whole strength stands in the entrance — that is, in the occasions of sins — and for this a good watch about it is necessary.",
     "from": "The Guarded Gateway"
@@ -780,6 +820,11 @@
     "from": "The Wedding Garment"
   },
   {
+    "latin": "Felices qui bene colunt et non negligunt, augent et non diminuunt, conservant et non destruunt!",
+    "english": "Happy are they who till well and do not neglect, who increase and do not diminish, who keep and do not destroy!",
+    "from": "The Vineyard and the Blood-Stained Tenants"
+  },
+  {
     "latin": "Non quantum, sed ex quanto dederis, considerat Deus.",
     "english": "God considers not how much, but out of how much, you give.",
     "from": "The Widow's Two Coins"
@@ -793,6 +838,11 @@
     "latin": "Simulata æquitas non est æquitas, sed duplex iniquitas.",
     "english": "Feigned righteousness is not righteousness, but a double iniquity.",
     "from": "The Eight Woes"
+  },
+  {
+    "latin": "Confessio oris tactum meruit divinæ pietatis. Felix tactus, ad quem tanta sequitur virtus!",
+    "english": "The confession of the mouth earned the touch of divine tenderness. O happy touch, upon which such great power follows!",
+    "from": "Have Mercy on Us, Son of David"
   },
   {
     "latin": "Venit enim non perdere quod invenerit, sed quærere quod perierat.",

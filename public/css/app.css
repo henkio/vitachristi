@@ -230,6 +230,21 @@ h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;letter-spacin
 .player-sound:hover{opacity:1}
 .player-sound.muted{color:var(--faint);position:relative}
 .player-sound.muted::after{content:"";position:absolute;left:-2px;right:-2px;top:50%;height:1px;background:var(--faint);transform:rotate(-20deg)}
+.player-gear{background:none;border:none;color:var(--muted);font-size:1.1rem;cursor:pointer;transition:color .25s;line-height:1}
+.player-gear:hover{color:var(--gold)}
+.player-settings{position:absolute;top:54px;right:18px;z-index:5;width:280px;
+  background:linear-gradient(160deg,var(--panel-2),var(--bg-2));border:1px solid var(--line-strong);
+  border-radius:6px;padding:18px;box-shadow:var(--shadow);text-align:left}
+.player-settings[hidden]{display:none}
+.ps-group{margin-bottom:18px}
+.ps-group:last-child{margin-bottom:0}
+.ps-label{font-size:.72rem;text-transform:uppercase;letter-spacing:.2em;color:var(--gold);margin-bottom:8px}
+.ps-select{width:100%;background:var(--bg);color:var(--ink);border:1px solid var(--line);border-radius:3px;
+  padding:7px 9px;font-family:var(--body);font-size:.88rem;margin-bottom:8px}
+.ps-toggle{display:flex;align-items:center;gap:9px;color:var(--ink-soft);font-size:.9rem;cursor:pointer;margin-bottom:9px}
+.ps-toggle input{accent-color:var(--gold);width:15px;height:15px}
+.ps-rate{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:.7rem;text-transform:uppercase;letter-spacing:.08em}
+.ps-rate input{flex:1;accent-color:var(--gold)}
 
 /* ---------- ways to pray ---------- */
 .ways{display:grid;gap:16px;grid-template-columns:1fr 1fr}

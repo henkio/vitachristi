@@ -74,6 +74,31 @@
     ]
   },
   {
+    "id": "the-betrothal-of-mary",
+    "part": "I",
+    "chapter": "III",
+    "title": "The Flowering Rod",
+    "subtitle": "How Mary, vowed to God, was betrothed to Joseph when his rod alone burst into bloom",
+    "theme": "Incarnation",
+    "lens": "Beholding",
+    "emotions": [
+      "humility",
+      "trust",
+      "love"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Isaiah 11:1 (with Numbers 17:8)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus, flower out of the root of Jesse,",
+      "You did not violate the Virgin, but adorned her the more with gifts and graces.",
+      "You are the flower in the promise, the fruit in grace and truth;"
+    ]
+  },
+  {
     "id": "the-conception-of-the-forerunner",
     "part": "I",
     "chapter": "IV",
@@ -863,6 +888,30 @@
     ]
   },
   {
+    "id": "good-works-without-seeking-human-praise",
+    "part": "I",
+    "chapter": "XXXVI",
+    "title": "The Whip of Cords",
+    "subtitle": "Christ drives the merchants from the temple, consumed with zeal for his Father's house",
+    "theme": "Sermon on the Mount",
+    "lens": "Awakening",
+    "emotions": [
+      "humility",
+      "gravity",
+      "trust"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "John 2:13–17",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus, let the zeal of your house consume me.",
+      "Make a whip even of my own sins,",
+      "and drive out from the temple of my heart all that I keep there for sale —"
+    ]
+  },
+  {
     "id": "the-our-father",
     "part": "I",
     "chapter": "XXXVII",
@@ -1423,6 +1472,31 @@
     ]
   },
   {
+    "id": "the-penance-of-mary-magdalene",
+    "part": "I",
+    "chapter": "LX",
+    "title": "The Tears of the Magdalene",
+    "subtitle": "A sinful woman washes the feet of Christ in the house of Simon",
+    "theme": "Calling & Discipleship",
+    "lens": "Awakening",
+    "emotions": [
+      "repentance",
+      "love",
+      "sorrow"
+    ],
+    "journeys": [
+      "humility",
+      "daily"
+    ],
+    "gospelRef": "Luke 7:36–38",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus, what she shamefully used for the odor of her flesh,",
+      "this she now offered to Thee in praise.",
+      "With my eyes I have sought Thee upon the earth."
+    ]
+  },
+  {
     "id": "martha-s-service-and-mary-s-repose",
     "part": "I",
     "chapter": "LXI",
@@ -1446,6 +1520,30 @@
       "Lord Jesus Christ, who for us camest in the flesh,",
       "through the union of the divine nature and the human,",
       "let the bowels of thy mercy be moved over me,"
+    ]
+  },
+  {
+    "id": "the-woman-of-samaria",
+    "part": "I",
+    "chapter": "LXII",
+    "title": "Have Mercy on Us, Son of David",
+    "subtitle": "Two blind men cry out on the road, and a mute man is freed from the demon that bound his tongue",
+    "theme": "Miracles",
+    "lens": "Awakening",
+    "emotions": [
+      "longing",
+      "wonder",
+      "joy"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 9:27–34",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, light of eternal brightness,",
+      "illumine my inner eyes,",
+      "that I may never fall asleep in the death of the soul;"
     ]
   },
   {
@@ -1737,6 +1835,30 @@
     ]
   },
   {
+    "id": "the-true-kindred-of-christ",
+    "part": "I",
+    "chapter": "LXXV",
+    "title": "Only Touch the Hem",
+    "subtitle": "The bleeding woman reaches through the crowd for the edge of His garment",
+    "theme": "Conflict & Opposition",
+    "lens": "Following",
+    "emotions": [
+      "love",
+      "hope",
+      "humility"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Luke 8:43–48 (with Matthew 9:20–22; Mark 5:25–34)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ, I adore the feet of Thy mercy and Thy truth:",
+      "I beseech Thee, most loving One, heal by the touch of Thy grace my soul, bloodied and stained with manifold sins.",
+      "Raise it up from the death of an evil and hidden will and purpose,"
+    ]
+  },
+  {
     "id": "the-rebuke-of-the-pharisees-and-lawyers",
     "part": "I",
     "chapter": "LXXVI",
@@ -1758,6 +1880,30 @@
       "Lord Jesus, you would not be a judge of inheritance or a divider of estates,",
       "for you came to gather, not to scatter,",
       "to make many to have one heart and one soul."
+    ]
+  },
+  {
+    "id": "the-rich-fool-and-his-barns",
+    "part": "I",
+    "chapter": "LXXVII",
+    "title": "The Rich Fool and His Barns",
+    "subtitle": "A man begs Christ to divide his inheritance, and a rich man dreams of greater barns",
+    "theme": "Parables",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "longing",
+      "repentance"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Luke 12:13–18",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus, You who are not the God of division, but of gathering, of peace, and of unity,",
+      "You who came to make men of one heart and one soul, that they might hold all things in common:",
+      "turn me away from the earthly, for whose sake You stooped to descend."
     ]
   },
   {
@@ -2882,6 +3028,30 @@
     ]
   },
   {
+    "id": "the-wicked-tenants-of-the-vineyard",
+    "part": "II",
+    "chapter": "XXXIII",
+    "title": "The Vineyard and the Blood-Stained Tenants",
+    "subtitle": "The householder plants his vineyard, sends his servants, and at last his Son — who is cast outside the wall and killed",
+    "theme": "Parables",
+    "lens": "Awakening",
+    "emotions": [
+      "gravity",
+      "sorrow",
+      "repentance"
+    ],
+    "journeys": [
+      "daily"
+    ],
+    "gospelRef": "Matthew 21:33–43",
+    "durationMin": 5,
+    "prayerPreview": [
+      "A vineyard has been let out to us, O Lord,",
+      "and let out on this condition:",
+      "that we render the fruit to you in its seasons."
+    ]
+  },
+  {
     "id": "the-wedding-feast-and-the-wedding-garmen",
     "part": "II",
     "chapter": "XXXIV",
@@ -3588,6 +3758,31 @@
     ]
   },
   {
+    "id": "the-crucifixion-at-the-sixth-hour",
+    "part": "II",
+    "chapter": "LXIII",
+    "title": "The Place of the Skull",
+    "subtitle": "The Sixth Hour: led outside the gate to Calvary, given wine mingled with gall",
+    "theme": "The Passion",
+    "lens": "Compassion",
+    "emotions": [
+      "sorrow",
+      "love",
+      "gravity"
+    ],
+    "journeys": [
+      "passion",
+      "daily"
+    ],
+    "gospelRef": "Matthew 27:33–34; Mark 15:22–23; John 19:17; Psalm 68:22 (Vulg.)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus, they gave you gall for your food,",
+      "and in your thirst they gave you vinegar to drink;",
+      "they sought to embitter the inmost heart of you, most sweet Lord."
+    ]
+  },
+  {
     "id": "the-dying-christ",
     "part": "II",
     "chapter": "LXIV",
@@ -3993,6 +4188,56 @@
       "Lord Jesus Christ,",
       "by your glorious Resurrection,",
       "in which, living and immortal, you appeared to your disciples and faithful;"
+    ]
+  },
+  {
+    "id": "the-ascension-of-the-lord",
+    "part": "II",
+    "chapter": "LXXXII",
+    "title": "The Lord Ascends into Heaven",
+    "subtitle": "The fortieth day: Christ is lifted up and sits at the right hand of the Father",
+    "theme": "Consummation",
+    "lens": "Beholding",
+    "emotions": [
+      "joy",
+      "wonder",
+      "longing"
+    ],
+    "journeys": [
+      "risen",
+      "daily"
+    ],
+    "gospelRef": "Mark 16:19; Luke 24:50–52; Acts 1:9–11",
+    "durationMin": 4,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who hast deigned, through Scripture and the teaching of the Gospel,",
+      "to call us to the catholic faith,"
+    ]
+  },
+  {
+    "id": "the-end-and-profit-of-the-gospel-and-fai",
+    "part": "II",
+    "chapter": "LXXXIII",
+    "title": "The Struck Cheek",
+    "subtitle": "Christ bound before Annas at the hour of Matins, and the blow upon his face",
+    "theme": "Consummation",
+    "lens": "Beholding",
+    "emotions": [
+      "gratitude",
+      "hope",
+      "trust"
+    ],
+    "journeys": [
+      "risen",
+      "daily"
+    ],
+    "gospelRef": "John 18:13–23 (with Matthew 26, Mark 14, Luke 22)",
+    "durationMin": 5,
+    "prayerPreview": [
+      "Lord Jesus Christ,",
+      "who at the hour of Matins, before Annas,",
+      "received a blow from an officer,"
     ]
   },
   {
