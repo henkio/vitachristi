@@ -188,7 +188,7 @@ a.emo:hover{border-color:var(--gold);color:var(--gold-bright)}
 .player::before{content:"";position:fixed;inset:0;z-index:0;
   background:radial-gradient(120% 80% at 50% 0%, rgba(201,162,75,.08), transparent 60%)}
 
-.player-top{position:relative;z-index:2;display:flex;align-items:center;justify-content:space-between;
+.player-top{position:relative;z-index:6;display:flex;align-items:center;justify-content:space-between;
   padding:18px 24px;color:var(--muted)}
 .player-top .label{font-size:.72rem;text-transform:uppercase;letter-spacing:.26em}
 .player-close{cursor:pointer;color:var(--muted);font-size:1.5rem;line-height:1;transition:color .25s;background:none;border:none}
