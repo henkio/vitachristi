@@ -8,6 +8,12 @@ ZONE="283650e7c9960be71d0ed9be5c85c109"
 
 CT="$(grep -iA3 'Coolify API-token' "$POLO/Passwords.txt" | grep -oE '[0-9]+\|[A-Za-z0-9]{20,}' | head -1)"
 
+echo "→ stamp build version (cache-bust assets past Cloudflare's browser TTL)"
+BUILD="$(date +%Y%m%d%H%M%S)"
+sed -i '' "s/?v=[A-Za-z0-9_]*/?v=$BUILD/g" public/index.html
+git add public/index.html
+git commit -q -m "build: cache-bust assets ($BUILD)" || true
+
 echo "→ git push"
 git push -q origin main
 

@@ -41,9 +41,6 @@ const Player = (() => {
   function settingsHTML(){
     const scapes = Ambient.scapes();
     const cur = Ambient.currentScape();
-    const voiceOn = Narrator.isEnabled();
-    const supported = Narrator.isSupported();
-    const voiceOpts = Narrator.list().map(v=>`<option value="${v.uri}" ${v.uri===Narrator.currentVoice()?'selected':''}>${v.name}</option>`).join('');
     return `<div class="player-settings" data-role="settings" hidden>
       <div class="ps-group">
         <div class="ps-label">Ambient sound</div>
@@ -51,37 +48,16 @@ const Player = (() => {
           ${scapes.map(s=>`<option value="${s.id}" ${s.id===cur?'selected':''}>${s.label}</option>`).join('')}
         </select>
       </div>
-      <div class="ps-group">
-        <div class="ps-label">Read aloud ${supported?'':'(not supported here)'}</div>
-        <label class="ps-toggle"><input type="checkbox" data-role="ps-voice" ${voiceOn?'checked':''} ${supported?'':'disabled'}> <span>Voice reads the meditation</span></label>
-        <select class="ps-select" data-role="ps-voicesel" ${supported?'':'disabled'}>${voiceOpts||'<option>—</option>'}</select>
-        <div class="ps-rate"><span>slow</span><input type="range" min="0.6" max="1.15" step="0.05" value="${Narrator.getRate()}" data-role="ps-rate" ${supported?'':'disabled'}><span>fast</span></div>
-      </div>
     </div>`;
-  }
-
-  function refreshVoiceOptions(panel){
-    const vsel = panel.querySelector('[data-role=ps-voicesel]');
-    if (!vsel) return;
-    const list = Narrator.list();
-    if (!list.length || vsel.options.length === list.length) return; // nothing new to add
-    const cur = Narrator.currentVoice();
-    vsel.innerHTML = list.map(v=>`<option value="${v.uri}" ${v.uri===cur?'selected':''}>${v.name}</option>`).join('');
   }
 
   function wireSettings(){
     const gear = el.querySelector('[data-role=gear]');
     const panel = el.querySelector('[data-role=settings]');
-    gear.addEventListener('click', e=>{ e.stopPropagation(); if(panel.hidden) refreshVoiceOptions(panel); panel.hidden = !panel.hidden; });
+    gear.addEventListener('click', e=>{ e.stopPropagation(); panel.hidden = !panel.hidden; });
     panel.addEventListener('click', e=>e.stopPropagation());
     const scapeSel = panel.querySelector('[data-role=ps-scape]');
     scapeSel.addEventListener('change', e=>{ Ambient.setScape(e.target.value); if(Ambient.isMuted()){ Ambient.toggleMute(); el.querySelector('[data-role=sound]').classList.remove('muted'); } });
-    const vchk = panel.querySelector('[data-role=ps-voice]');
-    vchk.addEventListener('change', ()=>{ const on=Narrator.toggle(); vchk.checked=on; if(on && idx>=0){ revealCurrent(true); } if(!on) Narrator.cancel(); });
-    const vsel = panel.querySelector('[data-role=ps-voicesel]');
-    vsel.addEventListener('change', e=>Narrator.setVoice(e.target.value));
-    const rate = panel.querySelector('[data-role=ps-rate]');
-    rate.addEventListener('input', e=>Narrator.setRate(parseFloat(e.target.value)));
   }
 
   function ensure(){
@@ -169,17 +145,8 @@ const Player = (() => {
     const inner = el.querySelector('[data-role=inner]');
     const els = [...inner.querySelectorAll('.line')];
     if (!els.length) return;
-    const sc = screens[idx];
-    const texts = sc.lines.map(l=>l.t);
-    Narrator.cancel();
-    if (Narrator.isEnabled()){
-      if (restart) els.forEach(e=>e.classList.remove('in'));
-      Narrator.speak(texts, { onLine:(k)=>{ if(els[k]) els[k].classList.add('in'); } });
-      // fallback so text always appears even if speech stalls
-      setTimeout(()=>els.forEach(e=>e.classList.add('in')), 2500 + texts.length*3500);
-    } else {
-      els.forEach((ln,k)=>setTimeout(()=>ln.classList.add('in'), 220*k + 120));
-    }
+    if (restart) els.forEach(e=>e.classList.remove('in'));
+    els.forEach((ln,k)=>setTimeout(()=>ln.classList.add('in'), 220*k + 120));
   }
 
   function next(){

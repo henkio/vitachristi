@@ -77,7 +77,7 @@ img{max-width:100%;display:block}
 .kicker{font-size:.74rem;text-transform:uppercase;letter-spacing:.28em;color:var(--gold);opacity:.85}
 .eyebrow{font-size:.72rem;text-transform:uppercase;letter-spacing:.24em;color:var(--muted)}
 h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;letter-spacing:.005em;color:var(--ink)}
-.section{padding:64px 0}
+.section{padding-top:64px;padding-bottom:64px}
 .divider{height:1px;background:linear-gradient(to right,transparent,var(--line-strong),transparent);margin:8px 0}
 
 /* ---------- hero ---------- */
