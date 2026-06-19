@@ -115,7 +115,7 @@ const App = (() => {
         <h1>A way to meet Jesus.</h1>
         <div class="latin">Ac si præsens esses.</div>
         <div style="color:var(--muted);font-size:.95rem;font-style:italic;margin-top:2px">“As if you were there.”</div>
-        <p class="lead">Stand inside the Gospel — at the manger, in the garden, beneath the cross — as if you were there. Read it slowly, picture the scene, and speak to him. One moment a day, and the life of Christ becomes a place you can enter.</p>
+        <p class="lead">Six centuries ago a Carthusian monk, Ludolph of Saxony, gathered the whole life of Christ into one book — not to be read, but to be entered. This is his <em>Vita Christi</em>, made a way to pray: stand inside the Gospel — at the manger, in the garden, beneath the cross — as if you were there. One moment a day, and the life of Christ becomes a place you can enter.</p>
         <div class="btn-row">
           ${todayPick()?`<a class="btn solid" href="#/session/${todayPick().id}">Today's meditation</a>`:''}
           <a class="btn ghost" href="#/journeys">Explore the journeys</a>
