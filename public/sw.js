@@ -1,4 +1,4 @@
-const CACHE = 'vita-v2';
+const CACHE = 'vita-v3';
 const SHELL = ['./','./index.html','./css/app.css','./js/app.js','./js/player.js','./js/ambient.js','./js/narrator.js','./js/practices.js','./icon.svg','./manifest.webmanifest'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL).catch(()=>{})).then(()=>self.skipWaiting())); });
 self.addEventListener('activate', e => { e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())); });

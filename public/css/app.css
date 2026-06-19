@@ -68,6 +68,10 @@ img{max-width:100%;display:block}
 .nav a{transition:color .25s}
 .nav a:hover,.nav a.active{color:var(--gold-bright)}
 @media(max-width:620px){ .nav{gap:14px;font-size:.7rem;letter-spacing:.1em} .brand{font-size:1.15rem} }
+@media(max-width:560px){
+  .topbar .wrap{flex-direction:column;height:auto;gap:9px;padding-top:11px;padding-bottom:11px}
+  .nav{flex-wrap:wrap;justify-content:center;gap:10px 16px}
+}
 
 /* ---------- generic ---------- */
 .kicker{font-size:.74rem;text-transform:uppercase;letter-spacing:.28em;color:var(--gold);opacity:.85}
@@ -168,10 +172,16 @@ a.emo:hover{border-color:var(--gold);color:var(--gold-bright)}
 .player{
   position:fixed;inset:0;z-index:100;background:var(--bg);
   display:none;flex-direction:column;
-  opacity:0;transition:opacity .6s ease;
 }
 .player.open{display:flex}
-.player.show{opacity:1}
+/* The backdrop stays fully opaque; only the contents fade in, so the page
+   behind can never show through (the old whole-element opacity fade did, and
+   on a full page-load to a session URL it could get stuck see-through).
+   Visibility depends only on `.open` — which is always set — never on a
+   second class that may not arrive. */
+.player>*{opacity:0}
+.player.open>*{animation:playerFade .55s ease forwards}
+@keyframes playerFade{from{opacity:0}to{opacity:1}}
 .player.passion{background:#0e0807}
 .player.passion::before{content:"";position:fixed;inset:0;z-index:0;
   background:radial-gradient(120% 80% at 50% 0%, rgba(138,51,40,.18), transparent 60%)}
@@ -244,6 +254,7 @@ a.emo:hover{border-color:var(--gold);color:var(--gold-bright)}
   background:linear-gradient(160deg,var(--panel-2),var(--bg-2));border:1px solid var(--line-strong);
   border-radius:6px;padding:18px;box-shadow:var(--shadow);text-align:left}
 .player-settings[hidden]{display:none}
+@media(max-width:480px){ .player-settings{left:12px;right:12px;width:auto} }
 .ps-group{margin-bottom:18px}
 .ps-group:last-child{margin-bottom:0}
 .ps-label{font-size:.72rem;text-transform:uppercase;letter-spacing:.2em;color:var(--gold);margin-bottom:8px}
@@ -278,6 +289,32 @@ a.emo:hover{border-color:var(--gold);color:var(--gold-bright)}
 .bead.on{background:var(--gold);border-color:var(--gold);box-shadow:0 0 10px -2px var(--gold)}
 .count-prayer{font-family:var(--serif);font-style:italic;font-size:1.25rem;color:var(--ink-soft);max-width:460px;margin:0 auto 8px}
 .count-tap{margin-top:24px}
+
+/* ---------- return loop: resume, progress, prayed marks ---------- */
+.resume{margin-top:20px}
+.resume a{display:inline-flex;align-items:center;gap:6px;color:var(--muted);font-size:.92rem;
+  font-style:italic;transition:color .25s}
+.resume a:hover{color:var(--gold-bright)}
+.resume a span{color:var(--ink-soft);font-style:normal}
+
+.done-tag{color:var(--gold);font-style:normal;letter-spacing:.04em}
+.card.done{border-color:var(--line-strong)}
+.card.done .tag::after{content:" · prayed";color:var(--gold);opacity:.7}
+
+.progress-line{display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin-bottom:30px;
+  padding:16px 18px;border:1px solid var(--line);border-radius:4px;
+  background:linear-gradient(160deg,var(--panel),var(--bg-2))}
+.pl-count{font-size:.78rem;text-transform:uppercase;letter-spacing:.18em;color:var(--gold);white-space:nowrap}
+.pl-bar{flex:1;min-width:120px;height:3px;background:var(--line);border-radius:3px;overflow:hidden}
+.pl-fill{display:block;height:100%;background:var(--gold);transition:width .6s ease}
+.pl-done{color:var(--gold-bright);font-style:italic;font-size:.95rem}
+.progress-line .btn{padding:9px 18px;font-size:.86rem}
+
+.chapter.done .cn{color:var(--gold);opacity:.9}
+.chapter.done .ct .t{color:var(--ink-soft)}
+.chapter.next{background:rgba(201,162,75,.06);border-radius:3px}
+.chapter.next .cn{color:var(--gold-bright)}
+.chapter.next .go{opacity:1;color:var(--gold-bright)}
 
 /* ---------- intro: second door + carry-out + reading mode ---------- */
 .text-link{background:none;border:none;cursor:pointer;font-family:var(--body);font-size:.92rem;

@@ -60,10 +60,19 @@ const Player = (() => {
     </div>`;
   }
 
+  function refreshVoiceOptions(panel){
+    const vsel = panel.querySelector('[data-role=ps-voicesel]');
+    if (!vsel) return;
+    const list = Narrator.list();
+    if (!list.length || vsel.options.length === list.length) return; // nothing new to add
+    const cur = Narrator.currentVoice();
+    vsel.innerHTML = list.map(v=>`<option value="${v.uri}" ${v.uri===cur?'selected':''}>${v.name}</option>`).join('');
+  }
+
   function wireSettings(){
     const gear = el.querySelector('[data-role=gear]');
     const panel = el.querySelector('[data-role=settings]');
-    gear.addEventListener('click', e=>{ e.stopPropagation(); panel.hidden = !panel.hidden; });
+    gear.addEventListener('click', e=>{ e.stopPropagation(); if(panel.hidden) refreshVoiceOptions(panel); panel.hidden = !panel.hidden; });
     panel.addEventListener('click', e=>e.stopPropagation());
     const scapeSel = panel.querySelector('[data-role=ps-scape]');
     scapeSel.addEventListener('change', e=>{ Ambient.setScape(e.target.value); if(Ambient.isMuted()){ Ambient.toggleMute(); el.querySelector('[data-role=sound]').classList.remove('muted'); } });
@@ -181,8 +190,19 @@ const Player = (() => {
     else { showEnd(); }
   }
 
+  function markPrayed(id){
+    if (!id || id.startsWith('voice-')) return;
+    try {
+      const d = JSON.parse(localStorage.getItem('vc-done')||'{}');
+      d[id] = Date.now();
+      localStorage.setItem('vc-done', JSON.stringify(d));
+      localStorage.setItem('vc-last', String(Date.now()));
+    } catch(e){}
+  }
+
   function showEnd(){
     reading = false;
+    markPrayed(session.id);
     el.querySelector('[data-role=mlabel]').textContent='';
     el.querySelector('[data-role=hint]').style.visibility='hidden';
     el.querySelectorAll('.progress .seg').forEach(s=>s.classList.add('done'));

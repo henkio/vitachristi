@@ -60,12 +60,13 @@ const App = (() => {
     </div></div>`;
 
   function sessionCard(s){
-    return `<a class="card ${s.theme==='The Passion'?'passion':''}" href="#/session/${s.id}">
+    const done = isDone(s.id);
+    return `<a class="card ${s.theme==='The Passion'?'passion':''} ${done?'done':''}" href="#/session/${s.id}">
       <div class="tag">${s.theme||''}</div>
       <h3>${s.title}</h3>
       <p>${s.subtitle||''}</p>
       <div class="emos">${(s.emotions||[]).slice(0,3).map(e=>`<span class="emo">${e}</span>`).join('')}</div>
-      <div class="foot"><span>${s.gospelRef||''}</span><span>${s.durationMin||4} min</span></div>
+      <div class="foot"><span>${s.gospelRef||''}</span>${done?'<span class="done-tag">✓ prayed</span>':''}<span>${s.durationMin||4} min</span></div>
     </a>`;
   }
 
@@ -82,6 +83,8 @@ const App = (() => {
   }
   function getRecent(){ try{ return JSON.parse(localStorage.getItem('vc-recent')||'[]'); }catch(e){ return []; } }
   function getSaved(){ try{ return JSON.parse(localStorage.getItem('vc-saved')||'[]'); }catch(e){ return []; } }
+  function getDone(){ try{ return JSON.parse(localStorage.getItem('vc-done')||'{}'); }catch(e){ return {}; } }
+  function isDone(id){ return !!getDone()[id]; }
   function toggleSaved(id){
     let s=getSaved(); s = s.includes(id)? s.filter(x=>x!==id) : [id,...s];
     localStorage.setItem('vc-saved', JSON.stringify(s.slice(0,50))); return s.includes(id);
@@ -117,6 +120,9 @@ const App = (() => {
           ${todayPick()?`<a class="btn solid" href="#/session/${todayPick().id}">Today's meditation</a>`:''}
           <a class="btn ghost" href="#/journeys">Explore the journeys</a>
         </div>
+        ${(()=>{ const r=getRecent().map(id=>sessionsById[id]).filter(Boolean); if(!r.length) return '';
+          const pick=r.find(s=>!isDone(s.id))||r[0];
+          return `<div class="resume"><a href="#/session/${pick.id}">↩ Continue where you left off — <span>${pick.title}</span></a></div>`; })()}
       </div>
       <div class="divider"></div>
 
@@ -199,11 +205,20 @@ const App = (() => {
   function journey(id){
     const j = JOURNEYS.find(x=>x.id===id); if(!j) return notFound();
     const list = sessions.filter(s=>(s.journeys||[]).includes(id));
+    const done = list.filter(s=>isDone(s.id)).length;
+    const next = list.find(s=>!isDone(s.id));
+    const progress = list.length?`<div class="progress-line">
+      <span class="pl-count">${done} of ${list.length} prayed</span>
+      <span class="pl-bar"><span class="pl-fill" style="width:${Math.round(done/list.length*100)}%"></span></span>
+      ${next?`<a class="btn ghost" href="#/session/${next.id}">${done?'Continue':'Begin'} → ${next.title}</a>`
+        :`<span class="pl-done">✓ You have prayed the whole journey.</span>`}
+    </div>`:'';
     return nav('journeys') + `<div class="wrap section">
       <a href="#/journeys" style="color:var(--muted);font-size:.85rem">← All journeys</a>
       <div class="kicker" style="margin-top:18px">${j.sub}</div>
       <h1 style="font-size:2.8rem;margin:6px 0 10px">${j.title}</h1>
-      <p style="color:var(--ink-soft);max-width:580px;margin-bottom:30px">${j.desc}</p>
+      <p style="color:var(--ink-soft);max-width:580px;margin-bottom:22px">${j.desc}</p>
+      ${progress}
       ${list.length?`<div class="grid two">${list.map(sessionCard).join('')}</div>`
         :`<p style="color:var(--muted)">Sessions for this journey are being prepared.</p>`}
     </div>` + footer();
@@ -296,16 +311,26 @@ const App = (() => {
   function retreatDetail(id){
     const r = retreats.find(x=>x.id===id); if(!r) return notFound();
     const days = r.days.map(d=>sessionsById[d]).filter(Boolean);
+    const done = days.filter(s=>isDone(s.id)).length;
+    const nextId = (days.find(s=>!isDone(s.id))||{}).id;
+    const progress = days.length?`<div class="progress-line">
+      <span class="pl-count">${done} of ${days.length} days</span>
+      <span class="pl-bar"><span class="pl-fill" style="width:${Math.round(done/days.length*100)}%"></span></span>
+      ${nextId?`<a class="btn ghost" href="#/session/${nextId}">${done?'Continue the retreat':'Begin the retreat'} →</a>`
+        :`<span class="pl-done">✓ Retreat complete.</span>`}
+    </div>`:'';
     return nav('retreats') + `<div class="wrap section">
       <a href="#/retreats" style="color:var(--muted);font-size:.85rem">← All retreats</a>
       <div class="kicker" style="margin-top:18px">${r.sub} · for ${r.emotion}</div>
       <h1 style="font-size:2.8rem;margin:6px 0 10px">${r.title}</h1>
-      <p style="color:var(--ink-soft);max-width:600px;margin-bottom:30px">${r.desc}</p>
-      ${days.map((s,i)=>`<div class="chapter live" onclick="location.hash='#/session/${s.id}'">
-        <span class="cn">Day ${i+1}</span>
+      <p style="color:var(--ink-soft);max-width:600px;margin-bottom:22px">${r.desc}</p>
+      ${progress}
+      ${days.map((s,i)=>{ const dn=isDone(s.id); const nx=s.id===nextId;
+        return `<div class="chapter live ${dn?'done':''} ${nx?'next':''}" onclick="location.hash='#/session/${s.id}'">
+        <span class="cn">${dn?'✓':'Day '+(i+1)}</span>
         <span class="ct"><span class="t">${s.title}</span> <span class="s">${s.gospelRef||''}</span></span>
-        <span class="go">pray →</span>
-      </div>`).join('')}
+        <span class="go">${dn?'pray again →':'pray →'}</span>
+      </div>`; }).join('')}
     </div>` + footer();
   }
 
